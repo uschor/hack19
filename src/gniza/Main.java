@@ -15,8 +15,8 @@ public class Main
 {
     public static void main(String[] args) throws IOException
     {
-        new Main("Easy_Hebrew", 5, 2, 2).Compute();
-//        new Main("synthetic/utf8/", 5, 2, 2).Compute();
+//        new Main("temp", 5, 2, 2).Compute();
+        new Main("synthetic/utf8/", 5, 2, 2).Compute();
     }
 
     private final GnizaReader gnizaReader;
