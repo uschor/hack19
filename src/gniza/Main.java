@@ -25,20 +25,6 @@ public class Main
     {
         gnizaReader = new GnizaReaderImpl(dir);
         WordsSearcher wordsSearcher = new FuzzySearch(slop, maxEdits);
-        new WordsSearcher()
-        {
-            @Override
-            public List<SearchResult> Search(int length, String... words)
-            {
-                List<SearchResult> result = new ArrayList<>();
-                for (String word : words) {
-                    for (int i = 0; i < 4; i++) {
-                        result.add(new SearchResult(new Random().nextDouble(), new ReferenceDetail(TypeBook.Bavli, word)));
-                    }
-                }
-                return result;
-            }
-        };
         searcher = new TextSearcherImpl(wordsSearcher, groupWordLength);
     }
 
