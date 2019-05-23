@@ -15,7 +15,8 @@ public class Main
 {
     public static void main(String[] args) throws IOException
     {
-        new Main("Easy_Hebrew", 5, 2, 2).Compute();
+//        new Main("temp", 5, 2, 2).Compute();
+        new Main("synthetic/utf8/", 5, 2, 2).Compute();
     }
 
     private final GnizaReader gnizaReader;
@@ -38,7 +39,7 @@ public class Main
 
     private void ComputeFile(FileGniza file) throws IOException
     {
-        System.out.println(file.getName());
+        System.out.println("**** " + file.getName() + "****");
         List<SearchResult> result = searcher.Search(file.getLines());
         result.sort((o1, o2) -> (int) Math.round(o2.getPropability() - o1.getPropability()));
         for (SearchResult searchResult : result) {
