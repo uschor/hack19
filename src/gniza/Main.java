@@ -7,6 +7,7 @@ import gniza.logic.TextSearcherImpl;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 import java.util.Random;
 
@@ -54,9 +55,10 @@ public class Main
     {
         System.out.println("**** " + file.getName() + "****");
         List<SearchResult> result = searcher.Search(file.getLines());
+        result.sort((o1, o2) -> (int) Math.round(o2.getPropability() - o1.getPropability()));
         for (SearchResult searchResult : result) {
             ReferenceDetail referenceDetail = searchResult.getReferenceDetail();
-            System.out.println(referenceDetail.getName() + "." + referenceDetail.getTypeBook() + "-" + searchResult.getPropability());
+            System.out.println(referenceDetail.getName() + "=>" + referenceDetail.getTypeBook() + " : " + searchResult.getPropability());
 
         }
 
