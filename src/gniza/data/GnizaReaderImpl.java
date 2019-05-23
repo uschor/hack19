@@ -23,7 +23,9 @@ public class GnizaReaderImpl implements gniza.beans.GnizaReader
     {
         List<FileGniza> result = new ArrayList<>();
         for (File file : new File(dir).listFiles()) {
-            result.add(new FileGniza(ReadFile(file),file.getName()));
+            String[] lines = ReadFile(file);
+            if (lines.length > 0)
+                result.add(new FileGniza(lines, file.getName()));
         }
         return result;
     }

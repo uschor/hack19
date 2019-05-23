@@ -24,6 +24,7 @@ public class TextSearcherImpl implements TextSearcher
     public List<SearchResult> Search(String text)
     {
         List<String> tokens = tokenizer.Tokenize(text, false);
+        tokens.addAll(tokenizer.Tokenize(text, true));
         List<List<SearchResult>> allResults = SearchInWords(tokens);
         List<SearchResult> result = resultCalculator.CalculateResults(allResults);
         return result;
@@ -32,6 +33,7 @@ public class TextSearcherImpl implements TextSearcher
     public List<SearchResult> Search(String[] lines)
     {
         List<String> tokens = tokenizer.Tokenize(lines, false);
+        tokens.addAll(tokenizer.Tokenize(lines, true));
         List<List<SearchResult>> allResults = SearchInWords(tokens);
         List<SearchResult> result = resultCalculator.CalculateResults(allResults);
         return result;
