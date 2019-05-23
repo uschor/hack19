@@ -29,14 +29,31 @@ class Tokenizer
         String[] tokens = row.split(" ");
         for (String token : tokens) {
 
+            token=Fix(token);
             if (WordIsValid(token))
                 result.add(token);
         }
     }
 
-    private boolean WordIsValid(String tokenize)
+    private String Fix(String token)
+    {
+        return token
+                .replace("[מחיקה]","?")
+                .replace("[/מחיקה]","?")
+                .replace("[/תוספת]","?")
+                .replace("[פגום]","?")
+                ;
+    }
+
+    private boolean WordIsValid(String token)
     {
         //TODO words not valid
-        return !"פגום".equals(tokenize);
+        switch (token) {
+            case "[ציור]":
+            case "[/תוספת]":
+            case "[פגום]":
+            case "?":return false;
+            default:return true;
+        }
     }
 }

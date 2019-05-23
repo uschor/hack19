@@ -41,8 +41,8 @@ class ResultCalculator
                 score.Propabilities.add(searchResult.getPropability());
                 return;
             }
-            scores.add(new ResultScore(searchResult.getReferenceDetail(), searchResult.getPropability()));
         }
+        scores.add(new ResultScore(searchResult.getReferenceDetail(), searchResult.getPropability()));
     }
 
     private boolean ResultsAreSimilar(ReferenceDetail first, ReferenceDetail second)

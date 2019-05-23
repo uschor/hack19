@@ -4,5 +4,5 @@ import java.util.List;
 
 public interface WordsSearcher
 {
-    List<SearchResult> Search(String... words);
+    List<SearchResult> Search(int lengthText,String... words);
 }

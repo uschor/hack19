@@ -5,5 +5,5 @@ import java.util.List;
 
 public interface GnizaReader
 {
-    List<String[]> readFiles() throws IOException;
+    List<FileGniza> readFiles() throws IOException;
 }

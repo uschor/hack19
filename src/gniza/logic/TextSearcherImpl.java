@@ -43,7 +43,7 @@ public class TextSearcherImpl implements TextSearcher
         int endWords = tokens.size() - (groupWordLength - 1);
         for (int i = 0; i < endWords; i++) {
             String[] nextWords = NextWords(tokens, i);
-            List<SearchResult> currentResult = wordsSearcher.Search(nextWords);
+            List<SearchResult> currentResult = wordsSearcher.Search(tokens.size(),nextWords);
             if (currentResult.size() > 0)
                 allResults.add(currentResult);
         }

@@ -2,6 +2,16 @@ package gniza.beans;
 
 public class ReferenceDetail
 {
+    public ReferenceDetail(TypeBook typeBook, String name)
+    {
+        this.typeBook = typeBook;
+        Name = name;
+    }
+
+    public ReferenceDetail()
+    {
+    }
+
     private TypeBook typeBook=TypeBook.Other;
     private String Name;
 

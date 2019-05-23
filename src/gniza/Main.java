@@ -1,12 +1,14 @@
 package gniza;
 
-import gniza.beans.GnizaReader;
-import gniza.beans.TextSearcher;
-import gniza.beans.WordsSearcher;
+import gniza.beans.*;
 import gniza.data.GnizaReaderImpl;
 import gniza.logic.TextSearcherImpl;
 
+import java.io.Console;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Random;
 
 public class Main
 {
@@ -21,21 +23,41 @@ public class Main
     public Main(String dir, int groupWordLength)
     {
         gnizaReader = new GnizaReaderImpl(dir);
-        WordsSearcher wordsSearcher = null;
+        WordsSearcher wordsSearcher = new WordsSearcher()
+        {
+            @Override
+            public List<SearchResult> Search(int length,String... words)
+            {
+                List<SearchResult> result = new ArrayList<>();
+                for (String word : words) {
+                    for (int i = 0; i < 4; i++) {
+                        result.add(new SearchResult(new Random().nextDouble(), new ReferenceDetail(TypeBook.Bavli, word)));
+                    }
+                }
+                return result;
+            }
+        };
         searcher = new TextSearcherImpl(wordsSearcher, groupWordLength);
     }
 
 
     private void Compute() throws IOException
     {
-        for (String[] file : gnizaReader.readFiles()) {
+        for (FileGniza file : gnizaReader.readFiles()) {
             ComputeFile(file);
         }
     }
 
-    private void ComputeFile(String[] lines) throws IOException
+    private void ComputeFile(FileGniza file) throws IOException
     {
-        searcher.Search(lines);
+        System.out.println(file.getName());
+        List<SearchResult> result = searcher.Search(file.getLines());
+        for (SearchResult searchResult : result) {
+            ReferenceDetail referenceDetail = searchResult.getReferenceDetail();
+            System.out.println(referenceDetail.getName() + "." + referenceDetail.getTypeBook() + "-" + searchResult.getPropability());
+
+        }
+
     }
 }
 

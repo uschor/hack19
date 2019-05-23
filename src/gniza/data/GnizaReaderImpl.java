@@ -1,5 +1,7 @@
 package gniza.data;
 
+import gniza.beans.FileGniza;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -17,11 +19,11 @@ public class GnizaReaderImpl implements gniza.beans.GnizaReader
     }
 
     @Override
-    public List<String[]> readFiles() throws IOException
+    public List<FileGniza> readFiles() throws IOException
     {
-        List<String[]> result = new ArrayList<>();
+        List<FileGniza> result = new ArrayList<>();
         for (File file : new File(dir).listFiles()) {
-            result.add(ReadFile(file));
+            result.add(new FileGniza(ReadFile(file),file.getName()));
         }
         return result;
     }
@@ -38,9 +40,9 @@ public class GnizaReaderImpl implements gniza.beans.GnizaReader
         List<String> result = new ArrayList<>();
 
         try (BufferedReader br = new BufferedReader(new FileReader(file));) {
-            String st;
-            while ((st = br.readLine()) != null)
-                result.add(st);
+            String line;
+            while ((line = br.readLine()) != null)
+                result.add(line);
         }
         return result.toArray(new String[result.size()]);
     }
