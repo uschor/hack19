@@ -2,9 +2,9 @@ package gniza;
 
 import gniza.beans.*;
 import gniza.data.GnizaReaderImpl;
+import gniza.logic.FuzzySearch;
 import gniza.logic.TextSearcherImpl;
 
-import java.io.Console;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -14,19 +14,20 @@ public class Main
 {
     public static void main(String[] args) throws IOException
     {
-        new Main("Easy_Hebrew", 5).Compute();
+        new Main("Easy_Hebrew", 5, 2, 2).Compute();
     }
 
     private final GnizaReader gnizaReader;
     private final TextSearcher searcher;
 
-    public Main(String dir, int groupWordLength)
+    public Main(String dir, int groupWordLength, int slop, int maxEdits)
     {
         gnizaReader = new GnizaReaderImpl(dir);
-        WordsSearcher wordsSearcher = new WordsSearcher()
+        WordsSearcher wordsSearcher = new FuzzySearch(slop, maxEdits);
+        new WordsSearcher()
         {
             @Override
-            public List<SearchResult> Search(int length,String... words)
+            public List<SearchResult> Search(int length, String... words)
             {
                 List<SearchResult> result = new ArrayList<>();
                 for (String word : words) {
