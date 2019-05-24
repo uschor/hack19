@@ -4,6 +4,7 @@ import gniza.beans.SearchResult;
 import gniza.beans.TextSearcher;
 import gniza.beans.WordsSearcher;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -21,7 +22,7 @@ public class TextSearcherImpl implements TextSearcher
     }
 
     @Override
-    public List<SearchResult> Search(String text)
+    public List<SearchResult> Search(String text) throws IOException
     {
         List<String> tokens = tokenizer.Tokenize(text, false);
         tokens.addAll(tokenizer.Tokenize(text, true));
@@ -30,7 +31,7 @@ public class TextSearcherImpl implements TextSearcher
         return result;
 
     }
-    public List<SearchResult> Search(String[] lines)
+    public List<SearchResult> Search(String[] lines) throws IOException
     {
         List<String> tokens = tokenizer.Tokenize(lines, false);
         tokens.addAll(tokenizer.Tokenize(lines, true));
@@ -39,7 +40,7 @@ public class TextSearcherImpl implements TextSearcher
         return result;
 
     }
-    private List<List<SearchResult>> SearchInWords(List<String> tokens)
+    private List<List<SearchResult>> SearchInWords(List<String> tokens) throws IOException
     {
         List<List<SearchResult>> allResults = new ArrayList<>();
         int endWords = tokens.size() - (groupWordLength - 1);

@@ -34,7 +34,7 @@ public class Main
         }
     }
 
-    private void ComputeFile(FileGniza file)
+    private void ComputeFile(FileGniza file) throws IOException
     {
         System.out.println("**** " + file.getName() + "****");
         List<SearchResult> result = searcher.Search(file.getLines());
