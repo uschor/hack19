@@ -121,7 +121,7 @@ public class GennizaServer
                 e.printStackTrace();
             }
             StringWriter writer = new StringWriter();
-            if (result.size() == 0)
+            if (result.size() > 0)
                 for (SearchResult searchResult : result) {
                     ReferenceDetail referenceDetail = searchResult.getReferenceDetail();
                     writer.write(referenceDetail.getName() + "=>" + referenceDetail.getTypeBook() + " : " + searchResult.getPropability());

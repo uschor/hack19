@@ -7,7 +7,7 @@ var app = new Vue({
     methods: {
         query() {
             debugger
-            axios.get('/user?ID=12345')
+            axios.post('localhost:9999/identify')
                 .then(function (response) {
                     // handle success
                     console.log(response);
