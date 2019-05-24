@@ -1,6 +1,7 @@
 package gniza.logic;
 
 import java.io.IOException;
+import java.net.URI;
 import java.nio.file.Paths;
 import java.util.*;
 
@@ -23,23 +24,22 @@ public class FuzzySearch implements WordsSearcher
 
     public FuzzySearch()
     {
-        this(2, 2);
+        this(2, 2, "index");
     }
 
     /**
      * @param slop
      * @param maxEdits
+     * @param indexDir
      */
-    public FuzzySearch(int slop, int maxEdits)
+    public FuzzySearch(int slop, int maxEdits, String indexDir)
     {
         this.slop = slop;
         this.maxEdits = maxEdits;
 
-        // TODO parameterize
-        String index = "index";
         IndexReader reader;
         try {
-            reader = DirectoryReader.open(FSDirectory.open(Paths.get(index)));
+            reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexDir)));
             searcher = new IndexSearcher(reader);
         } catch (IOException e) {
             e.printStackTrace();

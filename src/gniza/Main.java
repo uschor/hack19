@@ -6,26 +6,23 @@ import gniza.logic.FuzzySearch;
 import gniza.logic.TextSearcherImpl;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.List;
-import java.util.Random;
 
 public class Main
 {
     public static void main(String[] args) throws IOException
     {
 //        new Main("temp", 5, 2, 2).Compute();
-        new Main("synthetic/utf8/", 5, 2, 2).Compute();
+        new Main("synthetic/utf8/", 5, 2, 2,"index").Compute();
     }
 
     private final GnizaReader gnizaReader;
     private final TextSearcher searcher;
 
-    public Main(String dir, int groupWordLength, int slop, int maxEdits)
+    public Main(String dir, int groupWordLength, int slop, int maxEdits,String indexDir)
     {
         gnizaReader = new GnizaReaderImpl(dir);
-        WordsSearcher wordsSearcher = new FuzzySearch(slop, maxEdits);
+        WordsSearcher wordsSearcher = new FuzzySearch(slop, maxEdits, indexDir);
         searcher = new TextSearcherImpl(wordsSearcher, groupWordLength);
     }
 
