@@ -115,7 +115,6 @@ public class GennizaServer {
 				System.out.println(e.getMessage());
 				e.printStackTrace();
 			}
-	        result.sort((o1, o2) -> (int) Math.round(o2.getPropability() - o1.getPropability()));
 	        for (SearchResult searchResult : result) {
 	            ReferenceDetail referenceDetail = searchResult.getReferenceDetail();
 	            responseWriter.write("\t"+referenceDetail.getName() + "=>" + referenceDetail.getTypeBook() + " : " + searchResult.getPropability());

@@ -37,6 +37,7 @@ public class TextSearcherImpl implements TextSearcher
         tokens.addAll(tokenizer.Tokenize(lines, true));
         List<List<SearchResult>> allResults = SearchInWords(tokens);
         List<SearchResult> result = resultCalculator.CalculateResults(allResults);
+        result.sort((o1, o2) -> (int) Math.round(o2.getPropability() - o1.getPropability()));
         return result;
 
     }
