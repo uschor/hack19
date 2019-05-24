@@ -4,6 +4,7 @@ import gniza.beans.SearchResult;
 import gniza.beans.TextSearcher;
 import gniza.beans.WordsSearcher;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -45,7 +46,13 @@ public class TextSearcherImpl implements TextSearcher
         int endWords = tokens.size() - (groupWordLength - 1);
         for (int i = 0; i < endWords; i++) {
             String[] nextWords = NextWords(tokens, i);
-            List<SearchResult> currentResult = wordsSearcher.Search(tokens.size(),nextWords);
+            List<SearchResult> currentResult = null;
+			try {
+				currentResult = wordsSearcher.Search(tokens.size(), nextWords);
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
             if (currentResult.size() > 0)
                 allResults.add(currentResult);
         }
