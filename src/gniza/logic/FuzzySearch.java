@@ -16,13 +16,15 @@ import gniza.beans.*;
 public class FuzzySearch implements WordsSearcher
 {
 
+    static final String FTD = "contents";
+    static final String PATH_PROPERTY = "path";
     private IndexSearcher searcher = null;
 
     private int slop;
 
     private int maxEdits;
 
-    public FuzzySearch()
+    public FuzzySearch() throws IOException
     {
         this(2, 2, "index");
     }
@@ -32,31 +34,27 @@ public class FuzzySearch implements WordsSearcher
      * @param maxEdits
      * @param indexDir
      */
-    public FuzzySearch(int slop, int maxEdits, String indexDir)
+    public FuzzySearch(int slop, int maxEdits, String indexDir) throws IOException
     {
         this.slop = slop;
         this.maxEdits = maxEdits;
 
         IndexReader reader;
-        try {
-            reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexDir)));
-            searcher = new IndexSearcher(reader);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+        reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexDir)));
+        searcher = new IndexSearcher(reader);
     }
 
     @Override
-    public List<SearchResult> Search(int lengthText, String... words)
+    public List<SearchResult> Search(int lengthText, String... words) throws IOException
     {
         Query query = null;
         if (words.length == 1) {
-            query = new FuzzyQuery(new Term("contents", words[0]), maxEdits);
+            query = new FuzzyQuery(new Term(FTD, words[0]), maxEdits);
         } else {
             SpanQuery[] clauses = new SpanQuery[words.length];
             for (int i = 0; i < words.length; i++) {
                 clauses[i] = new SpanMultiTermQueryWrapper<MultiTermQuery>(
-                        new FuzzyQuery(new Term("contents", words[i]), maxEdits));
+                        new FuzzyQuery(new Term(FTD, words[i]), maxEdits));
             }
             query = new SpanNearQuery(clauses, slop, true);
         }
@@ -74,15 +72,10 @@ public class FuzzySearch implements WordsSearcher
         for (int i = 0; i < hits.length; i++) {
             ReferenceDetail book = new ReferenceDetail();
             Document doc;
-            try {
-                doc = searcher.doc(hits[i].doc);
-                String path = doc.get("path");
-                book.setName(path);
-                results.add(new SearchResult(1.0, book));
-            } catch (IOException e) {
-                // TODO Auto-generated catch block
-                e.printStackTrace();
-            }
+            doc = searcher.doc(hits[i].doc);
+            String path = doc.get(PATH_PROPERTY);
+            book.setName(path);
+            results.add(new SearchResult(1.0, book));
         }
         return results;
     }
