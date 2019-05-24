@@ -1,5 +1,6 @@
 package gniza.logic;
 
+import java.io.File;
 import java.io.IOException;
 import java.net.URI;
 import java.nio.file.Paths;
@@ -74,7 +75,7 @@ public class FuzzySearch implements WordsSearcher
             Document doc;
             doc = searcher.doc(hits[i].doc);
             String path = doc.get(PATH_PROPERTY);
-            book.setName(path);
+            book.setName(new File(path).getName().replace(".txt",""));
             results.add(new SearchResult(1.0, book));
         }
         return results;

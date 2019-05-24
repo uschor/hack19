@@ -124,7 +124,7 @@ public class GennizaServer
             if (result.size() > 0)
                 for (SearchResult searchResult : result) {
                     ReferenceDetail referenceDetail = searchResult.getReferenceDetail();
-                    writer.write(referenceDetail.getName() + "=>" + referenceDetail.getTypeBook() + " : " + searchResult.getPropability());
+                    writer.write( referenceDetail.getName() + " : " + searchResult.getPropability()+"<br>");
                     //System.out.println("\t"+referenceDetail.getName() + "=>" + referenceDetail.getTypeBook() + " : " + searchResult.getPropability());
                 }
             else

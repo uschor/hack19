@@ -6,9 +6,18 @@ var app = new Vue({
     },
     methods: {
         query() {
+            //var input='ואת שתי קצות שתי העבותות תיתן';
+            var input= document.getElementById('input').value;
             debugger
-            axios.post('localhost:9999/identify')
+            axios({
+                method: 'post',
+                url: 'http://localhost:9999/identify',
+                headers: {'Content-Type': 'text/plain'},
+                data:input
+            })
+            // axios.post('http://localhost:9999/identify')
                 .then(function (response) {
+                    document.getElementById('result').innerHTML=response.data;
                     // handle success
                     console.log(response);
                 })
