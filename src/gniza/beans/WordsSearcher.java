@@ -5,5 +5,5 @@ import java.util.List;
 
 public interface WordsSearcher
 {
-    List<SearchResult> Search(int lengthText,String... words) throws IOException;
+    List<SearchResult> Search(String... words) throws IOException;
 }

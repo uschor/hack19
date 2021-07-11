@@ -1,8 +1,6 @@
 package gniza.logic;
 
-import java.io.File;
-import java.io.IOException;
-import java.net.URI;
+import java.io.*;
 import java.nio.file.Paths;
 import java.util.*;
 
@@ -46,7 +44,7 @@ public class FuzzySearch implements WordsSearcher
     }
 
     @Override
-    public List<SearchResult> Search(int lengthText, String... words) throws IOException
+    public List<SearchResult> Search(String... words) throws IOException
     {
         Query query = null;
         if (words.length == 1) {

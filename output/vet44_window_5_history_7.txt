@@ -1,0 +1,11214 @@
+2	Behar3
+3	Behar3
+4	Behar3
+5	Behar3
+6	Behar3
+7	Behar3
+8	Behar3
+9	Behar3
+10	Behar3
+11	Behar3
+12	Behar3
+13	Behar3
+14	Behar3
+15	Behar3
+16	Behar3
+17	Behar3
+18	Behar3
+19	Behar3
+20	Behar3
+21	Behar3
+22	Behar3
+23	Behar3
+24	Behar3
+25	Behar3
+26	Behar3
+27	Behar3
+28	Behar3
+29	Behar3
+30	Behar3
+31	Behar3
+32	Behar3
+33	Behar3
+34	Behar3
+35	Behar3
+36	Behar3
+37	Behar3
+38	Behar3
+39	Behar3
+40	Behar3
+41	Behar3
+42	Behar3
+43	Behar3
+44	Bamidbar8
+45	Behar4
+46	Behar4
+47	Behar4
+48	Behar4
+49	Bechukotai1
+50	Bechukotai1
+51	Bechukotai1
+52	Bechukotai1
+53	Bechukotai1
+54	Bechukotai1
+55	Bechukotai1
+56	Bechukotai1
+57	Bechukotai1
+58	Bechukotai1
+59	Bechukotai1
+60	Bechukotai1
+61	Bechukotai1
+62	Bechukotai1
+63	Bechukotai2
+64	Bechukotai2
+65	Bechukotai2
+66	Bechukotai2
+67	Bechukotai2
+68	Bechukotai2
+69	Bechukotai2
+70	Bechukotai2
+71	Bechukotai2
+72	Bechukotai2
+73	Bechukotai2
+74	Bechukotai2
+75	Bechukotai2
+76	Bechukotai2
+77	Bechukotai2
+78	Bechukotai3
+79	Bechukotai3
+80	Bechukotai3
+81	Bechukotai3
+82	Bechukotai3
+83	Bechukotai3
+84	Bechukotai3
+85	Bechukotai3
+86	Bechukotai3
+87	Bechukotai3
+88	Bechukotai3
+89	Bechukotai3
+90	Bechukotai3
+91	Bechukotai3
+92	Bechukotai3
+93	Bechukotai3
+94	Bechukotai3
+95	Bechukotai3
+96	Bechukotai3
+97	Bechukotai3
+98	Bechukotai3
+99	Bechukotai3
+100	Bechukotai3
+101	Bechukotai3
+102	Bechukotai3
+103	Bechukotai3
+104	Bechukotai3
+105	Bechukotai3
+106	Bechukotai3
+107	Bechukotai3
+108	Bechukotai3
+109	Bechukotai3
+110	Pekudei11
+111	Pekudei11
+112	Pekudei11
+113	Pekudei11
+114	Bechukotai3
+115	Bechukotai3
+116	Bechukotai3
+117	Bechukotai3
+118	Bechukotai3
+119	Bechukotai3
+120	Bechukotai3
+121	Bechukotai3
+122	Bechukotai3
+123	Bechukotai3
+124	Bechukotai3
+125	Bechukotai3
+126	Bechukotai3
+127	Bechukotai3
+128	Bechukotai3
+129	Bechukotai3
+130	Bechukotai3
+131	Bechukotai3
+132	Bechukotai3
+133	Bechukotai3
+134	Bechukotai3
+135	Bechukotai3
+136	Bechukotai3
+137	Bechukotai3
+138	Bechukotai4
+139	Bechukotai4
+140	Bechukotai4
+141	Bechukotai4
+142	Bechukotai4
+143	Bechukotai4
+144	Bechukotai4
+145	Bechukotai4
+146	Bechukotai4
+147	Bechukotai4
+148	Bechukotai4
+149	Bechukotai4
+150	Bechukotai4
+151	Bechukotai4
+152	Bechukotai4
+153	Bechukotai4
+154	Bechukotai4
+155	Bechukotai4
+156	Bechukotai4
+157	Bechukotai4
+158	Bechukotai4
+159	Bechukotai4
+160	Bechukotai4
+161	Bechukotai4
+162	Bechukotai4
+163	Bechukotai4
+164	Bechukotai4
+165	Bechukotai4
+166	Bechukotai4
+167	Bechukotai4
+168	Bechukotai4
+169	Bechukotai4
+170	Bechukotai4
+171	Bechukotai4
+172	Bechukotai4
+173	Bechukotai5
+174	Bechukotai5
+175	Bechukotai5
+176	Bechukotai5
+177	Bechukotai5
+178	Bechukotai5
+179	Bechukotai5
+180	Bechukotai5
+181	Bechukotai5
+182	Bechukotai5
+183	Bechukotai5
+184	Bechukotai5
+185	Bechukotai5
+186	Bechukotai5
+187	Bechukotai5
+188	Bechukotai5
+189	Bechukotai5
+190	Bechukotai5
+191	Bechukotai5
+192	Bechukotai5
+193	Bechukotai5
+194	Bechukotai5
+195	Bechukotai5
+196	Bechukotai5
+197	Bechukotai5
+198	Bechukotai5
+199	Bechukotai5
+200	Bechukotai5
+201	Bechukotai5
+202	Bechukotai5
+203	Bechukotai5
+204	Bechukotai5
+205	Bechukotai5
+206	Bechukotai5
+207	Bechukotai5
+208	Bechukotai5
+209	Bechukotai5
+210	Bechukotai5
+211	Bechukotai5
+212	Bechukotai5
+213	Bechukotai5
+214	Bechukotai5
+215	Bechukotai5
+216	Bechukotai5
+217	Bechukotai5
+218	Bechukotai5
+219	Bechukotai5
+220	Bechukotai5
+221	Bechukotai5
+222	Bechukotai5
+223	Bechukotai5
+224	Bechukotai5
+225	Bechukotai5
+226	Bechukotai5
+227	Bechukotai5
+228	Bechukotai5
+229	Bechukotai5
+230	Bechukotai5
+231	Bechukotai5
+232	Bechukotai5
+233	Bechukotai5
+234	Bechukotai6
+235	Bechukotai6
+236	Bechukotai6
+237	Bechukotai6
+238	Bechukotai6
+239	Bechukotai6
+240	Bechukotai6
+241	Bechukotai6
+242	Bechukotai6
+243	Bechukotai6
+244	Bechukotai6
+245	Bechukotai6
+246	Bechukotai6
+247	Bechukotai6
+248	Bechukotai6
+249	Bechukotai6
+250	Bechukotai6
+251	Bechukotai6
+252	Bechukotai6
+253	Bechukotai6
+254	Bechukotai6
+255	Bechukotai6
+256	Bechukotai6
+257	Bechukotai6
+258	Bechukotai6
+259	Bechukotai6
+260	Bechukotai6
+261	Bechukotai6
+262	Bechukotai6
+263	Bechukotai6
+264	Bechukotai6
+265	Bamidbar1
+266	Bamidbar1
+267	Bamidbar1
+268	Bamidbar1
+269	Bamidbar1
+270	Bamidbar1
+271	Bamidbar1
+272	Bamidbar1
+273	Bamidbar1
+274	Bamidbar1
+275	Bamidbar1
+276	Bamidbar2
+277	Bamidbar2
+278	Bamidbar2
+279	Bamidbar2
+280	Bamidbar2
+281	Bamidbar2
+282	Bamidbar2
+283	Bamidbar2
+284	Bamidbar2
+285	Bamidbar2
+286	Bamidbar2
+287	Bamidbar2
+288	Bamidbar2
+289	Bamidbar2
+290	Bamidbar2
+291	Bamidbar2
+292	Bamidbar2
+293	Bamidbar2
+294	Bamidbar2
+295	Bamidbar2
+296	Bamidbar2
+297	Bamidbar2
+298	Bamidbar2
+299	Bamidbar2
+300	Bamidbar2
+301	Bamidbar2
+302	Bamidbar2
+303	Bamidbar2
+304	Bamidbar2
+305	Bamidbar2
+306	Bamidbar2
+307	Bamidbar2
+308	Bamidbar2
+309	Bamidbar2
+310	Bamidbar2
+311	Bamidbar2
+312	Bamidbar2
+313	Bamidbar2
+314	Bamidbar2
+315	Bamidbar2
+316	Bamidbar2
+317	Bamidbar2
+318	Bamidbar2
+319	Bamidbar2
+320	Bamidbar2
+321	Bamidbar3
+322	Bamidbar3
+323	Bamidbar3
+324	Bamidbar3
+325	Bamidbar3
+326	Bamidbar3
+327	Bamidbar3
+328	Bamidbar3
+329	Bamidbar3
+330	Bamidbar3
+331	Bamidbar3
+332	Bamidbar3
+333	Bamidbar3
+334	Bamidbar3
+335	Bamidbar3
+336	Bamidbar3
+337	Bamidbar3
+338	Bamidbar3
+339	Bamidbar3
+340	Bamidbar3
+341	Bamidbar3
+342	Bamidbar3
+343	Terumah9
+344	Bamidbar4
+345	Bamidbar4
+346	Bamidbar4
+347	Bamidbar4
+348	Bamidbar4
+349	Bamidbar4
+350	Bamidbar4
+351	Bamidbar4
+352	Bamidbar4
+353	Bamidbar4
+354	Bamidbar4
+355	Bamidbar4
+356	Bamidbar4
+357	Bamidbar4
+358	Bamidbar4
+359	Bamidbar4
+360	Bamidbar5
+361	Bamidbar5
+362	Bamidbar5
+363	Bamidbar5
+364	Bamidbar5
+365	Bamidbar5
+366	Bamidbar5
+367	Bamidbar5
+368	Bamidbar5
+369	Bamidbar5
+370	Bamidbar5
+371	Bamidbar5
+372	Bamidbar5
+373	Bamidbar5
+374	Bamidbar5
+375	Bamidbar5
+376	Bamidbar5
+377	Bamidbar5
+378	Bamidbar5
+379	Bamidbar5
+380	Bamidbar6
+381	Bamidbar6
+382	Bamidbar6
+383	Bamidbar6
+384	Bamidbar6
+385	Bamidbar6
+386	Bamidbar6
+387	Bamidbar6
+388	Bamidbar6
+389	Bamidbar6
+390	Bamidbar6
+391	Bamidbar6
+392	Bamidbar6
+393	Bamidbar7
+394	Bamidbar7
+395	Bamidbar7
+396	Bamidbar7
+397	Bamidbar7
+398	Bamidbar7
+399	Bamidbar8
+400	Bamidbar8
+401	Bamidbar8
+402	Bamidbar8
+403	Bamidbar9
+404	Bamidbar9
+405	Bamidbar9
+406	Bamidbar9
+407	Bamidbar9
+408	Bamidbar9
+409	Bamidbar9
+410	Bamidbar9
+411	Bamidbar9
+412	Bamidbar9
+413	Bamidbar9
+414	Bamidbar9
+415	Bamidbar9
+416	Bamidbar9
+417	Bamidbar9
+418	Bamidbar9
+419	Bamidbar9
+420	Bamidbar9
+421	Bamidbar9
+422	Bamidbar10
+423	Bamidbar10
+424	Bamidbar10
+425	Bamidbar10
+426	Bamidbar10
+427	Bamidbar10
+428	Bamidbar10
+429	Bamidbar10
+430	Bamidbar10
+431	Bamidbar10
+432	Bamidbar10
+433	Bamidbar20
+434	Bamidbar10
+435	Bamidbar10
+436	Bamidbar10
+437	Bamidbar10
+438	Bamidbar10
+439	Bamidbar10
+440	Bamidbar10
+441	Bamidbar10
+442	Bamidbar11
+443	Bamidbar11
+444	Bamidbar11
+445	Bamidbar11
+446	Bamidbar11
+447	Bamidbar11
+448	Bamidbar11
+449	Bamidbar11
+450	Bamidbar11
+451	Bamidbar11
+452	Bamidbar11
+453	Bamidbar11
+454	Bamidbar11
+455	Bamidbar11
+456	Bamidbar12
+457	Bamidbar12
+458	Bamidbar12
+459	Bamidbar12
+460	Bamidbar12
+461	Bamidbar12
+462	Bamidbar12
+463	Bamidbar12
+464	Bamidbar12
+465	Bamidbar12
+466	Bamidbar12
+467	Bamidbar12
+468	Bamidbar12
+469	Bamidbar12
+470	Bamidbar12
+471	Bamidbar12
+472	Bamidbar12
+473	Bamidbar12
+474	Bamidbar12
+475	Bamidbar12
+476	Bamidbar12
+477	Bamidbar12
+478	Bamidbar12
+479	Bamidbar12
+480	Bamidbar12
+481	Bamidbar12
+482	Bamidbar12
+483	Bamidbar12
+484	Bamidbar12
+485	Bamidbar12
+486	Bamidbar12
+487	Bamidbar12
+488	Bamidbar12
+489	Bamidbar12
+490	Bamidbar12
+491	Bamidbar12
+492	Bamidbar12
+493	Bamidbar12
+494	Bamidbar12
+495	Bamidbar12
+496	Bamidbar12
+497	Bamidbar12
+498	Bamidbar12
+499	Bamidbar12
+500	Bamidbar12
+501	Bamidbar12
+502	Bamidbar12
+503	Bamidbar12
+504	Bamidbar12
+505	Bamidbar12
+506	Bamidbar12
+507	Bamidbar12
+508	Bamidbar12
+509	Bamidbar12
+510	Bamidbar12
+511	Bamidbar12
+512	Bamidbar12
+513	Bamidbar12
+514	Bamidbar12
+515	Bamidbar12
+516	Bamidbar12
+517	Bamidbar12
+518	Bamidbar12
+519	Bamidbar12
+520	Bamidbar12
+521	Bamidbar12
+522	Bamidbar12
+523	Bamidbar12
+524	Bamidbar12
+525	Bamidbar12
+526	Bamidbar12
+527	Bamidbar12
+528	Bamidbar13
+529	Bamidbar13
+530	Bamidbar13
+531	Bamidbar13
+532	Bamidbar13
+533	Bamidbar13
+534	Bamidbar13
+535	Bamidbar13
+536	Bamidbar13
+537	Bamidbar13
+538	Bamidbar13
+539	Bamidbar13
+540	Bamidbar14
+541	Bamidbar14
+542	Bamidbar14
+543	Bamidbar14
+544	Bamidbar14
+545	Bamidbar14
+546	Bamidbar14
+547	Bamidbar14
+548	Bamidbar14
+549	Bamidbar14
+550	Bamidbar14
+551	Bamidbar14
+552	Bamidbar14
+553	Bamidbar14
+554	Bamidbar14
+555	Bamidbar14
+556	Bamidbar14
+557	Bamidbar14
+558	Bamidbar14
+559	Bamidbar14
+560	Bamidbar14
+561	Bamidbar14
+562	Bamidbar14
+563	Bamidbar14
+564	Bamidbar14
+565	Bamidbar14
+566	Bamidbar14
+567	Bamidbar15
+568	Bamidbar15
+569	Bamidbar15
+570	Bamidbar15
+571	Bamidbar15
+572	Bamidbar15
+573	Bamidbar15
+574	Bamidbar15
+575	Bamidbar15
+576	Bamidbar15
+577	Bamidbar15
+578	Bamidbar15
+579	Bamidbar15
+580	Bamidbar15
+581	Bamidbar15
+582	Bamidbar15
+583	Bamidbar15
+584	Bamidbar15
+585	Bamidbar15
+586	Bamidbar15
+587	Bamidbar16
+588	Bamidbar16
+589	Bamidbar16
+590	Bamidbar16
+591	Bamidbar16
+592	Bamidbar15
+593	Bamidbar16
+594	Bamidbar16
+595	Bamidbar16
+596	Bamidbar16
+597	Bamidbar16
+598	Bamidbar16
+599	Bamidbar16
+600	Bamidbar16
+601	Bamidbar16
+602	Bamidbar16
+603	Bamidbar16
+604	Bamidbar16
+605	Bamidbar16
+606	Bamidbar16
+607	Bamidbar16
+608	Bamidbar16
+609	Bamidbar16
+610	Bamidbar16
+611	Bamidbar16
+612	Bamidbar16
+613	Bamidbar16
+614	Bamidbar16
+615	Bamidbar16
+616	Bamidbar17
+617	Bamidbar17
+618	Bamidbar17
+619	Bamidbar17
+620	Bamidbar17
+621	Bamidbar17
+622	Bamidbar17
+623	Bamidbar17
+624	Bamidbar17
+625	Bamidbar17
+626	Bamidbar17
+627	Bamidbar17
+628	Bamidbar17
+629	Bamidbar17
+630	Bamidbar17
+631	Bamidbar17
+632	Bamidbar17
+633	Bamidbar17
+634	Bamidbar17
+635	Bamidbar17
+636	Bamidbar17
+637	Bamidbar17
+638	Bamidbar17
+639	Bamidbar17
+640	Bamidbar18
+641	Bamidbar18
+642	Bamidbar18
+643	Bamidbar18
+644	Bamidbar18
+645	Bamidbar18
+646	Bamidbar18
+647	Bamidbar18
+648	Bamidbar18
+649	Bamidbar18
+650	Bamidbar18
+651	Bamidbar18
+652	Bamidbar18
+653	Bamidbar18
+654	Bamidbar18
+655	Bamidbar18
+656	Bamidbar19
+657	Bamidbar19
+658	Bamidbar19
+659	Bamidbar19
+660	Bamidbar19
+661	Bamidbar19
+662	Bamidbar19
+663	Bamidbar19
+664	Bamidbar19
+665	Bamidbar19
+666	Bamidbar19
+667	Bamidbar19
+668	Bamidbar19
+669	Bamidbar19
+670	Bamidbar19
+671	Bamidbar19
+672	Bamidbar19
+673	Bamidbar19
+674	Bamidbar19
+675	Bamidbar19
+676	Bamidbar19
+677	Bamidbar19
+678	Bamidbar19
+679	Bamidbar19
+680	Bamidbar19
+681	Bamidbar19
+682	Bamidbar20
+683	Bamidbar20
+684	Bamidbar20
+685	Bamidbar20
+686	Bamidbar20
+687	Bamidbar20
+688	Bamidbar20
+689	Bamidbar20
+690	Bamidbar20
+691	Bamidbar20
+692	Bamidbar20
+693	Bamidbar20
+694	Bamidbar20
+695	Bamidbar20
+696	Bamidbar20
+697	Bamidbar20
+698	Bamidbar20
+699	Bamidbar21
+700	Bamidbar21
+701	Bamidbar21
+702	Bamidbar21
+703	Bamidbar21
+704	Bamidbar21
+705	Bamidbar21
+706	Bamidbar21
+707	Bamidbar21
+708	Bamidbar21
+709	Bamidbar21
+710	Bamidbar21
+711	Bamidbar21
+712	Bamidbar21
+713	Bamidbar21
+714	Bamidbar22
+715	Bamidbar22
+716	Bamidbar22
+717	Bamidbar22
+718	Bamidbar22
+719	Bamidbar22
+720	Bamidbar22
+721	Bamidbar22
+722	Bamidbar22
+723	Bamidbar22
+724	Bamidbar22
+725	Bamidbar22
+726	Bamidbar22
+727	Bamidbar22
+728	Bamidbar22
+729	Bamidbar22
+730	Bamidbar22
+731	Bamidbar22
+732	Bamidbar22
+733	Bamidbar22
+734	Bamidbar22
+735	Bamidbar23
+736	Bamidbar23
+737	Bamidbar23
+738	Bamidbar23
+739	Bamidbar23
+740	Bamidbar23
+741	Bamidbar23
+742	Bamidbar23
+743	Bamidbar23
+744	Bamidbar23
+745	Bamidbar23
+746	Bamidbar23
+747	Bamidbar23
+748	Bamidbar23
+749	Bamidbar23
+750	Bamidbar23
+751	Bamidbar23
+752	Bamidbar23
+753	Bamidbar23
+754	Bamidbar24
+755	Bamidbar24
+756	Bamidbar24
+757	Bamidbar24
+758	Bamidbar24
+759	Bamidbar24
+760	Bamidbar24
+761	Bamidbar24
+762	Bamidbar24
+763	Bamidbar24
+764	Bamidbar24
+765	Bamidbar24
+766	Bamidbar24
+767	Bamidbar24
+768	Bamidbar24
+769	Bamidbar24
+770	Bamidbar24
+771	Bamidbar24
+772	Bamidbar24
+773	Bamidbar24
+774	Bamidbar24
+775	Bamidbar24
+776	Bamidbar24
+777	Bamidbar24
+778	Bamidbar24
+779	Bamidbar25
+780	Bamidbar25
+781	Bamidbar25
+782	Bamidbar25
+783	Bamidbar25
+784	Bamidbar25
+785	Bamidbar25
+786	Bamidbar25
+787	Bamidbar25
+788	Bamidbar26
+789	Bamidbar26
+790	Bamidbar26
+791	Bamidbar26
+792	Bamidbar26
+793	Bamidbar26
+794	Bamidbar26
+795	Bamidbar26
+796	Bamidbar26
+797	Bamidbar26
+798	Bamidbar26
+799	Bamidbar26
+800	Bamidbar26
+801	Bamidbar26
+802	Bamidbar26
+803	Bamidbar26
+804	Bamidbar26
+805	Bamidbar26
+806	Bamidbar26
+807	Bamidbar26
+808	Bamidbar26
+809	Bamidbar26
+810	Bamidbar26
+811	Bamidbar26
+812	Bamidbar26
+813	Bamidbar26
+814	Bamidbar26
+815	Bamidbar26
+816	Bamidbar26
+817	Bamidbar26
+818	Bamidbar26
+819	Bamidbar26
+820	Bamidbar26
+821	Bamidbar26
+822	Bamidbar26
+823	Bamidbar26
+824	Bamidbar26
+825	Bamidbar26
+826	Bamidbar26
+827	Bamidbar26
+828	Bamidbar26
+829	Bamidbar26
+830	Bamidbar26
+831	Bamidbar26
+832	Bamidbar26
+833	Bamidbar26
+834	Bamidbar26
+835	Bamidbar26
+836	Bamidbar26
+837	Nasso1
+838	Nasso1
+839	Nasso1
+840	Nasso1
+841	Nasso1
+842	Nasso1
+843	Nasso1
+844	Nasso1
+845	Nasso1
+846	Nasso1
+847	Nasso1
+848	Nasso1
+849	Nasso1
+850	Nasso1
+851	Nasso1
+852	Nasso1
+853	Nasso1
+854	Nasso1
+855	Nasso1
+856	Nasso1
+857	Nasso1
+858	Nasso1
+859	Nasso1
+860	Nasso1
+861	Nasso1
+862	Nasso1
+863	Nasso1
+864	Nasso1
+865	Nasso1
+866	Nasso1
+867	Nasso1
+868	Nasso1
+869	Nasso1
+870	Nasso1
+871	Nasso1
+872	Nasso1
+873	Nasso1
+874	Nasso1
+875	Nasso1
+876	Nasso1
+877	Nasso1
+878	Nasso1
+879	Nasso1
+880	Nasso1
+881	Nasso2
+882	Nasso2
+883	Nasso2
+884	Nasso2
+885	Nasso2
+886	Nasso2
+887	Nasso2
+888	Nasso2
+889	Nasso2
+890	Nasso2
+891	Nasso2
+892	Nasso2
+893	Nasso2
+894	Nasso2
+895	Nasso2
+896	Nasso2
+897	Nasso2
+898	Nasso2
+899	Nasso2
+900	Nasso2
+901	Nasso2
+902	Nasso2
+903	Nasso2
+904	Nasso2
+905	Nasso2
+906	Nasso2
+907	Nasso2
+908	Nasso3
+909	Nasso3
+910	Nasso3
+911	Nasso3
+912	Nasso3
+913	Nasso3
+914	Nasso4
+915	Nasso4
+916	Nasso4
+917	Nasso4
+918	Nasso4
+919	Nasso4
+920	Nasso4
+921	Nasso4
+922	Nasso4
+923	Nasso4
+924	Nasso4
+925	Nasso4
+926	Nasso4
+927	Nasso4
+928	Nasso4
+929	Nasso4
+930	Nasso4
+931	Nasso4
+932	Nasso4
+933	Nasso4
+934	Nasso4
+935	Nasso4
+936	Nasso4
+937	Nasso4
+938	Nasso4
+939	Nasso4
+940	Nasso4
+941	Nasso4
+942	Nasso4
+943	Nasso4
+944	Nasso4
+945	Nasso4
+946	Nasso4
+947	Nasso4
+948	Nasso4
+949	Nasso4
+950	Nasso4
+951	Nasso4
+952	Nasso4
+953	Nasso5
+954	Nasso5
+955	Nasso5
+956	Nasso5
+957	Nasso5
+958	Nasso5
+959	Nasso5
+960	Nasso5
+961	Nasso5
+962	Nasso5
+963	Nasso5
+964	Nasso5
+965	Nasso5
+966	Nasso5
+967	Nasso5
+968	Nasso5
+969	Nasso5
+970	Nasso5
+971	Nasso5
+972	Nasso5
+973	Nasso5
+974	Nasso5
+975	Nasso5
+976	Nasso5
+977	Nasso5
+978	Nasso6
+979	Nasso6
+980	Nasso6
+981	Nasso6
+982	Nasso6
+983	Nasso6
+984	Nasso6
+985	Nasso6
+986	Nasso6
+987	Nasso6
+988	Nasso7
+989	Nasso7
+990	Nasso7
+991	Nasso7
+992	Nasso7
+993	Nasso7
+994	Nasso7
+995	Nasso7
+996	Nasso7
+997	Nasso7
+998	Nasso7
+999	Nasso7
+1000	Nasso7
+1001	Nasso7
+1002	Nasso7
+1003	Nasso7
+1004	Nasso7
+1005	Nasso7
+1006	Nasso7
+1007	Nasso7
+1008	Nasso7
+1009	Nasso7
+1010	Nasso7
+1011	Nasso7
+1012	Nasso7
+1013	Nasso7
+1014	Nasso7
+1015	Nasso7
+1016	Nasso7
+1017	Nasso8
+1018	Nasso8
+1019	Nasso8
+1020	Nasso8
+1021	Nasso8
+1022	Nasso8
+1023	Nasso8
+1024	Nasso8
+1025	Nasso8
+1026	Nasso8
+1027	Nasso8
+1028	Nasso8
+1029	Nasso8
+1030	Nasso8
+1031	Nasso8
+1032	Nasso8
+1033	Nasso8
+1034	Nasso8
+1035	Nasso8
+1036	Nasso8
+1037	Nasso8
+1038	Nasso8
+1039	Nasso9
+1040	Nasso9
+1041	Nasso9
+1042	Nasso9
+1043	Nasso9
+1044	Nasso9
+1045	Nasso9
+1046	Nasso9
+1047	Nasso9
+1048	Nasso9
+1049	Nasso9
+1050	Nasso9
+1051	Nasso9
+1052	Nasso9
+1053	Nasso9
+1054	Nasso9
+1055	Nasso9
+1056	Nasso9
+1057	Nasso9
+1058	Nasso9
+1059	Nasso9
+1060	Nasso9
+1061	Nasso9
+1062	Nasso9
+1063	Nasso9
+1064	Nasso9
+1065	Nasso9
+1066	Nasso9
+1067	Nasso9
+1068	Noach6
+1069	Nasso9
+1070	Nasso9
+1071	Nasso9
+1072	Nasso9
+1073	Nasso9
+1074	Nasso9
+1075	Nasso9
+1076	Nasso9
+1077	Nasso10
+1078	Nasso10
+1079	Tzav5
+1080	Tzav5
+1081	Tzav5
+1082	Tzav5
+1083	Nasso10
+1084	Nasso10
+1085	Nasso10
+1086	Nasso10
+1087	Nasso10
+1088	Nasso10
+1089	Nasso10
+1090	Nasso10
+1091	Nasso10
+1092	Nasso10
+1093	Nasso10
+1094	Nasso10
+1095	Nasso10
+1096	Nasso10
+1097	Nasso10
+1098	Nasso10
+1099	Nasso10
+1100	Nasso11
+1101	Nasso11
+1102	Nasso11
+1103	Nasso11
+1104	Nasso11
+1105	Nasso11
+1106	Nasso11
+1107	Nasso11
+1108	Nasso11
+1109	Nasso11
+1110	Nasso11
+1111	Nasso11
+1112	Nasso11
+1113	Nasso11
+1114	Nasso11
+1115	Nasso11
+1116	Nasso11
+1117	Nasso11
+1118	Nasso11
+1119	Nasso11
+1120	Nasso11
+1121	Nasso11
+1122	Nasso11
+1123	Nasso11
+1124	Nasso11
+1125	Nasso11
+1126	Nasso11
+1127	Nasso11
+1128	Nasso11
+1129	Nasso11
+1130	Nasso11
+1131	Nasso11
+1132	Nasso11
+1133	Nasso14
+1134	Nasso11
+1135	Nasso13
+1136	Nasso13
+1137	Nasso13
+1138	Nasso13
+1139	Nasso13
+1140	Nasso13
+1141	Nasso13
+1142	Nasso13
+1143	Nasso13
+1144	Nasso13
+1145	Nasso13
+1146	Nasso13
+1147	Nasso13
+1148	Nasso27
+1149	Nasso27
+1150	Nasso13
+1151	Nasso13
+1152	Nasso13
+1153	Nasso14
+1154	Nasso14
+1155	Nasso14
+1156	Nasso14
+1157	Nasso14
+1158	Nasso14
+1159	Nasso14
+1160	Nasso14
+1161	Nasso14
+1162	Nasso14
+1163	Nasso14
+1164	Nasso14
+1165	Nasso14
+1166	Nasso14
+1167	Nasso14
+1168	Nasso14
+1169	Nasso14
+1170	Nasso14
+1171	Nasso14
+1172	Nasso14
+1173	Nasso15
+1174	Nasso15
+1175	Nasso15
+1176	Nasso15
+1177	Nasso15
+1178	Nasso15
+1179	Nasso15
+1180	Nasso15
+1181	Nasso15
+1182	Nasso15
+1183	Nasso15
+1184	Nasso15
+1185	Nasso15
+1186	Nasso15
+1187	Nasso15
+1188	Nasso15
+1189	Nasso15
+1190	Nasso16
+1191	Nasso16
+1192	Nasso16
+1193	Nasso16
+1194	Nasso16
+1195	Nasso16
+1196	Nasso16
+1197	Nasso16
+1198	Nasso16
+1199	Nasso16
+1200	Nasso23
+1201	Nasso23
+1202	Nasso23
+1203	Nasso23
+1204	Nasso23
+1205	Nasso23
+1206	Nasso23
+1207	Nasso23
+1208	Nasso23
+1209	Nasso23
+1210	Nasso23
+1211	Nasso23
+1212	Nasso23
+1213	Nasso23
+1214	Nasso23
+1215	Nasso23
+1216	Nasso23
+1217	Nasso23
+1218	Nasso25
+1219	Nasso25
+1220	Nasso25
+1221	Nasso25
+1222	Nasso25
+1223	Nasso25
+1224	Nasso25
+1225	Nasso25
+1226	Nasso26
+1227	Nasso26
+1228	Nasso26
+1229	Nasso26
+1230	Nasso26
+1231	Nasso26
+1232	Nasso26
+1233	Nasso26
+1234	Nasso26
+1235	Nasso26
+1236	Nasso27
+1237	Nasso27
+1238	Nasso27
+1239	Nasso27
+1240	Nasso27
+1241	Nasso27
+1242	Nasso27
+1243	Nasso27
+1244	Nasso27
+1245	Nasso28
+1246	Nasso28
+1247	Nasso28
+1248	Nasso28
+1249	Nasso28
+1250	Nasso28
+1251	Nasso28
+1252	Nasso28
+1253	Nasso28
+1254	Nasso28
+1255	Nasso28
+1256	Nasso28
+1257	Nasso28
+1258	Nasso28
+1259	Nasso28
+1260	Nasso28
+1261	Nasso28
+1262	Nasso28
+1263	Nasso28
+1264	Nasso28
+1265	Nasso28
+1266	Nasso28
+1267	Nasso28
+1268	Nasso28
+1269	Nasso28
+1270	Nasso28
+1271	Nasso28
+1272	Nasso28
+1273	Nasso28
+1274	Nasso28
+1275	Nasso28
+1276	Nasso28
+1277	Nasso28
+1278	Nasso28
+1279	Nasso28
+1280	Nasso28
+1281	Nasso28
+1282	Nasso28
+1283	Nasso28
+1284	Nasso28
+1285	Nasso28
+1286	Nasso28
+1287	Nasso28
+1288	Nasso28
+1289	Nasso28
+1290	Nasso28
+1291	Nasso28
+1292	Nasso28
+1293	Nasso28
+1294	Nasso28
+1295	Nasso28
+1296	Nasso28
+1297	Nasso28
+1298	Nasso28
+1299	Nasso28
+1300	Nasso28
+1301	Nasso28
+1302	Nasso28
+1303	Nasso28
+1304	Nasso28
+1305	Nasso28
+1306	Nasso28
+1307	Nasso28
+1308	Nasso28
+1309	Nasso28
+1310	Nasso28
+1311	Nasso28
+1312	Nasso28
+1313	Nasso28
+1314	Nasso28
+1315	Nasso28
+1316	Nasso28
+1317	Nasso28
+1318	Nasso30
+1319	Nasso30
+1320	Nasso30
+1321	Nasso30
+1322	Nasso30
+1323	Nasso30
+1324	Nasso30
+1325	Nasso30
+1326	Nasso30
+1327	Nasso30
+1328	Nasso30
+1329	Nasso30
+1330	Nasso30
+1331	Nasso30
+1332	Nasso30
+1333	Nasso30
+1334	Nasso30
+1335	Nasso30
+1336	Nasso30
+1337	Nasso30
+1338	Nasso30
+1339	Nasso30
+1340	Nasso30
+1341	Beha'alotcha1
+1342	Beha'alotcha1
+1343	Beha'alotcha1
+1344	Beha'alotcha1
+1345	Beha'alotcha1
+1346	Beha'alotcha1
+1347	Beha'alotcha1
+1348	Beha'alotcha1
+1349	Beha'alotcha1
+1350	Beha'alotcha1
+1351	Beha'alotcha1
+1352	Beha'alotcha1
+1353	Beha'alotcha1
+1354	Beha'alotcha1
+1355	Beha'alotcha1
+1356	Beha'alotcha1
+1357	Beha'alotcha1
+1358	Beha'alotcha2
+1359	Beha'alotcha2
+1360	Beha'alotcha2
+1361	Beha'alotcha2
+1362	Beha'alotcha2
+1363	Beha'alotcha2
+1364	Beha'alotcha2
+1365	Beha'alotcha2
+1366	Beha'alotcha2
+1367	Beha'alotcha2
+1368	Beha'alotcha3
+1369	Beha'alotcha3
+1370	Beha'alotcha3
+1371	Beha'alotcha3
+1372	Beha'alotcha3
+1373	Beha'alotcha3
+1374	Beha'alotcha3
+1375	Beha'alotcha3
+1376	Beha'alotcha3
+1377	Beha'alotcha3
+1378	Beha'alotcha3
+1379	Beha'alotcha3
+1380	Beha'alotcha3
+1381	Beha'alotcha3
+1382	Beha'alotcha3
+1383	Beha'alotcha3
+1384	Beha'alotcha3
+1385	Beha'alotcha3
+1386	Beha'alotcha3
+1387	Beha'alotcha3
+1388	Beha'alotcha3
+1389	Beha'alotcha3
+1390	Beha'alotcha3
+1391	Beha'alotcha3
+1392	Beha'alotcha3
+1393	Beha'alotcha3
+1394	Beha'alotcha3
+1395	Beha'alotcha3
+1396	Beha'alotcha3
+1397	Beha'alotcha3
+1398	Beha'alotcha3
+1399	Beha'alotcha4
+1400	Beha'alotcha4
+1401	Beha'alotcha4
+1402	Beha'alotcha4
+1403	Beha'alotcha4
+1404	Beha'alotcha4
+1405	Beha'alotcha4
+1406	Beha'alotcha4
+1407	Beha'alotcha4
+1408	Beha'alotcha4
+1409	Beha'alotcha4
+1410	Tetzaveh4
+1411	Tetzaveh4
+1412	Tetzaveh4
+1413	Beha'alotcha5
+1414	Beha'alotcha5
+1415	Beha'alotcha5
+1416	Beha'alotcha5
+1417	Beha'alotcha5
+1418	Beha'alotcha5
+1419	Beha'alotcha5
+1420	Beha'alotcha5
+1421	Beha'alotcha5
+1422	Beha'alotcha5
+1423	Beha'alotcha5
+1424	Beha'alotcha5
+1425	Beha'alotcha5
+1426	Beha'alotcha5
+1427	Beha'alotcha5
+1428	Beha'alotcha5
+1429	Beha'alotcha5
+1430	Beha'alotcha5
+1431	Beha'alotcha5
+1432	Beha'alotcha5
+1433	Beha'alotcha5
+1434	Beha'alotcha5
+1435	Beha'alotcha5
+1436	Beha'alotcha5
+1437	Beha'alotcha5
+1438	Beha'alotcha5
+1439	Beha'alotcha5
+1440	Beha'alotcha5
+1441	Beha'alotcha5
+1442	Beha'alotcha5
+1443	Beha'alotcha5
+1444	Beha'alotcha5
+1445	Beha'alotcha6
+1446	Beha'alotcha6
+1447	Beha'alotcha6
+1448	Beha'alotcha6
+1449	Beha'alotcha6
+1450	Beha'alotcha6
+1451	Beha'alotcha6
+1452	Beha'alotcha6
+1453	Beha'alotcha6
+1454	Beha'alotcha6
+1455	Beha'alotcha6
+1456	Beha'alotcha6
+1457	Beha'alotcha6
+1458	Beha'alotcha6
+1459	Beha'alotcha6
+1460	Beha'alotcha6
+1461	Beha'alotcha6
+1462	Beha'alotcha6
+1463	Beha'alotcha6
+1464	Beha'alotcha6
+1465	Beha'alotcha6
+1466	Beha'alotcha6
+1467	Beha'alotcha6
+1468	Beha'alotcha6
+1469	Beha'alotcha6
+1470	Beha'alotcha6
+1471	Beha'alotcha6
+1472	Beha'alotcha6
+1473	Beha'alotcha6
+1474	Beha'alotcha6
+1475	Beha'alotcha6
+1476	Beha'alotcha6
+1477	Beha'alotcha6
+1478	Beha'alotcha6
+1479	Beha'alotcha6
+1480	Beha'alotcha6
+1481	Beha'alotcha6
+1482	Beha'alotcha6
+1483	Beha'alotcha7
+1484	Beha'alotcha7
+1485	Beha'alotcha7
+1486	Beha'alotcha7
+1487	Beha'alotcha7
+1488	Beha'alotcha7
+1489	Beha'alotcha7
+1490	Beha'alotcha7
+1491	Beha'alotcha7
+1492	Beha'alotcha8
+1493	Beha'alotcha8
+1494	Beha'alotcha8
+1495	Beha'alotcha8
+1496	Beha'alotcha8
+1497	Beha'alotcha8
+1498	Beha'alotcha8
+1499	Beha'alotcha8
+1500	Beha'alotcha8
+1501	Beha'alotcha8
+1502	Beha'alotcha8
+1503	Beha'alotcha8
+1504	Beha'alotcha8
+1505	Beha'alotcha8
+1506	Beha'alotcha8
+1507	Beha'alotcha8
+1508	Beha'alotcha8
+1509	Beha'alotcha8
+1510	Beha'alotcha8
+1511	Beha'alotcha8
+1512	Beha'alotcha8
+1513	Beha'alotcha8
+1514	Beha'alotcha8
+1515	Beha'alotcha8
+1516	Beha'alotcha8
+1517	Beha'alotcha8
+1518	Beha'alotcha8
+1519	Beha'alotcha8
+1520	Beha'alotcha8
+1521	Beha'alotcha8
+1522	Beha'alotcha8
+1523	Beha'alotcha8
+1524	Beha'alotcha9
+1525	Beha'alotcha9
+1526	Beha'alotcha9
+1527	Beha'alotcha9
+1528	Beha'alotcha9
+1529	Beha'alotcha9
+1530	Beha'alotcha9
+1531	Beha'alotcha9
+1532	Beha'alotcha9
+1533	Beha'alotcha9
+1534	Beha'alotcha9
+1535	Beha'alotcha9
+1536	Beha'alotcha9
+1537	Beha'alotcha9
+1538	Beha'alotcha9
+1539	Beha'alotcha9
+1540	Beha'alotcha9
+1541	Beha'alotcha9
+1542	Beha'alotcha9
+1543	Beha'alotcha9
+1544	Beha'alotcha9
+1545	Beha'alotcha9
+1546	Beha'alotcha9
+1547	Beha'alotcha9
+1548	Beha'alotcha9
+1549	Beha'alotcha9
+1550	Beha'alotcha9
+1551	Beha'alotcha9
+1552	Beha'alotcha9
+1553	Beha'alotcha9
+1554	Beha'alotcha9
+1555	Noach10
+1556	Noach10
+1557	Noach10
+1558	Noach10
+1559	Noach10
+1560	Beha'alotcha9
+1561	Beha'alotcha9
+1562	Beha'alotcha9
+1563	Beha'alotcha9
+1564	Beha'alotcha9
+1565	Beha'alotcha9
+1566	Beha'alotcha9
+1567	Beha'alotcha9
+1568	Beha'alotcha9
+1569	Beha'alotcha9
+1570	Beha'alotcha9
+1571	Beha'alotcha9
+1572	Beha'alotcha10
+1573	Beha'alotcha10
+1574	Beha'alotcha10
+1575	Beha'alotcha10
+1576	Beha'alotcha10
+1577	Beha'alotcha10
+1578	Beha'alotcha10
+1579	Beha'alotcha10
+1580	Beha'alotcha10
+1581	Beha'alotcha10
+1582	Beha'alotcha10
+1583	Beha'alotcha10
+1584	Beha'alotcha10
+1585	Beha'alotcha10
+1586	Beha'alotcha10
+1587	Beha'alotcha10
+1588	Beha'alotcha10
+1589	Beha'alotcha10
+1590	Beha'alotcha10
+1591	Beha'alotcha10
+1592	Beha'alotcha10
+1593	Beha'alotcha10
+1594	Beha'alotcha10
+1595	Beha'alotcha10
+1596	Beha'alotcha10
+1597	Beha'alotcha10
+1598	Beha'alotcha10
+1599	Beha'alotcha10
+1600	Beha'alotcha10
+1601	Beha'alotcha10
+1602	Beha'alotcha10
+1603	Beha'alotcha10
+1604	Beha'alotcha10
+1605	Behar3
+1606	Beha'alotcha10
+1607	Beha'alotcha10
+1608	Beha'alotcha10
+1609	Beha'alotcha10
+1610	Beha'alotcha10
+1611	Beha'alotcha10
+1612	Beha'alotcha10
+1613	Beha'alotcha10
+1614	Beha'alotcha10
+1615	Beha'alotcha10
+1616	Beha'alotcha10
+1617	Beha'alotcha10
+1618	Beha'alotcha10
+1619	Beha'alotcha10
+1620	Beha'alotcha10
+1621	Beha'alotcha10
+1622	Beha'alotcha11
+1623	Beha'alotcha11
+1624	Beha'alotcha11
+1625	Beha'alotcha11
+1626	Beha'alotcha11
+1627	Beha'alotcha11
+1628	Beha'alotcha11
+1629	Beha'alotcha11
+1630	Beha'alotcha11
+1631	Beha'alotcha11
+1632	Beha'alotcha11
+1633	Beha'alotcha11
+1634	Beha'alotcha11
+1635	Beha'alotcha11
+1636	Beha'alotcha11
+1637	Beha'alotcha11
+1638	Beha'alotcha11
+1639	Beha'alotcha11
+1640	Beha'alotcha11
+1641	Beha'alotcha11
+1642	Beha'alotcha11
+1643	Beha'alotcha11
+1644	Beha'alotcha11
+1645	Beha'alotcha11
+1646	Beha'alotcha11
+1647	Beha'alotcha11
+1648	Beha'alotcha11
+1649	Beha'alotcha11
+1650	Beha'alotcha11
+1651	Beha'alotcha11
+1652	Beha'alotcha11
+1653	Tetzaveh10
+1654	Beha'alotcha11
+1655	Beha'alotcha11
+1656	Beha'alotcha11
+1657	Beha'alotcha11
+1658	Beha'alotcha11
+1659	Beha'alotcha11
+1660	Beha'alotcha11
+1661	Beha'alotcha11
+1662	Beha'alotcha11
+1663	Beha'alotcha11
+1664	Beha'alotcha11
+1665	Beha'alotcha11
+1666	Beha'alotcha11
+1667	Beha'alotcha11
+1668	Beha'alotcha11
+1669	Beha'alotcha12
+1670	Beha'alotcha12
+1671	Beha'alotcha12
+1672	Beha'alotcha12
+1673	Beha'alotcha12
+1674	Beha'alotcha12
+1675	Beha'alotcha12
+1676	Beha'alotcha12
+1677	Beha'alotcha12
+1678	Beha'alotcha12
+1679	Beha'alotcha12
+1680	Beha'alotcha12
+1681	Beha'alotcha12
+1682	Beha'alotcha12
+1683	Beha'alotcha12
+1684	Beha'alotcha12
+1685	Beha'alotcha12
+1686	Beha'alotcha12
+1687	Beha'alotcha12
+1688	Beha'alotcha12
+1689	Beha'alotcha12
+1690	Beha'alotcha12
+1691	Beha'alotcha12
+1692	Beha'alotcha12
+1693	Beha'alotcha12
+1694	Beha'alotcha12
+1695	Beha'alotcha12
+1696	Beha'alotcha12
+1697	Beha'alotcha12
+1698	Beha'alotcha12
+1699	Beha'alotcha12
+1700	Beha'alotcha13
+1701	Beha'alotcha13
+1702	Beha'alotcha13
+1703	Beha'alotcha13
+1704	Beha'alotcha13
+1705	Beha'alotcha13
+1706	Beha'alotcha13
+1707	Beha'alotcha13
+1708	Beha'alotcha13
+1709	Beha'alotcha13
+1710	Beha'alotcha13
+1711	Beha'alotcha13
+1712	Beha'alotcha13
+1713	Beha'alotcha13
+1714	Beha'alotcha13
+1715	Beha'alotcha13
+1716	Beha'alotcha13
+1717	Beha'alotcha13
+1718	Beha'alotcha13
+1719	Beha'alotcha13
+1720	Beha'alotcha13
+1721	Beha'alotcha13
+1722	Beha'alotcha13
+1723	Beha'alotcha13
+1724	Beha'alotcha13
+1725	Beha'alotcha13
+1726	Beha'alotcha13
+1727	Beha'alotcha13
+1728	Beha'alotcha14
+1729	Beha'alotcha14
+1730	Beha'alotcha14
+1731	Beha'alotcha14
+1732	Beha'alotcha14
+1733	Beha'alotcha14
+1734	Beha'alotcha14
+1735	Beha'alotcha14
+1736	Beha'alotcha14
+1737	Beha'alotcha14
+1738	Beha'alotcha14
+1739	Beha'alotcha14
+1740	Beha'alotcha14
+1741	Beha'alotcha14
+1742	Beha'alotcha14
+1743	Beha'alotcha14
+1744	Beha'alotcha14
+1745	Beha'alotcha14
+1746	Beha'alotcha14
+1747	Beha'alotcha14
+1748	Beha'alotcha14
+1749	Beha'alotcha14
+1750	Beha'alotcha14
+1751	Beha'alotcha14
+1752	Beha'alotcha14
+1753	Beha'alotcha15
+1754	Beha'alotcha15
+1755	Beha'alotcha15
+1756	Beha'alotcha15
+1757	Beha'alotcha15
+1758	Beha'alotcha15
+1759	Beha'alotcha15
+1760	Beha'alotcha15
+1761	Beha'alotcha15
+1762	Beha'alotcha15
+1763	Beha'alotcha15
+1764	Beha'alotcha15
+1765	Beha'alotcha15
+1766	Beha'alotcha15
+1767	Beha'alotcha15
+1768	Beha'alotcha15
+1769	Beha'alotcha16
+1770	Beha'alotcha16
+1771	Beha'alotcha16
+1772	Beha'alotcha16
+1773	Beha'alotcha16
+1774	Beha'alotcha16
+1775	Beha'alotcha16
+1776	Beha'alotcha16
+1777	Beha'alotcha16
+1778	Beha'alotcha16
+1779	Beha'alotcha16
+1780	Beha'alotcha16
+1781	Beha'alotcha16
+1782	Beha'alotcha16
+1783	Beha'alotcha16
+1784	Beha'alotcha16
+1785	Beha'alotcha16
+1786	Beha'alotcha16
+1787	Beha'alotcha16
+1788	Beha'alotcha16
+1789	Beha'alotcha16
+1790	Beha'alotcha16
+1791	Beha'alotcha16
+1792	Beha'alotcha16
+1793	Beha'alotcha16
+1794	Beha'alotcha16
+1795	Beha'alotcha16
+1796	Beha'alotcha16
+1797	Beha'alotcha16
+1798	Beha'alotcha16
+1799	Beha'alotcha16
+1800	Beha'alotcha16
+1801	Beha'alotcha16
+1802	Beha'alotcha16
+1803	Beha'alotcha16
+1804	Beha'alotcha16
+1805	Beha'alotcha16
+1806	Beha'alotcha16
+1807	Beha'alotcha16
+1808	Beha'alotcha16
+1809	Beha'alotcha16
+1810	Beha'alotcha16
+1811	Beha'alotcha16
+1812	Beha'alotcha16
+1813	Beha'alotcha16
+1814	Beha'alotcha16
+1815	Beha'alotcha16
+1816	Beha'alotcha16
+1817	Beha'alotcha16
+1818	Beha'alotcha16
+1819	Beha'alotcha16
+1820	Beha'alotcha16
+1821	Beha'alotcha16
+1822	Beha'alotcha16
+1823	Beha'alotcha16
+1824	Beha'alotcha16
+1825	Beha'alotcha16
+1826	Beha'alotcha16
+1827	Beha'alotcha16
+1828	Beha'alotcha16
+1829	Beha'alotcha16
+1830	Beha'alotcha16
+1831	Miketz2
+1832	Miketz2
+1833	Miketz2
+1834	Miketz2
+1835	Sh'lach1
+1836	Sh'lach1
+1837	Sh'lach1
+1838	Sh'lach1
+1839	Sh'lach1
+1840	Sh'lach1
+1841	Sh'lach1
+1842	Sh'lach1
+1843	Sh'lach1
+1844	Sh'lach1
+1845	Sh'lach1
+1846	Sh'lach1
+1847	Sh'lach1
+1848	Sh'lach1
+1849	Sh'lach1
+1850	Sh'lach1
+1851	Sh'lach1
+1852	Sh'lach1
+1853	Sh'lach1
+1854	Sh'lach1
+1855	Sh'lach1
+1856	Sh'lach1
+1857	Sh'lach1
+1858	Sh'lach1
+1859	Sh'lach1
+1860	Sh'lach1
+1861	Sh'lach1
+1862	Sh'lach1
+1863	Sh'lach1
+1864	Sh'lach1
+1865	Sh'lach1
+1866	Sh'lach1
+1867	Sh'lach1
+1868	Sh'lach2
+1869	Sh'lach2
+1870	Sh'lach2
+1871	Sh'lach2
+1872	Sh'lach2
+1873	Sh'lach2
+1874	Sh'lach2
+1875	Sh'lach2
+1876	Sh'lach2
+1877	Sh'lach2
+1878	Sh'lach2
+1879	Sh'lach3
+1880	Sh'lach3
+1881	Sh'lach3
+1882	Sh'lach3
+1883	Sh'lach3
+1884	Sh'lach3
+1885	Sh'lach3
+1886	Sh'lach3
+1887	Vayera5
+1888	Sh'lach4
+1889	Sh'lach4
+1890	Sh'lach4
+1891	Sh'lach4
+1892	Sh'lach4
+1893	Sh'lach4
+1894	Sh'lach4
+1895	Sh'lach4
+1896	Sh'lach4
+1897	Sh'lach4
+1898	Sh'lach4
+1899	Sh'lach4
+1900	Sh'lach4
+1901	Sh'lach4
+1902	Sh'lach4
+1903	Sh'lach4
+1904	Sh'lach4
+1905	Sh'lach4
+1906	Sh'lach4
+1907	Sh'lach4
+1908	Sh'lach4
+1909	Sh'lach4
+1910	Sh'lach4
+1911	Sh'lach4
+1912	Sh'lach4
+1913	Sh'lach4
+1914	Sh'lach4
+1915	Sh'lach5
+1916	Sh'lach5
+1917	Sh'lach5
+1918	Sh'lach5
+1919	Sh'lach5
+1920	Sh'lach5
+1921	Sh'lach5
+1922	Sh'lach5
+1923	Sh'lach5
+1924	Sh'lach5
+1925	Sh'lach5
+1926	Sh'lach5
+1927	Sh'lach5
+1928	Sh'lach5
+1929	Sh'lach5
+1930	Sh'lach5
+1931	Sh'lach5
+1932	Sh'lach5
+1933	Sh'lach5
+1934	Sh'lach5
+1935	Sh'lach5
+1936	Sh'lach5
+1937	Sh'lach5
+1938	Sh'lach5
+1939	Sh'lach5
+1940	Sh'lach5
+1941	Sh'lach5
+1942	Sh'lach5
+1943	Sh'lach5
+1944	Sh'lach6
+1945	Sh'lach6
+1946	Sh'lach6
+1947	Sh'lach6
+1948	Sh'lach6
+1949	Sh'lach6
+1950	Sh'lach6
+1951	Sh'lach6
+1952	Sh'lach6
+1953	Sh'lach6
+1954	Sh'lach6
+1955	Sh'lach6
+1956	Sh'lach6
+1957	Sh'lach6
+1958	Sh'lach6
+1959	Sh'lach6
+1960	Sh'lach7
+1961	Sh'lach7
+1962	Sh'lach7
+1963	Sh'lach7
+1964	Sh'lach7
+1965	Sh'lach7
+1966	Sh'lach7
+1967	Sh'lach7
+1968	Sh'lach7
+1969	Sh'lach7
+1970	Sh'lach7
+1971	Sh'lach7
+1972	Sh'lach7
+1973	Sh'lach7
+1974	Sh'lach6
+1975	Sh'lach6
+1976	Sh'lach6
+1977	Sh'lach6
+1978	Sh'lach6
+1979	Sh'lach6
+1980	Sh'lach6
+1981	Sh'lach6
+1982	Sh'lach6
+1983	Sh'lach6
+1984	Sh'lach6
+1985	Sh'lach6
+1986	Sh'lach7
+1987	Sh'lach7
+1988	Sh'lach7
+1989	Sh'lach7
+1990	Sh'lach7
+1991	Sh'lach7
+1992	Sh'lach7
+1993	Sh'lach7
+1994	Sh'lach7
+1995	Sh'lach8
+1996	Sh'lach8
+1997	Sh'lach8
+1998	Sh'lach8
+1999	Sh'lach8
+2000	Sh'lach8
+2001	Sh'lach8
+2002	Sh'lach8
+2003	Sh'lach8
+2004	Sh'lach8
+2005	Sh'lach8
+2006	Sh'lach8
+2007	Sh'lach8
+2008	Sh'lach8
+2009	Sh'lach8
+2010	Sh'lach8
+2011	Sh'lach8
+2012	Sh'lach8
+2013	Sh'lach8
+2014	Sh'lach8
+2015	Vaera11
+2016	Sh'lach9
+2017	Sh'lach9
+2018	Sh'lach9
+2019	Sh'lach9
+2020	Sh'lach9
+2021	Sh'lach9
+2022	Sh'lach9
+2023	Sh'lach9
+2024	Sh'lach9
+2025	Sh'lach9
+2026	Sh'lach9
+2027	Sh'lach9
+2028	Sh'lach10
+2029	Sh'lach10
+2030	Sh'lach10
+2031	Sh'lach10
+2032	Sh'lach10
+2033	Sh'lach10
+2034	Sh'lach10
+2035	Sh'lach10
+2036	Sh'lach10
+2037	Sh'lach10
+2038	Sh'lach11
+2039	Sh'lach11
+2040	Sh'lach11
+2041	Sh'lach11
+2042	Sh'lach11
+2043	Sh'lach11
+2044	Sh'lach11
+2045	Sh'lach11
+2046	Sh'lach12
+2047	Sh'lach12
+2048	Sh'lach12
+2049	Sh'lach12
+2050	Sh'lach12
+2051	Sh'lach12
+2052	Sh'lach12
+2053	Sh'lach12
+2054	Sh'lach12
+2055	Sh'lach12
+2056	Sh'lach12
+2057	Sh'lach12
+2058	Sh'lach12
+2059	Sh'lach12
+2060	Sh'lach12
+2061	Sh'lach12
+2062	Sh'lach12
+2063	Sh'lach12
+2064	Sh'lach12
+2065	Sh'lach12
+2066	Sh'lach12
+2067	Sh'lach12
+2068	Sh'lach12
+2069	Sh'lach12
+2070	Sh'lach12
+2071	Sh'lach12
+2072	Sh'lach12
+2073	Sh'lach12
+2074	Sh'lach12
+2075	Sh'lach12
+2076	Sh'lach12
+2077	Sh'lach12
+2078	Sh'lach12
+2079	Sh'lach12
+2080	Sh'lach12
+2081	Sh'lach13
+2082	Sh'lach13
+2083	Sh'lach13
+2084	Sh'lach13
+2085	Sh'lach13
+2086	Sh'lach13
+2087	Sh'lach13
+2088	Sh'lach13
+2089	Sh'lach13
+2090	Sh'lach13
+2091	Sh'lach13
+2092	Sh'lach13
+2093	Sh'lach13
+2094	Sh'lach13
+2095	Sh'lach13
+2096	Sh'lach13
+2097	Sh'lach13
+2098	Sh'lach13
+2099	Sh'lach13
+2100	Sh'lach13
+2101	Sh'lach13
+2102	Sh'lach13
+2103	Sh'lach13
+2104	Sh'lach13
+2105	Sh'lach13
+2106	Sh'lach13
+2107	Sh'lach13
+2108	Sh'lach13
+2109	Sh'lach13
+2110	Sh'lach13
+2111	Sh'lach13
+2112	Sh'lach13
+2113	Sh'lach13
+2114	Sh'lach14
+2115	Sh'lach14
+2116	Sh'lach14
+2117	Sh'lach14
+2118	Sh'lach14
+2119	Sh'lach14
+2120	Sh'lach14
+2121	Sh'lach14
+2122	Sh'lach14
+2123	Sh'lach14
+2124	Sh'lach14
+2125	Sh'lach14
+2126	Sh'lach14
+2127	Sh'lach14
+2128	Sh'lach14
+2129	Sh'lach14
+2130	Sh'lach14
+2131	Sh'lach14
+2132	Sh'lach14
+2133	Sh'lach14
+2134	Sh'lach14
+2135	Sh'lach14
+2136	Sh'lach14
+2137	Sh'lach14
+2138	Sh'lach14
+2139	Sh'lach14
+2140	Sh'lach14
+2141	Sh'lach14
+2142	Sh'lach14
+2143	Sh'lach14
+2144	Sh'lach14
+2145	Sh'lach14
+2146	Sh'lach14
+2147	Sh'lach14
+2148	Sh'lach14
+2149	Sh'lach14
+2150	Sh'lach14
+2151	Sh'lach14
+2152	Sh'lach14
+2153	Sh'lach14
+2154	Sh'lach14
+2155	Sh'lach14
+2156	Sh'lach14
+2157	Sh'lach14
+2158	Sh'lach14
+2159	Sh'lach14
+2160	Sh'lach14
+2161	Sh'lach14
+2162	Sh'lach14
+2163	Sh'lach14
+2164	Sh'lach14
+2165	Sh'lach14
+2166	Sh'lach14
+2167	Sh'lach14
+2168	Sh'lach14
+2169	Sh'lach14
+2170	Sh'lach14
+2171	Sh'lach14
+2172	Sh'lach15
+2173	Sh'lach15
+2174	Sh'lach15
+2175	Sh'lach15
+2176	Sh'lach15
+2177	Sh'lach15
+2178	Sh'lach15
+2179	Sh'lach15
+2180	Sh'lach15
+2181	Sh'lach15
+2182	Sh'lach15
+2183	Sh'lach15
+2184	Sh'lach15
+2185	Sh'lach15
+2186	Sh'lach15
+2187	Sh'lach15
+2188	Sh'lach15
+2189	Sh'lach15
+2190	Sh'lach15
+2191	Sh'lach15
+2192	Sh'lach15
+2193	Sh'lach15
+2194	Sh'lach15
+2195	Sh'lach15
+2196	Sh'lach15
+2197	Sh'lach15
+2198	Sh'lach15
+2199	Sh'lach15
+2200	Sh'lach15
+2201	Sh'lach15
+2202	Sh'lach15
+2203	Sh'lach15
+2204	Sh'lach15
+2205	Kedoshim15
+2206	Kedoshim15
+2207	Kedoshim15
+2208	Korach1
+2209	Korach1
+2210	Korach1
+2211	Korach1
+2212	Korach1
+2213	Korach1
+2214	Korach1
+2215	Korach1
+2216	Korach1
+2217	Korach1
+2218	Korach1
+2219	Korach1
+2220	Korach1
+2221	Korach1
+2222	Korach1
+2223	Korach1
+2224	Korach2
+2225	Korach2
+2226	Korach2
+2227	Korach2
+2228	Korach2
+2229	Korach2
+2230	Korach2
+2231	Korach2
+2232	Korach2
+2233	Korach2
+2234	Korach2
+2235	Korach2
+2236	Korach2
+2237	Tetzaveh2
+2238	Korach2
+2239	Korach2
+2240	Korach2
+2241	Korach2
+2242	Korach2
+2243	Korach2
+2244	Korach2
+2245	Korach2
+2246	Korach2
+2247	Korach2
+2248	Korach2
+2249	Korach2
+2250	Korach2
+2251	Korach2
+2252	Korach2
+2253	Korach2
+2254	Korach2
+2255	Korach2
+2256	Korach2
+2257	Korach2
+2258	Korach3
+2259	Korach3
+2260	Korach3
+2261	Korach3
+2262	Korach3
+2263	Korach3
+2264	Korach3
+2265	Korach3
+2266	Korach3
+2267	Korach3
+2268	Korach3
+2269	Korach3
+2270	Korach3
+2271	Korach3
+2272	Korach3
+2273	Korach3
+2274	Korach3
+2275	Korach3
+2276	Korach3
+2277	Korach3
+2278	Korach3
+2279	Korach3
+2280	Korach3
+2281	Korach3
+2282	Korach3
+2283	Korach3
+2284	Korach3
+2285	Korach3
+2286	Korach3
+2287	Korach3
+2288	Korach3
+2289	Korach3
+2290	Korach3
+2291	Korach3
+2292	Korach9
+2293	Korach4
+2294	Korach4
+2295	Korach4
+2296	Korach4
+2297	Korach4
+2298	Korach4
+2299	Korach4
+2300	Korach4
+2301	Korach4
+2302	Korach4
+2303	Korach4
+2304	Korach4
+2305	Korach4
+2306	Korach4
+2307	Korach4
+2308	Korach4
+2309	Korach4
+2310	Korach4
+2311	Korach4
+2312	Korach4
+2313	Korach4
+2314	Korach4
+2315	Korach4
+2316	Korach4
+2317	Korach5
+2318	Korach5
+2319	Korach5
+2320	Korach5
+2321	Korach5
+2322	Korach5
+2323	Korach5
+2324	Korach5
+2325	Korach5
+2326	Korach5
+2327	Korach5
+2328	Korach5
+2329	Korach5
+2330	Korach5
+2331	Korach5
+2332	Korach5
+2333	Korach5
+2334	Korach5
+2335	Korach5
+2336	Korach5
+2337	Korach5
+2338	Korach5
+2339	Korach5
+2340	Korach5
+2341	Korach5
+2342	Korach5
+2343	Korach5
+2344	Korach5
+2345	Korach5
+2346	Korach5
+2347	Korach5
+2348	Korach6
+2349	Korach6
+2350	Korach6
+2351	Korach6
+2352	Korach6
+2353	Korach6
+2354	Korach6
+2355	Korach6
+2356	Korach6
+2357	Korach6
+2358	Korach6
+2359	Korach6
+2360	Korach6
+2361	Korach6
+2362	Korach6
+2363	Korach6
+2364	Korach6
+2365	Korach6
+2366	Korach6
+2367	Korach6
+2368	Korach6
+2369	Ki Tavo4
+2370	Ki Tavo4
+2371	Korach6
+2372	Korach6
+2373	Korach6
+2374	Korach6
+2375	Korach6
+2376	Korach6
+2377	Korach6
+2378	Korach6
+2379	Korach6
+2380	Korach6
+2381	Korach6
+2382	Korach6
+2383	Korach6
+2384	Korach6
+2385	Korach6
+2386	Korach7
+2387	Korach7
+2388	Korach7
+2389	Korach7
+2390	Korach7
+2391	Korach7
+2392	Korach7
+2393	Korach7
+2394	Korach7
+2395	Korach7
+2396	Korach7
+2397	Korach7
+2398	Korach7
+2399	Korach7
+2400	Korach7
+2401	Korach7
+2402	Korach7
+2403	Korach7
+2404	Korach7
+2405	Korach7
+2406	Korach7
+2407	Korach7
+2408	Korach7
+2409	Korach7
+2410	Korach7
+2411	Korach7
+2412	Korach7
+2413	Korach7
+2414	Korach7
+2415	Korach7
+2416	Korach7
+2417	Korach7
+2418	Korach7
+2419	Korach7
+2420	Korach7
+2421	Korach7
+2422	Korach7
+2423	Korach7
+2424	Korach7
+2425	Korach7
+2426	Korach8
+2427	Korach8
+2428	Korach8
+2429	Korach8
+2430	Korach8
+2431	Korach8
+2432	Korach8
+2433	Korach8
+2434	Korach8
+2435	Korach8
+2436	Korach8
+2437	Korach8
+2438	Korach8
+2439	Korach8
+2440	Korach8
+2441	Korach8
+2442	Korach8
+2443	Korach8
+2444	Korach8
+2445	Korach8
+2446	Korach8
+2447	Korach8
+2448	Korach8
+2449	Korach8
+2450	Korach8
+2451	Korach9
+2452	Korach9
+2453	Korach9
+2454	Korach9
+2455	Korach9
+2456	Korach9
+2457	Korach9
+2458	Korach9
+2459	Korach9
+2460	Korach9
+2461	Korach9
+2462	Korach9
+2463	Korach9
+2464	Korach10
+2465	Korach10
+2466	Korach10
+2467	Korach10
+2468	Korach10
+2469	Korach10
+2470	Korach10
+2471	Korach10
+2472	Korach10
+2473	Korach10
+2474	Korach10
+2475	Korach10
+2476	Korach10
+2477	Korach10
+2478	Korach10
+2479	Korach10
+2480	Korach10
+2481	Korach10
+2482	Korach10
+2483	Korach10
+2484	Korach10
+2485	Korach10
+2486	Korach10
+2487	Korach11
+2488	Korach11
+2489	Korach11
+2490	Korach11
+2491	Korach11
+2492	Korach11
+2493	Korach11
+2494	Korach11
+2495	Korach11
+2496	Korach11
+2497	Korach11
+2498	Korach11
+2499	Korach11
+2500	Korach11
+2501	Korach11
+2502	Korach11
+2503	Korach11
+2504	Korach11
+2505	Korach11
+2506	Korach11
+2507	Korach11
+2508	Korach11
+2509	Chukat1
+2510	Chukat1
+2511	Chukat1
+2512	Chukat1
+2513	Chukat1
+2514	Chukat1
+2515	Chukat1
+2516	Chukat1
+2517	Chukat1
+2518	Chukat1
+2519	Chukat1
+2520	Chukat1
+2521	Chukat1
+2522	Chukat1
+2523	Chukat1
+2524	Chukat1
+2525	Chukat1
+2526	Chukat1
+2527	Chukat1
+2528	Chukat1
+2529	Chukat1
+2530	Chukat1
+2531	Chukat1
+2532	Chukat1
+2533	Chukat1
+2534	Chukat1
+2535	Chukat1
+2536	Chukat1
+2537	Chukat1
+2538	Chukat1
+2539	Chukat1
+2540	Chukat1
+2541	Chukat1
+2542	Chukat1
+2543	Chukat1
+2544	Chukat1
+2545	Chukat1
+2546	Chukat1
+2547	Chukat1
+2548	Chukat1
+2549	Chukat1
+2550	Chukat1
+2551	Chukat1
+2552	Chukat1
+2553	Chukat1
+2554	Chukat1
+2555	Chukat1
+2556	Chukat1
+2557	Chukat1
+2558	Chukat1
+2559	Chukat1
+2560	Chukat1
+2561	Chukat1
+2562	Chukat1
+2563	Chukat1
+2564	Chukat1
+2565	Chukat1
+2566	Chukat1
+2567	Chukat1
+2568	Chukat1
+2569	Chukat1
+2570	Chukat1
+2571	Chukat1
+2572	Chukat1
+2573	Chukat1
+2574	Chukat1
+2575	Chukat1
+2576	Re'eh9
+2577	Chukat1
+2578	Chukat1
+2579	Chukat1
+2580	Chukat1
+2581	Chukat1
+2582	Chukat1
+2583	Chukat1
+2584	Chukat1
+2585	Chukat2
+2586	Chukat2
+2587	Chukat2
+2588	Chukat2
+2589	Chukat2
+2590	Chukat2
+2591	Chukat2
+2592	Chukat2
+2593	Chukat2
+2594	Chukat2
+2595	Chukat2
+2596	Chukat2
+2597	Chukat2
+2598	Chukat2
+2599	Chukat2
+2600	Chukat2
+2601	Chukat2
+2602	Chukat2
+2603	Chukat2
+2604	Chukat2
+2605	Chukat2
+2606	Chukat2
+2607	Chukat2
+2608	Chukat2
+2609	Chukat2
+2610	Chukat2
+2611	Chukat2
+2612	Chukat2
+2613	Chukat2
+2614	Chukat2
+2615	Chukat2
+2616	Chukat2
+2617	Chukat2
+2618	Chukat2
+2619	Chukat2
+2620	Chukat2
+2621	Chukat2
+2622	Chukat2
+2623	Chukat2
+2624	Chukat2
+2625	Chukat2
+2626	Chukat2
+2627	Chukat2
+2628	Chukat2
+2629	Chukat2
+2630	Chukat2
+2631	Chukat3
+2632	Chukat3
+2633	Chukat3
+2634	Chukat3
+2635	Chukat3
+2636	Chukat3
+2637	Chukat3
+2638	Chukat3
+2639	Chukat3
+2640	Chukat3
+2641	Chukat3
+2642	Vayishlach9
+2643	Vayishlach9
+2644	Vayishlach9
+2645	Chukat4
+2646	Chukat4
+2647	Chukat4
+2648	Chukat4
+2649	Chukat4
+2650	Chukat4
+2651	Chukat4
+2652	Chukat4
+2653	Chukat4
+2654	Chukat4
+2655	Chukat4
+2656	Chukat4
+2657	Chukat4
+2658	Chukat4
+2659	Chukat4
+2660	Chukat4
+2661	Chukat4
+2662	Chukat4
+2663	Chukat4
+2664	Chukat4
+2665	Chukat4
+2666	Chukat4
+2667	Chukat4
+2668	Chukat4
+2669	Chukat4
+2670	Chukat4
+2671	Chukat4
+2672	Chukat4
+2673	Chukat4
+2674	Chukat4
+2675	Chukat4
+2676	Chukat4
+2677	Chukat4
+2678	Chukat4
+2679	Chukat4
+2680	Chukat4
+2681	Chukat4
+2682	Chukat4
+2683	Chukat4
+2684	Chukat4
+2685	Chukat5
+2686	Chukat5
+2687	Chukat5
+2688	Chukat6
+2689	Chukat6
+2690	Chukat6
+2691	Chukat6
+2692	Chukat6
+2693	Chukat6
+2694	Chukat6
+2695	Chukat6
+2696	Chukat6
+2697	Chukat6
+2698	Chukat6
+2699	Chukat6
+2700	Chukat6
+2701	Chukat6
+2702	Chukat6
+2703	Chukat6
+2704	Chukat6
+2705	Chukat6
+2706	Chukat6
+2707	Chukat6
+2708	Chukat6
+2709	Chukat6
+2710	Chukat6
+2711	Chukat6
+2712	Shmini8
+2713	Shmini8
+2714	Tzav13
+2715	Tzav13
+2716	Chukat6
+2717	Chukat6
+2718	Chukat6
+2719	Chukat6
+2720	Chukat6
+2721	Chukat6
+2722	Chukat6
+2723	Chukat6
+2724	Chukat6
+2725	Chukat6
+2726	Chukat6
+2727	Chukat6
+2728	Chukat6
+2729	Chukat6
+2730	Chukat6
+2731	Chukat6
+2732	Chukat6
+2733	Chukat6
+2734	Chukat6
+2735	Chukat6
+2736	Chukat6
+2737	Chukat6
+2738	Chukat6
+2739	Chukat6
+2740	Chukat6
+2741	Chukat6
+2742	Chukat6
+2743	Chukat6
+2744	Chukat6
+2745	Chukat6
+2746	Chukat6
+2747	Chukat6
+2748	Chukat6
+2749	Chukat6
+2750	Chukat6
+2751	Chukat6
+2752	Chukat6
+2753	Chukat6
+2754	Chukat6
+2755	Chukat6
+2756	Chukat6
+2757	Chukat6
+2758	Chukat6
+2759	Chukat6
+2760	Chukat6
+2761	Chukat6
+2762	Chukat6
+2763	Chukat6
+2764	Chukat6
+2765	Chukat6
+2766	Chukat6
+2767	Chukat6
+2768	Chukat6
+2769	Chukat6
+2770	Chukat6
+2771	Chukat6
+2772	Chukat6
+2773	Chukat6
+2774	Chukat6
+2775	Chukat6
+2776	Chukat6
+2777	Chukat6
+2778	Chukat6
+2779	Chukat7
+2780	Chukat7
+2781	Chukat7
+2782	Chukat7
+2783	Chukat7
+2784	Chukat7
+2785	Chukat7
+2786	Chukat7
+2787	Chukat7
+2788	Chukat7
+2789	Chukat8
+2790	Chukat8
+2791	Chukat8
+2792	Chukat8
+2793	Chukat8
+2794	Chukat8
+2795	Chukat8
+2796	Chukat8
+2797	Chukat8
+2798	Chukat8
+2799	Chukat8
+2800	Chukat8
+2801	Chukat8
+2802	Chukat8
+2803	Chukat8
+2804	Chukat8
+2805	Chukat8
+2806	Chukat8
+2807	Chukat8
+2808	Chukat8
+2809	Chukat8
+2810	Chukat8
+2811	Chukat8
+2812	Chukat8
+2813	Chukat8
+2814	Chukat8
+2815	Chukat8
+2816	Chukat8
+2817	Chukat8
+2818	Chukat8
+2819	Chukat9
+2820	Chukat9
+2821	Chukat9
+2822	Chukat9
+2823	Chukat9
+2824	Chukat9
+2825	Chukat9
+2826	Chukat9
+2827	Chukat9
+2828	Chukat9
+2829	Chukat9
+2830	Chukat9
+2831	Chukat9
+2832	Chukat9
+2833	Chukat9
+2834	Chukat9
+2835	Chukat9
+2836	Chukat9
+2837	Chukat9
+2838	Chukat9
+2839	Chukat9
+2840	Chukat9
+2841	Chukat9
+2842	Chukat9
+2843	Chukat9
+2844	Chukat9
+2845	Chukat10
+2846	Chukat10
+2847	Chukat10
+2848	Chukat10
+2849	Chukat10
+2850	Chukat10
+2851	Chukat10
+2852	Chukat10
+2853	Chukat10
+2854	Chukat10
+2855	Chukat10
+2856	Chukat10
+2857	Chukat10
+2858	Chukat10
+2859	Chukat10
+2860	Chukat10
+2861	Chukat10
+2862	Chukat10
+2863	Chukat10
+2864	Chukat10
+2865	Chukat10
+2866	Chukat10
+2867	Chukat10
+2868	Chukat10
+2869	Chukat10
+2870	Chukat10
+2871	Chukat10
+2872	Chukat10
+2873	Chukat10
+2874	Chukat10
+2875	Chukat10
+2876	Chukat10
+2877	Chukat10
+2878	Chukat11
+2879	Chukat11
+2880	Chukat11
+2881	Chukat11
+2882	Chukat11
+2883	Chukat11
+2884	Chukat11
+2885	Chukat12
+2886	Chukat12
+2887	Chukat12
+2888	Chukat12
+2889	Chukat12
+2890	Chukat12
+2891	Chukat12
+2892	Chukat12
+2893	Chukat12
+2894	Chukat12
+2895	Chukat12
+2896	Chukat12
+2897	Chukat12
+2898	Chukat12
+2899	Chukat12
+2900	Chukat12
+2901	Chukat12
+2902	Chukat12
+2903	Chukat12
+2904	Chukat12
+2905	Chukat12
+2906	Chukat12
+2907	Chukat12
+2908	Chukat12
+2909	Chukat12
+2910	Chukat12
+2911	Chukat13
+2912	Chukat13
+2913	Chukat13
+2914	Chukat13
+2915	Chukat13
+2916	Chukat13
+2917	Chukat13
+2918	Chukat13
+2919	Chukat14
+2920	Chukat14
+2921	Chukat14
+2922	Chukat14
+2923	Chukat14
+2924	Chukat14
+2925	Chukat14
+2926	Chukat14
+2927	Chukat14
+2928	Chukat14
+2929	Chukat14
+2930	Chukat14
+2931	Chukat15
+2932	Chukat15
+2933	Chukat15
+2934	Chukat15
+2935	Chukat15
+2936	Chukat15
+2937	Chukat15
+2938	Chukat15
+2939	Chukat15
+2940	Chukat15
+2941	Chukat15
+2942	Chukat16
+2943	Chukat16
+2944	Chukat16
+2945	Chukat16
+2946	Chukat16
+2947	Chukat16
+2948	Chukat16
+2949	Chukat16
+2950	Chukat16
+2951	Chukat17
+2952	Chukat17
+2953	Chukat17
+2954	Chukat17
+2955	Chukat17
+2956	Chukat17
+2957	Chukat17
+2958	Chukat18
+2959	Chukat18
+2960	Chukat18
+2961	Chukat18
+2962	Chukat18
+2963	Chukat18
+2964	Chukat18
+2965	Chukat18
+2966	Chukat18
+2967	Chukat18
+2968	Chukat18
+2969	Chukat18
+2970	Chukat18
+2971	Chukat17
+2972	Chukat17
+2973	Chukat17
+2974	Chukat17
+2975	Chukat17
+2976	Chukat17
+2977	Chukat17
+2978	Chukat17
+2979	Chukat18
+2980	Chukat18
+2981	Chukat18
+2982	Chukat18
+2983	Chukat18
+2984	Chukat18
+2985	Chukat18
+2986	Chukat18
+2987	Chukat19
+2988	Chukat19
+2989	Chukat19
+2990	Chukat19
+2991	Chukat19
+2992	Chukat19
+2993	Chukat19
+2994	Chukat19
+2995	Chukat19
+2996	Chukat19
+2997	Chukat19
+2998	Chukat19
+2999	Chukat19
+3000	Chukat19
+3001	Chukat19
+3002	Chukat19
+3003	Chukat19
+3004	Chukat19
+3005	Chukat19
+3006	Chukat19
+3007	Chukat19
+3008	Chukat19
+3009	Chukat19
+3010	Chukat19
+3011	Chukat19
+3012	Chukat19
+3013	Chukat19
+3014	Chukat19
+3015	Chukat19
+3016	Chukat19
+3017	Chukat19
+3018	Chukat20
+3019	Chukat20
+3020	Chukat20
+3021	Chukat20
+3022	Chukat20
+3023	Chukat20
+3024	Chukat20
+3025	Chukat20
+3026	Chukat20
+3027	Chukat20
+3028	Chukat20
+3029	Chukat20
+3030	Chukat20
+3031	Chukat20
+3032	Chukat20
+3033	Chukat20
+3034	Chukat20
+3035	Chukat20
+3036	Chukat20
+3037	Chukat20
+3038	Chukat20
+3039	Chukat20
+3040	Chukat20
+3041	Chukat20
+3042	Chukat20
+3043	Chukat20
+3044	Chukat20
+3045	Chukat20
+3046	Chukat20
+3047	Chukat20
+3048	Chukat20
+3049	Chukat21
+3050	Chukat21
+3051	Chukat21
+3052	Chukat21
+3053	Chukat21
+3054	Chukat21
+3055	Chukat21
+3056	Chukat21
+3057	Chukat21
+3058	Chukat21
+3059	Chukat21
+3060	Chukat21
+3061	Chukat21
+3062	Chukat21
+3063	Chukat21
+3064	Chukat21
+3065	Chukat21
+3066	Chukat21
+3067	Chukat21
+3068	Chukat21
+3069	Chukat21
+3070	Chukat21
+3071	Chukat21
+3072	Chukat21
+3073	Chukat21
+3074	Chukat21
+3075	Chukat22
+3076	Chukat22
+3077	Chukat22
+3078	Chukat22
+3079	Chukat22
+3080	Chukat22
+3081	Chukat22
+3082	Chukat22
+3083	Chukat23
+3084	Chukat23
+3085	Chukat23
+3086	Chukat23
+3087	Chukat23
+3088	Chukat23
+3089	Chukat23
+3090	Chukat23
+3091	Chukat23
+3092	Chukat23
+3093	Chukat23
+3094	Chukat23
+3095	Chukat23
+3096	Chukat23
+3097	Chukat23
+3098	Chukat23
+3099	Chukat23
+3100	Chukat23
+3101	Chukat23
+3102	Chukat23
+3103	Chukat23
+3104	Chukat24
+3105	Chukat24
+3106	Chukat24
+3107	Chukat24
+3108	Chukat24
+3109	Chukat24
+3110	Chukat24
+3111	Chukat24
+3112	Chukat24
+3113	Chukat24
+3114	Chukat24
+3115	Chukat24
+3116	Chukat24
+3117	Chukat24
+3118	Lech Lecha15
+3119	Chukat25
+3120	Chukat25
+3121	Chukat25
+3122	Chukat25
+3123	Chukat25
+3124	Chukat25
+3125	Chukat25
+3126	Chukat25
+3127	Chukat25
+3128	Chukat25
+3129	Chukat25
+3130	Chukat25
+3131	Chukat25
+3132	Chukat25
+3133	Chukat25
+3134	Chukat25
+3135	Chukat25
+3136	Chukat25
+3137	Chukat25
+3138	Chukat25
+3139	Chukat25
+3140	Chukat25
+3141	Balak1
+3142	Balak1
+3143	Balak1
+3144	Balak1
+3145	Balak1
+3146	Balak1
+3147	Balak1
+3148	Balak1
+3149	Balak1
+3150	Balak1
+3151	Balak1
+3152	Balak1
+3153	Balak1
+3154	Balak1
+3155	Balak1
+3156	Balak2
+3157	Balak2
+3158	Balak2
+3159	Balak2
+3160	Balak2
+3161	Balak2
+3162	Balak2
+3163	Balak2
+3164	Balak2
+3165	Balak2
+3166	Balak2
+3167	Balak2
+3168	Balak2
+3169	Balak2
+3170	Balak2
+3171	Balak2
+3172	Balak2
+3173	Balak2
+3174	Balak2
+3175	Balak2
+3176	Balak2
+3177	Balak2
+3178	Balak3
+3179	Balak3
+3180	Balak3
+3181	Balak3
+3182	Balak3
+3183	Balak3
+3184	Balak3
+3185	Balak3
+3186	Balak3
+3187	Balak3
+3188	Balak3
+3189	Balak3
+3190	Balak4
+3191	Balak4
+3192	Balak4
+3193	Balak4
+3194	Balak4
+3195	Balak4
+3196	Balak4
+3197	Balak4
+3198	Balak4
+3199	Balak4
+3200	Balak4
+3201	Balak4
+3202	Balak4
+3203	Balak4
+3204	Balak4
+3205	Balak4
+3206	Balak4
+3207	Balak4
+3208	Balak4
+3209	Balak4
+3210	Balak4
+3211	Balak4
+3212	Balak4
+3213	Balak4
+3214	Balak4
+3215	Balak5
+3216	Balak5
+3217	Balak5
+3218	Balak5
+3219	Balak5
+3220	Balak5
+3221	Balak5
+3222	Balak5
+3223	Balak5
+3224	Balak5
+3225	Balak5
+3226	Balak5
+3227	Balak5
+3228	Balak5
+3229	Balak5
+3230	Balak5
+3231	Balak5
+3232	Balak6
+3233	Balak6
+3234	Balak6
+3235	Balak6
+3236	Balak6
+3237	Balak6
+3238	Balak6
+3239	Balak6
+3240	Balak6
+3241	Balak6
+3242	Balak6
+3243	Balak6
+3244	Balak6
+3245	Balak6
+3246	Balak6
+3247	Balak6
+3248	Balak6
+3249	Balak6
+3250	Balak6
+3251	Balak6
+3252	Balak7
+3253	Balak7
+3254	Balak7
+3255	Balak7
+3256	Balak7
+3257	Balak7
+3258	Balak7
+3259	Balak7
+3260	Balak7
+3261	Balak7
+3262	Balak8
+3263	Balak8
+3264	Balak8
+3265	Balak8
+3266	Balak8
+3267	Balak8
+3268	Balak8
+3269	Balak8
+3270	Balak8
+3271	Balak8
+3272	Balak8
+3273	Balak8
+3274	Balak8
+3275	Balak8
+3276	Balak8
+3277	Balak8
+3278	Balak8
+3279	Balak8
+3280	Balak8
+3281	Balak8
+3282	Balak8
+3283	Balak8
+3284	Balak8
+3285	Balak8
+3286	Balak8
+3287	Balak8
+3288	Balak8
+3289	Balak8
+3290	Balak8
+3291	Balak8
+3292	Balak8
+3293	Balak8
+3294	Balak8
+3295	Balak8
+3296	Balak8
+3297	Balak8
+3298	Balak8
+3299	Balak8
+3300	Balak8
+3301	Balak8
+3302	Balak8
+3303	Balak9
+3304	Balak9
+3305	Balak9
+3306	Balak9
+3307	Balak9
+3308	Balak9
+3309	Balak9
+3310	Balak9
+3311	Balak9
+3312	Balak9
+3313	Balak9
+3314	Balak9
+3315	Balak9
+3316	Balak9
+3317	Balak9
+3318	Balak9
+3319	Emor8
+3320	Balak9
+3321	Balak9
+3322	Balak9
+3323	Balak10
+3324	Balak10
+3325	Balak10
+3326	Balak10
+3327	Balak10
+3328	Balak10
+3329	Balak10
+3330	Balak10
+3331	Balak10
+3332	Balak10
+3333	Balak10
+3334	Balak10
+3335	Balak10
+3336	Balak10
+3337	Balak10
+3338	Balak10
+3339	Balak10
+3340	Balak10
+3341	Balak10
+3342	Balak10
+3343	Balak10
+3344	Balak10
+3345	Balak10
+3346	Balak10
+3347	Balak10
+3348	Balak11
+3349	Balak11
+3350	Balak11
+3351	Balak11
+3352	Balak11
+3353	Balak11
+3354	Balak11
+3355	Balak11
+3356	Balak11
+3357	Balak11
+3358	Balak11
+3359	Balak11
+3360	Balak11
+3361	Balak11
+3362	Balak11
+3363	Balak11
+3364	Balak11
+3365	Balak11
+3366	Balak11
+3367	Balak11
+3368	Balak12
+3369	Balak12
+3370	Balak12
+3371	Balak12
+3372	Balak12
+3373	Balak12
+3374	Balak12
+3375	Balak12
+3376	Balak12
+3377	Balak13
+3378	Balak12
+3379	Balak12
+3380	Balak12
+3381	Balak12
+3382	Balak12
+3383	Balak12
+3384	Balak12
+3385	Balak12
+3386	Balak12
+3387	Balak12
+3388	Balak12
+3389	Balak12
+3390	Balak12
+3391	Balak12
+3392	Balak12
+3393	Balak12
+3394	Balak12
+3395	Balak12
+3396	Balak12
+3397	Balak12
+3398	Balak12
+3399	Balak12
+3400	Balak12
+3401	Balak12
+3402	Balak12
+3403	Balak12
+3404	Balak12
+3405	Balak12
+3406	Balak12
+3407	Balak12
+3408	Balak12
+3409	Balak12
+3410	Balak12
+3411	Balak12
+3412	Balak12
+3413	Balak12
+3414	Balak12
+3415	Balak12
+3416	Balak12
+3417	Balak12
+3418	Balak12
+3419	Balak12
+3420	Balak12
+3421	Balak12
+3422	Balak12
+3423	Balak12
+3424	Balak12
+3425	Balak12
+3426	Balak12
+3427	Balak12
+3428	Balak12
+3429	Balak12
+3430	Balak12
+3431	Balak12
+3432	Balak12
+3433	Balak12
+3434	Balak12
+3435	Balak12
+3436	Balak12
+3437	Balak12
+3438	Balak13
+3439	Balak13
+3440	Balak13
+3441	Balak13
+3442	Balak13
+3443	Balak13
+3444	Balak13
+3445	Balak13
+3446	Balak13
+3447	Balak13
+3448	Balak13
+3449	Balak13
+3450	Balak13
+3451	Balak13
+3452	Balak13
+3453	Balak13
+3454	Balak13
+3455	Balak13
+3456	Balak13
+3457	Balak13
+3458	Balak13
+3459	Balak13
+3460	Balak13
+3461	Balak13
+3462	Balak13
+3463	Balak13
+3464	Balak13
+3465	Balak14
+3466	Balak14
+3467	Balak14
+3468	Balak14
+3469	Balak14
+3470	Balak14
+3471	Balak14
+3472	Balak14
+3473	Balak14
+3474	Balak14
+3475	Balak14
+3476	Balak14
+3477	Balak14
+3478	Balak14
+3479	Balak14
+3480	Balak14
+3481	Balak14
+3482	Balak14
+3483	Balak14
+3484	Balak14
+3485	Balak14
+3486	Balak14
+3487	Balak14
+3488	Balak14
+3489	Balak14
+3490	Balak14
+3491	Balak14
+3492	Balak14
+3493	Balak14
+3494	Balak4
+3495	Balak4
+3496	Balak4
+3497	Balak4
+3498	Balak14
+3499	Balak15
+3500	Balak15
+3501	Balak15
+3502	Balak15
+3503	Balak15
+3504	Balak15
+3505	Balak15
+3506	Balak15
+3507	Balak15
+3508	Balak15
+3509	Balak15
+3510	Balak15
+3511	Balak15
+3512	Balak15
+3513	Balak15
+3514	Balak15
+3515	Balak15
+3516	Balak15
+3517	Balak15
+3518	Balak15
+3519	Balak15
+3520	Balak15
+3521	Balak15
+3522	Balak15
+3523	Balak15
+3524	Balak15
+3525	Balak15
+3526	Balak15
+3527	Balak15
+3528	Balak15
+3529	Balak15
+3530	Balak15
+3531	Balak15
+3532	Balak15
+3533	Balak15
+3534	Balak15
+3535	Balak15
+3536	Balak16
+3537	Balak16
+3538	Balak16
+3539	Balak16
+3540	Balak16
+3541	Balak16
+3542	Balak16
+3543	Balak16
+3544	Balak16
+3545	Balak17
+3546	Balak17
+3547	Balak17
+3548	Balak17
+3549	Balak17
+3550	Balak17
+3551	Balak17
+3552	Balak17
+3553	Balak17
+3554	Balak17
+3555	Balak17
+3556	Balak17
+3557	Balak17
+3558	Balak17
+3559	Balak17
+3560	Balak17
+3561	Balak17
+3562	Balak18
+3563	Balak18
+3564	Balak18
+3565	Balak18
+3566	Balak18
+3567	Balak18
+3568	Balak18
+3569	Balak18
+3570	Balak18
+3571	Balak18
+3572	Balak18
+3573	Balak18
+3574	Balak18
+3575	Balak18
+3576	Balak18
+3577	Balak18
+3578	Balak18
+3579	Balak18
+3580	Balak18
+3581	Balak18
+3582	Balak18
+3583	Balak18
+3584	Balak18
+3585	Balak19
+3586	Balak19
+3587	Balak19
+3588	Balak19
+3589	Balak19
+3590	Balak19
+3591	Balak19
+3592	Balak19
+3593	Balak19
+3594	Balak20
+3595	Balak20
+3596	Balak20
+3597	Balak20
+3598	Balak20
+3599	Balak20
+3600	Balak20
+3601	Balak20
+3602	Balak20
+3603	Balak20
+3604	Balak20
+3605	Balak20
+3606	Balak20
+3607	Balak20
+3608	Balak20
+3609	Balak20
+3610	Balak20
+3611	Balak20
+3612	Balak20
+3613	Balak20
+3614	Balak21
+3615	Balak21
+3616	Balak21
+3617	Balak21
+3618	Balak21
+3619	Balak21
+3620	Balak21
+3621	Balak21
+3622	Balak21
+3623	Balak21
+3624	Balak21
+3625	Balak21
+3626	Balak21
+3627	Balak21
+3628	Balak21
+3629	Balak21
+3630	Balak21
+3631	Balak21
+3632	Balak21
+3633	Balak21
+3634	Balak21
+3635	Balak21
+3636	Balak21
+3637	Balak21
+3638	Balak21
+3639	Balak21
+3640	Balak21
+3641	Balak21
+3642	Balak21
+3643	Pinchas10
+3644	Pinchas10
+3645	Pinchas10
+3646	Pinchas10
+3647	Pinchas10
+3648	Pinchas10
+3649	Pinchas10
+3650	Pinchas10
+3651	Pinchas10
+3652	Pinchas10
+3653	Pinchas10
+3654	Pinchas10
+3655	Pinchas10
+3656	Pinchas10
+3657	Pinchas10
+3658	Pinchas10
+3659	Pinchas11
+3660	Pinchas11
+3661	Pinchas11
+3662	Pinchas11
+3663	Pinchas11
+3664	Pinchas11
+3665	Pinchas11
+3666	Pinchas11
+3667	Pinchas11
+3668	Pinchas11
+3669	Pinchas11
+3670	Pinchas11
+3671	Tetzaveh14
+3672	Tetzaveh14
+3673	Tetzaveh14
+3674	Tetzaveh14
+3675	Tetzaveh14
+3676	Tetzaveh14
+3677	Tetzaveh14
+3678	Tetzaveh14
+3679	Tetzaveh14
+3680	Tetzaveh14
+3681	Tetzaveh14
+3682	Tetzaveh14
+3683	Tetzaveh14
+3684	Tetzaveh14
+3685	Tetzaveh14
+3686	Tetzaveh14
+3687	Tetzaveh14
+3688	Tetzaveh14
+3689	Tetzaveh14
+3690	Tetzaveh14
+3691	Tetzaveh14
+3692	Tetzaveh14
+3693	Tetzaveh14
+3694	Tetzaveh14
+3695	Tetzaveh14
+3696	Tetzaveh14
+3697	Tetzaveh14
+3698	Tetzaveh14
+3699	Tetzaveh14
+3700	Tetzaveh14
+3701	Tetzaveh14
+3702	Tetzaveh14
+3703	Tetzaveh14
+3704	Shemot27
+3705	Shemot27
+3706	Shemot27
+3707	Shemot27
+3708	Pinchas1
+3709	Pinchas1
+3710	Pinchas1
+3711	Pinchas1
+3712	Pinchas1
+3713	Pinchas1
+3714	Pinchas1
+3715	Pinchas1
+3716	Pinchas1
+3717	Pinchas1
+3718	Pinchas1
+3719	Pinchas1
+3720	Pinchas1
+3721	Pinchas1
+3722	Pinchas1
+3723	Pinchas1
+3724	Pinchas1
+3725	Pinchas1
+3726	Pinchas1
+3727	Pinchas1
+3728	Pinchas1
+3729	Pinchas1
+3730	Pinchas1
+3731	Pinchas1
+3732	Pinchas1
+3733	Pinchas1
+3734	Pinchas1
+3735	Pinchas1
+3736	Pinchas1
+3737	Pinchas1
+3738	Pinchas1
+3739	Pinchas1
+3740	Pinchas1
+3741	Pinchas1
+3742	Pinchas1
+3743	Pinchas1
+3744	Pinchas1
+3745	Pinchas1
+3746	Pinchas1
+3747	Pinchas1
+3748	Lech Lecha20
+3749	Lech Lecha20
+3750	Lech Lecha20
+3751	Pinchas1
+3752	Pinchas1
+3753	Pinchas1
+3754	Pinchas1
+3755	Pinchas1
+3756	Pinchas2
+3757	Pinchas2
+3758	Pinchas2
+3759	Pinchas2
+3760	Pinchas2
+3761	Pinchas2
+3762	Pinchas2
+3763	Pinchas2
+3764	Pinchas2
+3765	Pinchas2
+3766	Pinchas2
+3767	Pinchas2
+3768	Pinchas2
+3769	Pinchas3
+3770	Pinchas3
+3771	Pinchas3
+3772	Pinchas3
+3773	Pinchas3
+3774	Pinchas3
+3775	Pinchas3
+3776	Pinchas3
+3777	Pinchas3
+3778	Tzav3
+3779	Tzav3
+3780	Pinchas3
+3781	Pinchas3
+3782	Pinchas3
+3783	Pinchas3
+3784	Pinchas3
+3785	Pinchas3
+3786	Lech Lecha7
+3787	Lech Lecha7
+3788	Lech Lecha7
+3789	Pinchas3
+3790	Pinchas3
+3791	Pinchas3
+3792	Pinchas3
+3793	Pinchas3
+3794	Pinchas3
+3795	Pinchas3
+3796	Pinchas3
+3797	Pinchas3
+3798	Pinchas3
+3799	Pinchas3
+3800	Pinchas3
+3801	Pinchas3
+3802	Pinchas3
+3803	Pinchas3
+3804	Pinchas3
+3805	Pinchas3
+3806	Bamidbar8
+3807	Bamidbar8
+3808	Bamidbar8
+3809	Bamidbar8
+3810	Pinchas5
+3811	Pinchas5
+3812	Pinchas5
+3813	Pinchas5
+3814	Pinchas5
+3815	Pinchas5
+3816	Pinchas5
+3817	Pinchas5
+3818	Pinchas5
+3819	Pinchas5
+3820	Pinchas6
+3821	Pinchas6
+3822	Pinchas6
+3823	Pinchas6
+3824	Pinchas6
+3825	Pinchas6
+3826	Pinchas6
+3827	Pinchas6
+3828	Pinchas6
+3829	Pinchas6
+3830	Pinchas6
+3831	Pinchas6
+3832	Pinchas6
+3833	Pinchas6
+3834	Pinchas7
+3835	Pinchas7
+3836	Pinchas7
+3837	Pinchas7
+3838	Pinchas7
+3839	Pinchas7
+3840	Pinchas7
+3841	Pinchas7
+3842	Pinchas7
+3843	Pinchas7
+3844	Pinchas7
+3845	Pinchas8
+3846	Pinchas8
+3847	Pinchas8
+3848	Pinchas8
+3849	Pinchas8
+3850	Pinchas8
+3851	Pinchas8
+3852	Pinchas8
+3853	Pinchas8
+3854	Pinchas8
+3855	Pinchas8
+3856	Pinchas8
+3857	Pinchas8
+3858	Pinchas8
+3859	Pinchas8
+3860	Pinchas8
+3861	Pinchas8
+3862	Pinchas8
+3863	Pinchas9
+3864	Pinchas9
+3865	Pinchas9
+3866	Pinchas9
+3867	Pinchas9
+3868	Pinchas9
+3869	Pinchas9
+3870	Pinchas9
+3871	Pinchas9
+3872	Pinchas9
+3873	Pinchas9
+3874	Pinchas9
+3875	Pinchas9
+3876	Pinchas9
+3877	Pinchas9
+3878	Pinchas9
+3879	Pinchas9
+3880	Pinchas9
+3881	Pinchas9
+3882	Pinchas9
+3883	Pinchas9
+3884	Pinchas9
+3885	Pinchas9
+3886	Pinchas9
+3887	Pinchas11
+3888	Pinchas11
+3889	Pinchas11
+3890	Pinchas11
+3891	Pinchas11
+3892	Pinchas11
+3893	Pinchas11
+3894	Pinchas11
+3895	Pinchas11
+3896	Pinchas11
+3897	Pinchas11
+3898	Pinchas11
+3899	Pinchas11
+3900	Pinchas11
+3901	Pinchas11
+3902	Pinchas12
+3903	Pinchas12
+3904	Pinchas12
+3905	Pinchas12
+3906	Pinchas12
+3907	Pinchas12
+3908	Pinchas12
+3909	Pinchas12
+3910	Pinchas12
+3911	Tetzaveh14
+3912	Pinchas12
+3913	Pinchas12
+3914	Pinchas12
+3915	Pinchas12
+3916	Pinchas12
+3917	Emor10
+3918	Pinchas12
+3919	Pinchas12
+3920	Pinchas12
+3921	Pinchas12
+3922	Pinchas12
+3923	Pinchas12
+3924	Pinchas12
+3925	Pinchas12
+3926	Vayera11
+3927	Pinchas12
+3928	Vayera11
+3929	Vayera11
+3930	Pinchas12
+3931	Pinchas12
+3932	Pinchas12
+3933	Pinchas12
+3934	Pinchas12
+3935	Pinchas12
+3936	Pinchas12
+3937	Pinchas12
+3938	Pinchas12
+3939	Pinchas12
+3940	Pinchas12
+3941	Pinchas12
+3942	Pinchas12
+3943	Pinchas12
+3944	Pinchas12
+3945	Pinchas12
+3946	Pinchas12
+3947	Pinchas12
+3948	Pinchas12
+3949	Pinchas12
+3950	Pinchas12
+3951	Pinchas12
+3952	Pinchas12
+3953	Pinchas12
+3954	Pinchas12
+3955	Pinchas12
+3956	Pinchas12
+3957	Pinchas13
+3958	Pinchas13
+3959	Pinchas13
+3960	Pinchas13
+3961	Pinchas13
+3962	Pinchas13
+3963	Pinchas13
+3964	Pinchas13
+3965	Pinchas13
+3966	Pinchas13
+3967	Pinchas13
+3968	Pinchas13
+3969	Pinchas13
+3970	Pinchas13
+3971	Tetzaveh14
+3972	Pinchas13
+3973	Pinchas13
+3974	Pinchas13
+3975	Pinchas13
+3976	Pinchas13
+3977	Pinchas13
+3978	Pinchas13
+3979	Pinchas13
+3980	Pinchas14
+3981	Pinchas14
+3982	Pinchas14
+3983	Pinchas14
+3984	Pinchas14
+3985	Pinchas14
+3986	Pinchas14
+3987	Pinchas14
+3988	Pinchas14
+3989	Pinchas14
+3990	Pinchas14
+3991	Pinchas14
+3992	Pinchas14
+3993	Pinchas14
+3994	Pinchas14
+3995	Pinchas14
+3996	Pinchas14
+3997	Pinchas14
+3998	Pinchas15
+3999	Pinchas15
+4000	Pinchas15
+4001	Pinchas15
+4002	Pinchas15
+4003	Pinchas15
+4004	Pinchas15
+4005	Pinchas15
+4006	Pinchas15
+4007	Pinchas15
+4008	Pinchas15
+4009	Pinchas15
+4010	Pinchas16
+4011	Pinchas16
+4012	Pinchas16
+4013	Pinchas16
+4014	Pinchas16
+4015	Pinchas16
+4016	Pinchas16
+4017	Pinchas16
+4018	Pinchas16
+4019	Pinchas16
+4020	Pinchas16
+4021	Pinchas16
+4022	Pinchas16
+4023	Pinchas16
+4024	Pinchas16
+4025	Pinchas16
+4026	Pinchas16
+4027	Pinchas16
+4028	Pinchas16
+4029	Pinchas16
+4030	Pinchas16
+4031	Pinchas16
+4032	Pinchas16
+4033	Pinchas16
+4034	Pinchas16
+4035	Pinchas16
+4036	Pinchas16
+4037	Pinchas16
+4038	Pinchas16
+4039	Pinchas17
+4040	Pinchas17
+4041	Pinchas17
+4042	Pinchas17
+4043	Pinchas17
+4044	Pinchas17
+4045	Pinchas17
+4046	Pinchas17
+4047	Pinchas17
+4048	Pinchas17
+4049	Pinchas17
+4050	Pinchas17
+4051	Pinchas17
+4052	Pinchas17
+4053	Pinchas17
+4054	Pinchas17
+4055	Matot1
+4056	Matot1
+4057	Matot1
+4058	Matot1
+4059	Matot1
+4060	Matot1
+4061	Matot1
+4062	Matot1
+4063	Matot1
+4064	Matot1
+4065	Matot1
+4066	Matot1
+4067	Matot1
+4068	Matot1
+4069	Matot1
+4070	Matot1
+4071	Matot1
+4072	Matot1
+4073	Matot1
+4074	Matot1
+4075	Matot1
+4076	Matot1
+4077	Matot1
+4078	Matot1
+4079	Matot1
+4080	Matot1
+4081	Matot2
+4082	Matot2
+4083	Matot2
+4084	Matot2
+4085	Matot2
+4086	Matot2
+4087	Matot2
+4088	Matot2
+4089	Matot2
+4090	Matot2
+4091	Matot2
+4092	Matot2
+4093	Matot2
+4094	Matot2
+4095	Matot2
+4096	Matot3
+4097	Matot3
+4098	Matot3
+4099	Matot3
+4100	Matot3
+4101	Matot3
+4102	Matot3
+4103	Matot3
+4104	Matot3
+4105	Matot3
+4106	Matot3
+4107	Matot3
+4108	Matot3
+4109	Matot3
+4110	Matot3
+4111	Matot3
+4112	Matot3
+4113	Matot3
+4114	Matot3
+4115	Matot3
+4116	Matot3
+4117	Matot3
+4118	Matot3
+4119	Matot3
+4120	Matot3
+4121	Matot3
+4122	Matot3
+4123	Matot3
+4124	Matot3
+4125	Matot4
+4126	Matot4
+4127	Matot4
+4128	Matot4
+4129	Matot4
+4130	Matot4
+4131	Matot4
+4132	Matot4
+4133	Matot4
+4134	Matot4
+4135	Matot4
+4136	Matot4
+4137	Matot5
+4138	Matot5
+4139	Matot5
+4140	Matot5
+4141	Matot5
+4142	Matot5
+4143	Matot5
+4144	Matot5
+4145	Matot5
+4146	Matot5
+4147	Matot5
+4148	Matot5
+4149	Matot5
+4150	Matot5
+4151	Matot5
+4152	Matot5
+4153	Matot5
+4154	Matot6
+4155	Matot6
+4156	Matot6
+4157	Matot6
+4158	Matot6
+4159	Matot7
+4160	Matot7
+4161	Matot7
+4162	Matot7
+4163	Matot7
+4164	Matot7
+4165	Matot7
+4166	Masei1
+4167	Masei1
+4168	Masei1
+4169	Masei1
+4170	Masei1
+4171	Masei1
+4172	Masei1
+4173	Masei1
+4174	Masei1
+4175	Mishpatim3
+4176	Mishpatim3
+4177	Masei1
+4178	Masei1
+4179	Masei1
+4180	Masei1
+4181	Masei1
+4182	Masei1
+4183	Masei1
+4184	Masei1
+4185	Masei1
+4186	Masei2
+4187	Masei2
+4188	Masei2
+4189	Masei2
+4190	Masei2
+4191	Masei2
+4192	Masei2
+4193	Masei2
+4194	Masei2
+4195	Masei2
+4196	Masei2
+4197	Masei2
+4198	Masei2
+4199	Masei2
+4200	Masei3
+4201	Masei3
+4202	Masei3
+4203	Masei3
+4204	Masei3
+4205	Masei3
+4206	Masei3
+4207	Masei3
+4208	Masei3
+4209	Masei3
+4210	Masei3
+4211	Masei3
+4212	Masei3
+4213	Masei3
+4214	Masei4
+4215	Masei4
+4216	Masei4
+4217	Masei4
+4218	Masei4
+4219	Masei4
+4220	Masei4
+4221	Masei4
+4222	Masei4
+4223	Masei4
+4224	Masei4
+4225	Masei4
+4226	Masei4
+4227	Masei4
+4228	Masei4
+4229	Masei4
+4230	Masei4
+4231	Masei4
+4232	Masei4
+4233	Masei4
+4234	Masei4
+4235	Masei4
+4236	Masei4
+4237	Masei4
+4238	Masei4
+4239	Masei4
+4240	Masei5
+4241	Masei5
+4242	Masei5
+4243	Masei5
+4244	Masei5
+4245	Masei5
+4246	Masei5
+4247	Masei5
+4248	Masei5
+4249	Masei5
+4250	Masei5
+4251	Masei5
+4252	Masei5
+4253	Masei5
+4254	Masei5
+4255	Masei5
+4256	Masei5
+4257	Masei5
+4258	Masei5
+4259	Masei5
+4260	Masei5
+4261	Masei5
+4262	Masei5
+4263	Masei5
+4264	Masei5
+4265	Masei5
+4266	Masei5
+4267	Masei5
+4268	Masei5
+4269	Masei5
+4270	Masei5
+4271	Masei5
+4272	Masei5
+4273	Masei5
+4274	Masei5
+4275	Masei6
+4276	Masei6
+4277	Masei6
+4278	Masei6
+4279	Masei6
+4280	Masei6
+4281	Masei6
+4282	Masei6
+4283	Masei6
+4284	Masei6
+4285	Masei6
+4286	Masei6
+4287	Masei6
+4288	Masei6
+4289	Masei6
+4290	Masei6
+4291	Masei6
+4292	Masei6
+4293	Masei6
+4294	Masei6
+4295	Masei6
+4296	Masei6
+4297	Masei6
+4298	Masei6
+4299	Masei6
+4300	Masei7
+4301	Masei7
+4302	Masei7
+4303	Masei7
+4304	Masei7
+4305	Masei7
+4306	Masei7
+4307	Masei7
+4308	Masei7
+4309	Masei7
+4310	Masei8
+4311	Masei8
+4312	Masei8
+4313	Masei8
+4314	Masei8
+4315	Masei8
+4316	Masei8
+4317	Masei8
+4318	Masei8
+4319	Masei8
+4320	Masei8
+4321	Masei8
+4322	Masei8
+4323	Masei8
+4324	Masei8
+4325	Masei8
+4326	Masei8
+4327	Masei8
+4328	Masei8
+4329	Masei8
+4330	Masei8
+4331	Masei8
+4332	Masei8
+4333	Masei8
+4334	Masei8
+4335	Masei8
+4336	Masei9
+4337	Masei9
+4338	Masei9
+4339	Masei9
+4340	Masei9
+4341	Masei9
+4342	Masei10
+4343	Masei10
+4344	Masei10
+4345	Masei10
+4346	Masei10
+4347	Masei10
+4348	Masei10
+4349	Masei10
+4350	Masei10
+4351	Masei11
+4352	Masei11
+4353	Masei11
+4354	Masei11
+4355	Masei11
+4356	Masei11
+4357	Masei11
+4358	Masei11
+4359	Masei11
+4360	Masei11
+4361	Masei11
+4362	Masei11
+4363	Masei11
+4364	Masei11
+4365	Masei11
+4366	Masei11
+4367	Masei12
+4368	Masei12
+4369	Masei12
+4370	Masei12
+4371	Masei12
+4372	Masei12
+4373	Masei12
+4374	Masei12
+4375	Masei12
+4376	Masei12
+4377	Masei12
+4378	Masei12
+4379	Masei12
+4380	Masei12
+4381	Masei12
+4382	Masei12
+4383	Masei12
+4384	Masei12
+4385	Masei12
+4386	Masei12
+4387	Masei12
+4388	Masei12
+4389	Masei12
+4390	Masei12
+4391	Masei12
+4392	Masei12
+4393	Masei12
+4394	Masei12
+4395	Masei12
+4396	Masei12
+4397	Masei12
+4398	Masei12
+4399	Masei12
+4400	Masei12
+4401	Masei12
+4402	Masei12
+4403	Masei12
+4404	Masei12
+4405	Masei12
+4406	Masei12
+4407	Masei13
+4408	Masei13
+4409	Masei13
+4410	Masei13
+4411	Masei13
+4412	Masei13
+4413	Masei13
+4414	Masei13
+4415	Masei13
+4416	Masei13
+4417	Masei13
+4418	Masei13
+4419	Masei13
+4420	Masei13
+4421	Masei13
+4422	Masei13
+4423	Masei13
+4424	Masei13
+4425	Masei13
+4426	Masei13
+4427	Masei13
+4428	Masei13
+4429	Masei13
+4430	Masei13
+4431	Masei13
+4432	Masei13
+4433	Devarim1
+4434	Devarim1
+4435	Devarim1
+4436	Devarim1
+4437	Devarim1
+4438	Devarim1
+4439	Devarim1
+4440	Devarim1
+4441	Devarim1
+4442	Devarim1
+4443	Devarim1
+4444	Devarim1
+4445	Devarim1
+4446	Devarim1
+4447	Devarim1
+4448	Devarim1
+4449	Devarim1
+4450	Devarim1
+4451	Devarim1
+4452	Devarim1
+4453	Devarim1
+4454	Devarim1
+4455	Devarim1
+4456	Devarim1
+4457	Devarim3
+4458	Devarim3
+4459	Devarim3
+4460	Devarim3
+4461	Devarim3
+4462	Devarim3
+4463	Devarim3
+4464	Devarim3
+4465	Devarim3
+4466	Devarim3
+4467	Devarim3
+4468	Devarim3
+4469	Devarim3
+4470	Devarim3
+4471	Devarim3
+4472	Devarim3
+4473	Devarim3
+4474	Devarim3
+4475	Devarim3
+4476	Devarim3
+4477	Devarim3
+4478	Devarim3
+4479	Devarim3
+4480	Devarim3
+4481	Devarim3
+4482	Devarim3
+4483	Devarim3
+4484	Devarim3
+4485	Devarim3
+4486	Devarim3
+4487	Devarim3
+4488	Devarim3
+4489	Devarim3
+4490	Devarim3
+4491	Devarim3
+4492	Devarim3
+4493	Devarim3
+4494	Devarim4
+4495	Devarim4
+4496	Devarim4
+4497	Devarim4
+4498	Devarim4
+4499	Devarim4
+4500	Devarim4
+4501	Devarim4
+4502	Devarim4
+4503	Devarim4
+4504	Devarim4
+4505	Devarim4
+4506	Devarim4
+4507	Devarim4
+4508	Devarim4
+4509	Devarim4
+4510	Devarim4
+4511	Vaetchanan1
+4512	Vaetchanan1
+4513	Vaetchanan1
+4514	Vaetchanan1
+4515	Vaetchanan1
+4516	Vaetchanan1
+4517	Vaetchanan1
+4518	Vaetchanan1
+4519	Vaetchanan1
+4520	Vaetchanan1
+4521	Vaetchanan1
+4522	Vaetchanan1
+4523	Vaetchanan1
+4524	Vaetchanan1
+4525	Vaetchanan1
+4526	Vaetchanan1
+4527	Vaetchanan1
+4528	Vaetchanan1
+4529	Vaetchanan1
+4530	Vaetchanan1
+4531	Vaetchanan1
+4532	Vaetchanan1
+4533	Vaetchanan1
+4534	Vaetchanan1
+4535	Vaetchanan1
+4536	Vaetchanan1
+4537	Vaetchanan1
+4538	Vaetchanan1
+4539	Vaetchanan1
+4540	Vaetchanan1
+4541	Vaetchanan1
+4542	Vaetchanan1
+4543	Vaetchanan1
+4544	Vaetchanan1
+4545	Vaetchanan1
+4546	Vaetchanan1
+4547	Vaetchanan1
+4548	Vaetchanan1
+4549	Vaetchanan1
+4550	Vaetchanan1
+4551	Vaetchanan1
+4552	Vaetchanan1
+4553	Vaetchanan1
+4554	Vaetchanan1
+4555	Vaetchanan1
+4556	Vaetchanan1
+4557	Vaetchanan1
+4558	Vaetchanan1
+4559	Vaetchanan1
+4560	Vaetchanan3
+4561	Vaetchanan3
+4562	Vaetchanan3
+4563	Vaetchanan3
+4564	Vaetchanan3
+4565	Vaetchanan3
+4566	Vaetchanan3
+4567	Vaetchanan3
+4568	Vaetchanan3
+4569	Vaetchanan3
+4570	Vaetchanan3
+4571	Vaetchanan3
+4572	Vaetchanan4
+4573	Vaetchanan4
+4574	Vaetchanan4
+4575	Vaetchanan4
+4576	Vaetchanan4
+4577	Vaetchanan4
+4578	Vaetchanan4
+4579	Vaetchanan4
+4580	Vaetchanan4
+4581	Vaetchanan4
+4582	Vaetchanan4
+4583	Vaetchanan4
+4584	Vaetchanan4
+4585	Vaetchanan4
+4586	Vaetchanan4
+4587	Vaetchanan4
+4588	Vaetchanan4
+4589	Vaetchanan4
+4590	Vaetchanan4
+4591	Vaetchanan4
+4592	Vaetchanan5
+4593	Vaetchanan5
+4594	Vaetchanan5
+4595	Vaetchanan5
+4596	Vaetchanan6
+4597	Vaetchanan6
+4598	Vaetchanan6
+4599	Vaetchanan6
+4600	Vaetchanan6
+4601	Vaetchanan6
+4602	Vaetchanan6
+4603	Vaetchanan6
+4604	Vaetchanan6
+4605	Vaetchanan6
+4606	Vaetchanan6
+4607	Vaetchanan6
+4608	Vaetchanan6
+4609	Vaetchanan6
+4610	Vaetchanan6
+4611	Vaetchanan6
+4612	Vaetchanan6
+4613	Vaetchanan6
+4614	Vaetchanan6
+4615	Vaetchanan6
+4616	Vaetchanan6
+4617	Vaetchanan6
+4618	Vaetchanan6
+4619	Vaetchanan6
+4620	Vaetchanan6
+4621	Vaetchanan6
+4622	Vaetchanan6
+4623	Vaetchanan6
+4624	Vaetchanan6
+4625	Vaetchanan6
+4626	Vaetchanan6
+4627	Vaetchanan6
+4628	Vaetchanan6
+4629	Vaetchanan6
+4630	Vaetchanan6
+4631	Vaetchanan6
+4632	Vaetchanan6
+4633	Vaetchanan6
+4634	Vaetchanan6
+4635	Vaetchanan6
+4636	Vaetchanan6
+4637	Vaetchanan6
+4638	Vaetchanan6
+4639	Vaetchanan6
+4640	Vaetchanan6
+4641	Vaetchanan6
+4642	Vaetchanan6
+4643	Vaetchanan6
+4644	Vaetchanan6
+4645	Vaetchanan6
+4646	Vaetchanan6
+4647	Vaetchanan6
+4648	Vaetchanan6
+4649	Vaetchanan6
+4650	Vaetchanan6
+4651	Vaetchanan6
+4652	Vaetchanan6
+4653	Vaetchanan6
+4654	Vaetchanan6
+4655	Vaetchanan6
+4656	Vaetchanan6
+4657	Vaetchanan6
+4658	Vaetchanan6
+4659	Vaetchanan6
+4660	Vaetchanan6
+4661	Vaetchanan6
+4662	Vaetchanan6
+4663	Vaetchanan6
+4664	Vaetchanan6
+4665	Vaetchanan6
+4666	Vaetchanan6
+4667	Vaetchanan6
+4668	Vaetchanan6
+4669	Vaetchanan6
+4670	Vaetchanan6
+4671	Vaetchanan6
+4672	Vaetchanan6
+4673	Vaetchanan6
+4674	Vaetchanan6
+4675	Vaetchanan6
+4676	Vaetchanan6
+4677	Vaetchanan6
+4678	Vaetchanan6
+4679	Vaetchanan6
+4680	Vaetchanan6
+4681	Vaetchanan6
+4682	Vaetchanan6
+4683	Vaetchanan6
+4684	Vaetchanan6
+4685	Vaetchanan6
+4686	Vaetchanan6
+4687	Vaetchanan6
+4688	Vaetchanan6
+4689	Vaetchanan6
+4690	Vaetchanan6
+4691	Vaetchanan6
+4692	Vaetchanan6
+4693	Vaetchanan6
+4694	Vaetchanan6
+4695	Vaetchanan6
+4696	Vaetchanan6
+4697	Vaetchanan6
+4698	Vaetchanan6
+4699	Vaetchanan6
+4700	Vaetchanan6
+4701	Vaetchanan6
+4702	Vaetchanan6
+4703	Vaetchanan6
+4704	Vaetchanan6
+4705	Vaetchanan6
+4706	Vaetchanan6
+4707	Vaetchanan6
+4708	Vaetchanan6
+4709	Vaetchanan6
+4710	Vaetchanan6
+4711	Vaetchanan6
+4712	Vaetchanan6
+4713	Vaetchanan6
+4714	Vaetchanan6
+4715	Vaetchanan6
+4716	Vaetchanan6
+4717	Vaetchanan6
+4718	Vaetchanan6
+4719	Vaetchanan6
+4720	Vaetchanan6
+4721	Vaetchanan6
+4722	Vaetchanan6
+4723	Vaetchanan6
+4724	Vaetchanan6
+4725	Vaetchanan6
+4726	Vaetchanan6
+4727	Vaetchanan6
+4728	Vaetchanan6
+4729	Vaetchanan6
+4730	Vaetchanan6
+4731	Eikev1
+4732	Eikev1
+4733	Eikev1
+4734	Eikev1
+4735	Eikev1
+4736	Eikev1
+4737	Eikev1
+4738	Eikev1
+4739	Eikev1
+4740	Eikev1
+4741	Eikev1
+4742	Eikev1
+4743	Eikev1
+4744	Eikev1
+4745	Eikev1
+4746	Eikev1
+4747	Eikev2
+4748	Eikev2
+4749	Eikev2
+4750	Eikev2
+4751	Eikev2
+4752	Eikev2
+4753	Eikev2
+4754	Eikev2
+4755	Eikev2
+4756	Eikev2
+4757	Eikev2
+4758	Eikev2
+4759	Eikev2
+4760	Eikev2
+4761	Eikev3
+4762	Eikev3
+4763	Eikev3
+4764	Eikev3
+4765	Eikev3
+4766	Eikev3
+4767	Eikev3
+4768	Eikev3
+4769	Eikev3
+4770	Eikev3
+4771	Eikev3
+4772	Eikev3
+4773	Eikev3
+4774	Eikev3
+4775	Eikev3
+4776	Eikev3
+4777	Eikev3
+4778	Eikev3
+4779	Eikev3
+4780	Eikev3
+4781	Eikev3
+4782	Eikev3
+4783	Eikev3
+4784	Eikev3
+4785	Eikev3
+4786	Eikev3
+4787	Eikev3
+4788	Eikev3
+4789	Eikev3
+4790	Eikev3
+4791	Eikev3
+4792	Eikev3
+4793	Eikev3
+4794	Eikev3
+4795	Re'eh1
+4796	Re'eh1
+4797	Re'eh1
+4798	Re'eh1
+4799	Bereshit1
+4800	Re'eh1
+4801	Re'eh1
+4802	Re'eh1
+4803	Re'eh1
+4804	Re'eh1
+4805	Re'eh1
+4806	Re'eh1
+4807	Re'eh1
+4808	Re'eh1
+4809	Re'eh1
+4810	Re'eh1
+4811	Re'eh1
+4812	Re'eh1
+4813	Re'eh1
+4814	Nasso17
+4815	Re'eh1
+4816	Re'eh1
+4817	Re'eh1
+4818	Re'eh1
+4819	Re'eh1
+4820	Re'eh1
+4821	Re'eh9
+4822	Re'eh9
+4823	Re'eh9
+4824	Re'eh9
+4825	Re'eh9
+4826	Re'eh9
+4827	Re'eh9
+4828	Re'eh9
+4829	Re'eh9
+4830	Re'eh9
+4831	Re'eh9
+4832	Re'eh9
+4833	Re'eh9
+4834	Re'eh9
+4835	Re'eh9
+4836	Re'eh9
+4837	Re'eh9
+4838	Re'eh9
+4839	Re'eh9
+4840	Re'eh9
+4841	Re'eh9
+4842	Re'eh9
+4843	Re'eh9
+4844	Re'eh10
+4845	Re'eh10
+4846	Re'eh10
+4847	Re'eh10
+4848	Re'eh10
+4849	Re'eh10
+4850	Re'eh10
+4851	Re'eh10
+4852	Re'eh10
+4853	Re'eh10
+4854	Re'eh10
+4855	Re'eh10
+4856	Re'eh10
+4857	Re'eh10
+4858	Re'eh10
+4859	Re'eh10
+4860	Re'eh10
+4861	Re'eh10
+4862	Re'eh12
+4863	Re'eh10
+4864	Re'eh10
+4865	Re'eh10
+4866	Re'eh10
+4867	Re'eh10
+4868	Re'eh10
+4869	Re'eh10
+4870	Re'eh10
+4871	Re'eh10
+4872	Re'eh10
+4873	Re'eh10
+4874	Re'eh10
+4875	Re'eh10
+4876	Re'eh10
+4877	Re'eh11
+4878	Re'eh11
+4879	Re'eh11
+4880	Re'eh11
+4881	Re'eh11
+4882	Re'eh11
+4883	Re'eh11
+4884	Re'eh11
+4885	Re'eh11
+4886	Re'eh11
+4887	Re'eh11
+4888	Re'eh11
+4889	Re'eh11
+4890	Re'eh12
+4891	Re'eh12
+4892	Re'eh12
+4893	Re'eh12
+4894	Re'eh12
+4895	Re'eh12
+4896	Re'eh12
+4897	Re'eh12
+4898	Re'eh12
+4899	Re'eh12
+4900	Re'eh12
+4901	Re'eh12
+4902	Re'eh12
+4903	Re'eh12
+4904	Re'eh13
+4905	Re'eh13
+4906	Re'eh13
+4907	Re'eh13
+4908	Re'eh13
+4909	Re'eh13
+4910	Re'eh13
+4911	Re'eh13
+4912	Re'eh13
+4913	Re'eh14
+4914	Re'eh14
+4915	Re'eh14
+4916	Re'eh14
+4917	Re'eh14
+4918	Re'eh14
+4919	Re'eh14
+4920	Re'eh14
+4921	Re'eh14
+4922	Re'eh14
+4923	Re'eh14
+4924	Re'eh14
+4925	Re'eh14
+4926	Re'eh14
+4927	Re'eh14
+4928	Re'eh14
+4929	Re'eh14
+4930	Re'eh14
+4931	Re'eh14
+4932	Re'eh14
+4933	Re'eh14
+4934	Re'eh14
+4935	Re'eh14
+4936	Re'eh14
+4937	Re'eh14
+4938	Re'eh14
+4939	Re'eh14
+4940	Re'eh15
+4941	Re'eh15
+4942	Re'eh15
+4943	Re'eh15
+4944	Re'eh15
+4945	Re'eh15
+4946	Re'eh15
+4947	Re'eh15
+4948	Re'eh15
+4949	Re'eh15
+4950	Re'eh15
+4951	Re'eh15
+4952	Re'eh15
+4953	Re'eh15
+4954	Re'eh15
+4955	Re'eh15
+4956	Re'eh15
+4957	Re'eh15
+4958	Re'eh15
+4959	Re'eh15
+4960	Re'eh15
+4961	Re'eh15
+4962	Re'eh15
+4963	Re'eh16
+4964	Re'eh16
+4965	Re'eh16
+4966	Re'eh16
+4967	Re'eh16
+4968	Re'eh16
+4969	Re'eh16
+4970	Re'eh16
+4971	Re'eh16
+4972	Re'eh16
+4973	Re'eh16
+4974	Re'eh16
+4975	Re'eh16
+4976	Re'eh16
+4977	Re'eh16
+4978	Re'eh16
+4979	Re'eh16
+4980	Re'eh16
+4981	Re'eh16
+4982	Re'eh16
+4983	Re'eh16
+4984	Re'eh16
+4985	Re'eh16
+4986	Re'eh17
+4987	Re'eh17
+4988	Re'eh17
+4989	Re'eh17
+4990	Re'eh17
+4991	Re'eh17
+4992	Re'eh17
+4993	Re'eh17
+4994	Re'eh17
+4995	Re'eh17
+4996	Re'eh17
+4997	Re'eh18
+4998	Re'eh18
+4999	Re'eh18
+5000	Re'eh18
+5001	Re'eh18
+5002	Re'eh18
+5003	Re'eh18
+5004	Re'eh18
+5005	Re'eh18
+5006	Re'eh18
+5007	Re'eh18
+5008	Re'eh18
+5009	Re'eh18
+5010	Re'eh18
+5011	Re'eh18
+5012	Re'eh18
+5013	Re'eh18
+5014	Re'eh18
+5015	Re'eh18
+5016	Re'eh18
+5017	Re'eh18
+5018	Re'eh18
+5019	Shoftim1
+5020	Shoftim1
+5021	Shoftim1
+5022	Shoftim1
+5023	Shoftim1
+5024	Shoftim1
+5025	Shoftim1
+5026	Shoftim1
+5027	Shoftim1
+5028	Shoftim1
+5029	Shoftim1
+5030	Shoftim1
+5031	Shoftim1
+5032	Shoftim1
+5033	Shoftim1
+5034	Shoftim1
+5035	Shoftim1
+5036	Shoftim1
+5037	Shoftim1
+5038	Shoftim1
+5039	Shoftim1
+5040	Shoftim1
+5041	Shoftim1
+5042	Shoftim1
+5043	Shoftim1
+5044	Shoftim1
+5045	Shoftim1
+5046	Shoftim1
+5047	Shoftim1
+5048	Shoftim1
+5049	Shoftim1
+5050	Shoftim1
+5051	Shoftim1
+5052	Shoftim1
+5053	Shoftim1
+5054	Shoftim1
+5055	Shoftim1
+5056	Shoftim1
+5057	Shoftim2
+5058	Shoftim2
+5059	Shoftim2
+5060	Shoftim2
+5061	Shoftim2
+5062	Shoftim2
+5063	Shoftim2
+5064	Shoftim2
+5065	Shoftim2
+5066	Shoftim2
+5067	Shoftim5
+5068	Shoftim5
+5069	Shoftim5
+5070	Shoftim5
+5071	Shoftim5
+5072	Shoftim5
+5073	Shemot10
+5074	Shoftim6
+5075	Shoftim6
+5076	Shoftim6
+5077	Shoftim6
+5078	Shoftim6
+5079	Shoftim6
+5080	Shoftim6
+5081	Shoftim7
+5082	Shoftim7
+5083	Shoftim7
+5084	Shoftim7
+5085	Shoftim7
+5086	Shoftim7
+5087	Shoftim7
+5088	Shoftim7
+5089	Shoftim7
+5090	Shoftim7
+5091	Shoftim7
+5092	Shoftim7
+5093	Shoftim7
+5094	Shoftim7
+5095	Shoftim7
+5096	Shoftim7
+5097	Shoftim7
+5098	Shoftim7
+5099	Shoftim7
+5100	Shoftim7
+5101	Shoftim7
+5102	Shoftim7
+5103	Shoftim7
+5104	Shoftim8
+5105	Shoftim8
+5106	Shoftim8
+5107	Shoftim8
+5108	Shoftim8
+5109	Shoftim8
+5110	Shoftim8
+5111	Shoftim8
+5112	Shoftim8
+5113	Shoftim8
+5114	Shoftim8
+5115	Shoftim8
+5116	Shoftim8
+5117	Shoftim8
+5118	Shoftim8
+5119	Shoftim8
+5120	Shoftim8
+5121	Shoftim8
+5122	Shoftim8
+5123	Shoftim8
+5124	Shoftim8
+5125	Shoftim8
+5126	Shoftim8
+5127	Shoftim8
+5128	Shoftim8
+5129	Mishpatim3
+5130	Shoftim9
+5131	Shoftim9
+5132	Shoftim9
+5133	Shoftim9
+5134	Shoftim9
+5135	Shoftim9
+5136	Shoftim9
+5137	Shoftim9
+5138	Shoftim9
+5139	Shoftim9
+5140	Shoftim9
+5141	Shoftim9
+5142	Shoftim9
+5143	Shoftim9
+5144	Shoftim9
+5145	Shoftim9
+5146	Shoftim9
+5147	Shoftim9
+5148	Shoftim9
+5149	Shoftim9
+5150	Shoftim9
+5151	Shoftim9
+5152	Shoftim9
+5153	Shoftim9
+5154	Shoftim9
+5155	Shoftim9
+5156	Shoftim9
+5157	Shoftim9
+5158	Shoftim9
+5159	Shoftim9
+5160	Shoftim9
+5161	Shoftim9
+5162	Shoftim9
+5163	Shoftim9
+5164	Shoftim9
+5165	Shoftim9
+5166	Shoftim9
+5167	Shoftim9
+5168	Shoftim9
+5169	Shoftim9
+5170	Shoftim9
+5171	Shoftim9
+5172	Shoftim9
+5173	Shoftim9
+5174	Shoftim9
+5175	Shoftim9
+5176	Shoftim9
+5177	Shoftim9
+5178	Shoftim9
+5179	Shoftim9
+5180	Shoftim9
+5181	Shoftim9
+5182	Shoftim9
+5183	Shoftim9
+5184	Shoftim9
+5185	Shoftim9
+5186	Shoftim9
+5187	Shoftim9
+5188	Shoftim9
+5189	Shoftim9
+5190	Shoftim9
+5191	Shoftim9
+5192	Shoftim9
+5193	Shoftim9
+5194	Shoftim9
+5195	Shoftim9
+5196	Shoftim9
+5197	Ki Teitzei1
+5198	Ki Teitzei1
+5199	Ki Teitzei1
+5200	Ki Teitzei1
+5201	Ki Teitzei1
+5202	Ki Teitzei1
+5203	Ki Teitzei1
+5204	Ki Teitzei1
+5205	Ki Teitzei1
+5206	Ki Teitzei1
+5207	Ki Teitzei1
+5208	Ki Teitzei1
+5209	Ki Teitzei1
+5210	Ki Teitzei1
+5211	Ki Teitzei1
+5212	Ki Teitzei1
+5213	Ki Teitzei1
+5214	Ki Teitzei1
+5215	Ki Teitzei1
+5216	Ki Teitzei1
+5217	Ki Teitzei1
+5218	Ki Teitzei1
+5219	Ki Teitzei1
+5220	Ki Teitzei1
+5221	Ki Teitzei1
+5222	Ki Teitzei1
+5223	Ki Teitzei1
+5224	Ki Teitzei2
+5225	Ki Teitzei2
+5226	Ki Teitzei2
+5227	Ki Teitzei2
+5228	Ki Teitzei2
+5229	Ki Teitzei2
+5230	Ki Teitzei2
+5231	Ki Teitzei2
+5232	Ki Teitzei2
+5233	Ki Teitzei2
+5234	Ki Teitzei2
+5235	Ki Teitzei2
+5236	Ki Teitzei2
+5237	Ki Teitzei2
+5238	Ki Teitzei2
+5239	Ki Teitzei2
+5240	Ki Teitzei2
+5241	Ki Teitzei2
+5242	Ki Teitzei2
+5243	Ki Teitzei2
+5244	Ki Teitzei2
+5245	Ki Teitzei2
+5246	Ki Teitzei2
+5247	Ki Teitzei2
+5248	Ki Teitzei2
+5249	Ki Teitzei2
+5250	Ki Teitzei2
+5251	Ki Teitzei2
+5252	Ki Teitzei2
+5253	Ki Teitzei2
+5254	Ki Teitzei2
+5255	Ki Teitzei2
+5256	Ki Teitzei2
+5257	Ki Teitzei2
+5258	Ki Teitzei2
+5259	Ki Teitzei2
+5260	Ki Teitzei2
+5261	Ki Teitzei4
+5262	Ki Teitzei4
+5263	Ki Teitzei4
+5264	Ki Teitzei4
+5265	Ki Teitzei4
+5266	Ki Teitzei4
+5267	Ki Teitzei4
+5268	Ki Teitzei4
+5269	Ki Teitzei4
+5270	Ki Teitzei4
+5271	Ki Teitzei4
+5272	Ki Teitzei4
+5273	Ki Teitzei4
+5274	Ki Teitzei4
+5275	Ki Teitzei4
+5276	Ki Teitzei4
+5277	Ki Teitzei4
+5278	Ki Teitzei4
+5279	Ki Teitzei4
+5280	Ki Teitzei4
+5281	Ki Teitzei4
+5282	Ki Teitzei4
+5283	Ki Teitzei4
+5284	Ki Teitzei4
+5285	Ki Teitzei4
+5286	Ki Teitzei4
+5287	Ki Teitzei4
+5288	Ki Teitzei4
+5289	Ki Teitzei4
+5290	Ki Teitzei4
+5291	Ki Teitzei4
+5292	Ki Teitzei4
+5293	Ki Teitzei4
+5294	Ki Teitzei4
+5295	Ki Teitzei4
+5296	Ki Teitzei4
+5297	Ki Teitzei4
+5298	Ki Teitzei4
+5299	Ki Teitzei5
+5300	Ki Teitzei5
+5301	Ki Teitzei5
+5302	Ki Teitzei5
+5303	Ki Teitzei5
+5304	Ki Teitzei6
+5305	Ki Teitzei6
+5306	Ki Teitzei6
+5307	Ki Teitzei6
+5308	Ki Teitzei6
+5309	Ki Teitzei6
+5310	Ki Teitzei8
+5311	Ki Teitzei8
+5312	Ki Teitzei8
+5313	Ki Teitzei8
+5314	Ki Teitzei8
+5315	Ki Teitzei8
+5316	Ki Teitzei8
+5317	Ki Teitzei9
+5318	Ki Teitzei9
+5319	Ki Teitzei9
+5320	Ki Teitzei9
+5321	Ki Teitzei9
+5322	Ki Teitzei9
+5323	Ki Teitzei9
+5324	Ki Teitzei9
+5325	Ki Teitzei9
+5326	Ki Teitzei9
+5327	Ki Teitzei9
+5328	Ki Teitzei9
+5329	Ki Teitzei9
+5330	Ki Teitzei9
+5331	Ki Teitzei9
+5332	Ki Teitzei9
+5333	Ki Teitzei9
+5334	Ki Teitzei9
+5335	Ki Teitzei9
+5336	Ki Teitzei9
+5337	Ki Teitzei9
+5338	Ki Teitzei9
+5339	Ki Teitzei9
+5340	Ki Teitzei9
+5341	Ki Teitzei9
+5342	Ki Teitzei9
+5343	Ki Teitzei9
+5344	Ki Teitzei9
+5345	Ki Teitzei9
+5346	Ki Teitzei9
+5347	Ki Teitzei9
+5348	Ki Teitzei9
+5349	Beshalach25
+5350	Ki Teitzei9
+5351	Ki Teitzei9
+5352	Ki Teitzei9
+5353	Ki Teitzei9
+5354	Ki Teitzei9
+5355	Ki Teitzei9
+5356	Ki Teitzei9
+5357	Ki Teitzei9
+5358	Ki Teitzei9
+5359	Ki Teitzei9
+5360	Ki Teitzei9
+5361	Ki Teitzei9
+5362	Ki Teitzei9
+5363	Ki Teitzei9
+5364	Ki Teitzei9
+5365	Ki Teitzei9
+5366	Ki Teitzei9
+5367	Ki Teitzei9
+5368	Ki Teitzei9
+5369	Ki Teitzei10
+5370	Ki Teitzei10
+5371	Ki Teitzei10
+5372	Ki Teitzei10
+5373	Ki Teitzei10
+5374	Ki Teitzei10
+5375	Ki Teitzei10
+5376	Ki Teitzei10
+5377	Ki Teitzei10
+5378	Ki Teitzei10
+5379	Ki Teitzei10
+5380	Ki Teitzei10
+5381	Ki Teitzei10
+5382	Ki Teitzei10
+5383	Ki Teitzei10
+5384	Ki Teitzei10
+5385	Ki Teitzei10
+5386	Ki Teitzei10
+5387	Ki Teitzei10
+5388	Ki Teitzei10
+5389	Ki Teitzei10
+5390	Ki Teitzei11
+5391	Ki Teitzei11
+5392	Ki Teitzei11
+5393	Ki Teitzei11
+5394	Ki Teitzei11
+5395	Ki Teitzei11
+5396	Ki Teitzei11
+5397	Ki Teitzei11
+5398	Ki Teitzei11
+5399	Ki Teitzei11
+5400	Ki Teitzei11
+5401	Ki Teitzei11
+5402	Ki Teitzei11
+5403	Ki Teitzei11
+5404	Ki Teitzei11
+5405	Ki Teitzei11
+5406	Ki Teitzei11
+5407	Ki Teitzei11
+5408	Ki Teitzei11
+5409	Ki Teitzei11
+5410	Ki Teitzei11
+5411	Ki Teitzei11
+5412	Ki Teitzei11
+5413	Ki Teitzei11
+5414	Ki Teitzei11
+5415	Ki Tavo1
+5416	Ki Tavo1
+5417	Ki Tavo1
+5418	Ki Tavo1
+5419	Ki Tavo1
+5420	Ki Tavo1
+5421	Ki Tavo1
+5422	Ki Tavo1
+5423	Ki Tavo1
+5424	Ki Tavo1
+5425	Ki Tavo1
+5426	Ki Tavo1
+5427	Ki Tavo1
+5428	Ki Tavo1
+5429	Ki Tavo1
+5430	Ki Tavo1
+5431	Ki Tavo1
+5432	Ki Tavo1
+5433	Ki Tavo1
+5434	Ki Tavo1
+5435	Ki Tavo1
+5436	Ki Tavo1
+5437	Vayera19
+5438	Vayera19
+5439	Vayera19
+5440	Vayera19
+5441	Ki Tavo1
+5442	Ki Tavo1
+5443	Ki Tavo1
+5444	Ki Tavo1
+5445	Ki Tavo1
+5446	Ki Tavo1
+5447	Ki Tavo1
+5448	Ki Tavo1
+5449	Ki Tavo1
+5450	Ki Tavo1
+5451	Ki Tavo1
+5452	Ki Tavo1
+5453	Ki Tavo1
+5454	Ki Tavo2
+5455	Ki Tavo2
+5456	Ki Tavo2
+5457	Ki Tavo2
+5458	Ki Tavo2
+5459	Ki Tavo2
+5460	Ki Tavo2
+5461	Ki Tavo2
+5462	Ki Tavo2
+5463	Ki Tavo2
+5464	Ki Tavo2
+5465	Ki Tavo2
+5466	Ki Tavo2
+5467	Ki Tavo2
+5468	Ki Tavo2
+5469	Ki Tavo2
+5470	Ki Tavo2
+5471	Ki Tavo2
+5472	Ki Tavo2
+5473	Ki Tavo2
+5474	Ki Tavo2
+5475	Ki Tavo2
+5476	Ki Tavo2
+5477	Ki Tavo2
+5478	Ki Tavo2
+5479	Ki Tavo2
+5480	Ki Tavo2
+5481	Ki Tavo2
+5482	Ki Tavo2
+5483	Ki Tavo2
+5484	Ki Tavo2
+5485	Ki Tavo2
+5486	Ki Tavo2
+5487	Ki Tavo2
+5488	Ki Tavo2
+5489	Ki Tavo2
+5490	Ki Tavo2
+5491	Ki Tavo2
+5492	Ki Tavo2
+5493	Ki Tavo2
+5494	Ki Tavo2
+5495	Ki Tavo2
+5496	Ki Tavo2
+5497	Ki Tavo2
+5498	Ki Tavo2
+5499	Ki Tavo2
+5500	Ki Tavo2
+5501	Ki Tavo2
+5502	Ki Tavo2
+5503	Ki Tavo2
+5504	Ki Tavo2
+5505	Ki Tavo2
+5506	Ki Tavo2
+5507	Ki Tavo2
+5508	Ki Tavo2
+5509	Ki Tavo2
+5510	Ki Tavo2
+5511	Ki Tavo2
+5512	Ki Tavo2
+5513	Ki Tavo2
+5514	Ki Tavo2
+5515	Ki Tavo2
+5516	Ki Tavo2
+5517	Ki Tavo2
+5518	Ki Tavo2
+5519	Ki Tavo2
+5520	Ki Tavo2
+5521	Ki Tavo2
+5522	Ki Tavo2
+5523	Ki Tavo2
+5524	Ki Tavo2
+5525	Ki Tavo2
+5526	Ki Tavo2
+5527	Ki Tavo2
+5528	Vayeshev2
+5529	Vayeshev2
+5530	Vayeshev2
+5531	Vayeshev2
+5532	Vayeshev2
+5533	Vayeshev2
+5534	Vayeshev2
+5535	Vayeshev2
+5536	Vayeshev2
+5537	Vayeshev2
+5538	Vayeshev2
+5539	Vayeshev2
+5540	Vayeshev2
+5541	Vayeshev2
+5542	Vayeshev2
+5543	Vayeshev2
+5544	Vayeshev2
+5545	Vayeshev2
+5546	Vayeshev2
+5547	Vayeshev2
+5548	Vayeshev2
+5549	Vayeshev2
+5550	Vayeshev2
+5551	Vayeshev2
+5552	Vayeshev2
+5553	Vayeshev2
+5554	Vayeshev2
+5555	Vayeshev2
+5556	Vayeshev2
+5557	Behar1
+5558	Behar1
+5559	Behar1
+5560	Behar1
+5561	Behar1
+5562	Behar1
+5563	Behar1
+5564	Behar1
+5565	Behar1
+5566	Behar1
+5567	Behar1
+5568	Behar1
+5569	Behar1
+5570	Beshalach15
+5571	Beshalach15
+5572	Beshalach15
+5573	Ha'Azinu2
+5574	Ha'Azinu2
+5575	Ha'Azinu2
+5576	Ha'Azinu2
+5577	Ha'Azinu2
+5578	Ha'Azinu2
+5579	Ha'Azinu2
+5580	Ha'Azinu2
+5581	Ha'Azinu2
+5582	Ha'Azinu2
+5583	Ha'Azinu2
+5584	Ha'Azinu2
+5585	Ha'Azinu2
+5586	Ha'Azinu2
+5587	Ha'Azinu2
+5588	Ha'Azinu2
+5589	Ha'Azinu2
+5590	Ha'Azinu2
+5591	Ha'Azinu2
+5592	Ha'Azinu2
+5593	Ha'Azinu2
+5594	Ha'Azinu2
+5595	Ha'Azinu2
+5596	Ha'Azinu2
+5597	Ha'Azinu2
+5598	Ha'Azinu3
+5599	Ha'Azinu3
+5600	Ha'Azinu3
+5601	Ha'Azinu3
+5602	Ha'Azinu3
+5603	Ha'Azinu3
+5604	Ha'Azinu3
+5605	Ha'Azinu3
+5606	Ha'Azinu3
+5607	Ha'Azinu3
+5608	Ha'Azinu3
+5609	Ha'Azinu3
+5610	Ha'Azinu3
+5611	Ha'Azinu3
+5612	Ha'Azinu3
+5613	Ha'Azinu3
+5614	Ha'Azinu3
+5615	Ha'Azinu3
+5616	Ha'Azinu3
+5617	Ha'Azinu3
+5618	Ha'Azinu3
+5619	Ha'Azinu3
+5620	Ha'Azinu3
+5621	Ha'Azinu3
+5622	Ha'Azinu3
+5623	Ha'Azinu3
+5624	Ha'Azinu3
+5625	Ha'Azinu3
+5626	Ha'Azinu4
+5627	Ha'Azinu4
+5628	Ha'Azinu4
+5629	Ha'Azinu4
+5630	Ha'Azinu4
+5631	Ha'Azinu4
+5632	Ha'Azinu4
+5633	Ha'Azinu4
+5634	Ha'Azinu4
+5635	Ha'Azinu4
+5636	Ha'Azinu4
+5637	Ha'Azinu4
+5638	Ha'Azinu4
+5639	Ha'Azinu4
+5640	Ha'Azinu4
+5641	Ha'Azinu4
+5642	Ha'Azinu4
+5643	Ha'Azinu4
+5644	Ha'Azinu4
+5645	Ha'Azinu4
+5646	Ha'Azinu4
+5647	Ha'Azinu4
+5648	Ha'Azinu4
+5649	Ha'Azinu4
+5650	Ha'Azinu4
+5651	Ha'Azinu4
+5652	Ha'Azinu4
+5653	Ha'Azinu4
+5654	Ha'Azinu4
+5655	Ha'Azinu4
+5656	Ha'Azinu4
+5657	Ha'Azinu4
+5658	Ha'Azinu4
+5659	Ha'Azinu4
+5660	Ha'Azinu4
+5661	Ha'Azinu4
+5662	Ha'Azinu4
+5663	Ha'Azinu4
+5664	Ha'Azinu4
+5665	Ha'Azinu4
+5666	Ha'Azinu4
+5667	Ha'Azinu4
+5668	Ha'Azinu4
+5669	Ha'Azinu4
+5670	Ha'Azinu4
+5671	Ha'Azinu4
+5672	Ha'Azinu4
+5673	V'Zot HaBerachah1
+5674	V'Zot HaBerachah1
+5675	V'Zot HaBerachah1
+5676	V'Zot HaBerachah1
+5677	V'Zot HaBerachah1
+5678	V'Zot HaBerachah1
+5679	V'Zot HaBerachah1
+5680	V'Zot HaBerachah1
+5681	V'Zot HaBerachah1
+5682	V'Zot HaBerachah1
+5683	V'Zot HaBerachah1
+5684	V'Zot HaBerachah1
+5685	V'Zot HaBerachah1
+5686	V'Zot HaBerachah1
+5687	V'Zot HaBerachah1
+5688	V'Zot HaBerachah1
+5689	V'Zot HaBerachah1
+5690	V'Zot HaBerachah1
+5691	V'Zot HaBerachah1
+5692	V'Zot HaBerachah1
+5693	V'Zot HaBerachah1
+5694	V'Zot HaBerachah1
+5695	V'Zot HaBerachah1
+5696	V'Zot HaBerachah1
+5697	V'Zot HaBerachah1
+5698	V'Zot HaBerachah1
+5699	V'Zot HaBerachah1
+5700	V'Zot HaBerachah1
+5701	Vayechi7
+5702	Vayechi7
+5703	V'Zot HaBerachah1
+5704	V'Zot HaBerachah1
+5705	V'Zot HaBerachah1
+5706	V'Zot HaBerachah1
+5707	V'Zot HaBerachah1
+5708	V'Zot HaBerachah1
+5709	V'Zot HaBerachah1
+5710	V'Zot HaBerachah1
+5711	V'Zot HaBerachah1
+5712	V'Zot HaBerachah1
+5713	V'Zot HaBerachah1
+5714	V'Zot HaBerachah1
+5715	V'Zot HaBerachah1
+5716	V'Zot HaBerachah1
+5717	V'Zot HaBerachah1
+5718	V'Zot HaBerachah2
+5719	V'Zot HaBerachah2
+5720	V'Zot HaBerachah2
+5721	V'Zot HaBerachah3
+5722	V'Zot HaBerachah3
+5723	V'Zot HaBerachah3
+5724	V'Zot HaBerachah3
+5725	V'Zot HaBerachah3
+5726	V'Zot HaBerachah4
+5727	V'Zot HaBerachah4
+5728	V'Zot HaBerachah4
+5729	V'Zot HaBerachah4
+5730	V'Zot HaBerachah4
+5731	V'Zot HaBerachah4
+5732	V'Zot HaBerachah4
+5733	V'Zot HaBerachah4
+5734	V'Zot HaBerachah4
+5735	V'Zot HaBerachah4
+5736	V'Zot HaBerachah4
+5737	V'Zot HaBerachah4
+5738	V'Zot HaBerachah4
+5739	V'Zot HaBerachah4
+5740	V'Zot HaBerachah4
+5741	V'Zot HaBerachah4
+5742	V'Zot HaBerachah5
+5743	V'Zot HaBerachah5
+5744	V'Zot HaBerachah5
+5745	V'Zot HaBerachah5
+5746	V'Zot HaBerachah5
+5747	V'Zot HaBerachah5
+5748	V'Zot HaBerachah5
+5749	V'Zot HaBerachah5
+5750	V'Zot HaBerachah5
+5751	V'Zot HaBerachah5
+5752	V'Zot HaBerachah5
+5753	V'Zot HaBerachah6
+5754	V'Zot HaBerachah6
+5755	V'Zot HaBerachah6
+5756	V'Zot HaBerachah6
+5757	V'Zot HaBerachah6
+5758	V'Zot HaBerachah6
+5759	V'Zot HaBerachah6
+5760	V'Zot HaBerachah6
+5761	V'Zot HaBerachah6
+5762	V'Zot HaBerachah6
+5763	V'Zot HaBerachah6
+5764	V'Zot HaBerachah6
+5765	V'Zot HaBerachah6
+5766	V'Zot HaBerachah6
+5767	V'Zot HaBerachah6
+5768	V'Zot HaBerachah6
+5769	V'Zot HaBerachah6
+5770	V'Zot HaBerachah6
+5771	V'Zot HaBerachah6
+5772	V'Zot HaBerachah6
+5773	V'Zot HaBerachah6
+5774	V'Zot HaBerachah6
+5775	V'Zot HaBerachah6
+5776	V'Zot HaBerachah6
+5777	V'Zot HaBerachah6
+5778	V'Zot HaBerachah7
+5779	V'Zot HaBerachah7
+5780	V'Zot HaBerachah7
+5781	V'Zot HaBerachah7
+5782	V'Zot HaBerachah7
+5783	V'Zot HaBerachah7
+5784	V'Zot HaBerachah7
+5785	V'Zot HaBerachah7
+5786	V'Zot HaBerachah7
+5787	V'Zot HaBerachah7
+5788	V'Zot HaBerachah7
+5789	V'Zot HaBerachah7
+5790	V'Zot HaBerachah7
+5791	V'Zot HaBerachah7
+5792	V'Zot HaBerachah7
+5793	V'Zot HaBerachah7
+5794	V'Zot HaBerachah7
+5795	V'Zot HaBerachah7
+5796	V'Zot HaBerachah7
+5797	V'Zot HaBerachah7
+5798	V'Zot HaBerachah7
+5799	V'Zot HaBerachah7
+5800	V'Zot HaBerachah7
+5801	V'Zot HaBerachah7
+5802	V'Zot HaBerachah7
+5803	V'Zot HaBerachah7
+5804	V'Zot HaBerachah7
+5805	V'Zot HaBerachah7
+5806	V'Zot HaBerachah7
+5807	V'Zot HaBerachah7
+5808	V'Zot HaBerachah7
+5809	V'Zot HaBerachah7
+5810	V'Zot HaBerachah7
+5811	V'Zot HaBerachah7
+5812	V'Zot HaBerachah7
+5813	V'Zot HaBerachah7
+5814	V'Zot HaBerachah7
+5815	V'Zot HaBerachah7
+5816	V'Zot HaBerachah7
+5817	V'Zot HaBerachah7
+5818	V'Zot HaBerachah7
+5819	V'Zot HaBerachah7
+5820	V'Zot HaBerachah7
+5821	V'Zot HaBerachah7
+5822	V'Zot HaBerachah7
+5823	V'Zot HaBerachah7
+5824	V'Zot HaBerachah7
+5825	V'Zot HaBerachah7
+5826	V'Zot HaBerachah7
+5827	V'Zot HaBerachah7
+5828	V'Zot HaBerachah7
+5829	V'Zot HaBerachah7
+5830	V'Zot HaBerachah7
+5831	V'Zot HaBerachah7
+5832	V'Zot HaBerachah7
+5833	V'Zot HaBerachah7
+5834	V'Zot HaBerachah7
+5835	V'Zot HaBerachah7
+5836	V'Zot HaBerachah7
+5837	V'Zot HaBerachah7
+5838	V'Zot HaBerachah7
+5839	V'Zot HaBerachah7
+5840	V'Zot HaBerachah7
+5841	V'Zot HaBerachah7
+5842	V'Zot HaBerachah7
+5843	V'Zot HaBerachah7
+5844	V'Zot HaBerachah7
+5845	V'Zot HaBerachah7
+5846	V'Zot HaBerachah7
+5847	V'Zot HaBerachah7
+5848	V'Zot HaBerachah7
+5849	V'Zot HaBerachah7
+5850	V'Zot HaBerachah7
+5851	V'Zot HaBerachah7
+5852	V'Zot HaBerachah7
+5853	V'Zot HaBerachah7
+5854	V'Zot HaBerachah7
+5855	V'Zot HaBerachah7
+5856	V'Zot HaBerachah7
+5857	V'Zot HaBerachah7
+5858	V'Zot HaBerachah7
+5859	V'Zot HaBerachah7
+5860	V'Zot HaBerachah7
+5861	V'Zot HaBerachah7
+5862	V'Zot HaBerachah7
+5863	V'Zot HaBerachah7
+5864	V'Zot HaBerachah7
+5865	V'Zot HaBerachah7
+5866	V'Zot HaBerachah7
+5867	V'Zot HaBerachah7
+5868	Lech Lecha11
+5869	Lech Lecha11
+5870	Lech Lecha11
+5871	Lech Lecha11
+5872	Lech Lecha11
+5873	Lech Lecha11
+5874	Lech Lecha11
+5875	Lech Lecha11
+5876	Lech Lecha11
+5877	Lech Lecha11
+5878	Lech Lecha11
+5879	Lech Lecha11
+5880	Lech Lecha11
+5881	Lech Lecha11
+5882	Lech Lecha11
+5883	Lech Lecha11
+5884	Lech Lecha11
+5885	Lech Lecha11
+5886	Lech Lecha11
+5887	Lech Lecha11
+5888	Lech Lecha11
+5889	Lech Lecha11
+5890	Lech Lecha11
+5891	Lech Lecha11
+5892	Lech Lecha11
+5893	Lech Lecha11
+5894	Lech Lecha11
+5895	Lech Lecha11
+5896	Lech Lecha11
+5897	Lech Lecha11
+5898	Lech Lecha11
+5899	Lech Lecha11
+5900	Lech Lecha11
+5901	Ki Tisa21
+5902	Ki Tisa21
+5903	Bo5
+5904	Bo5
+5905	Bo5
+5906	Bo5
+5907	Bo5
+5908	Bo5
+5909	Bo5
+5910	Bo5
+5911	Bo5
+5912	Bo5
+5913	Bo5
+5914	Bo5
+5915	Bo5
+5916	Bo5
+5917	Bo5
+5918	Bo5
+5919	Bo5
+5920	Bo5
+5921	Bo5
+5922	Bo5
+5923	Bo5
+5924	Bo5
+5925	Bo5
+5926	Achrei Mot6
+5927	Achrei Mot6
+5928	Achrei Mot6
+5929	Achrei Mot6
+5930	Achrei Mot6
+5931	Achrei Mot6
+5932	Achrei Mot6
+5933	Achrei Mot6
+5934	Achrei Mot6
+5935	Achrei Mot6
+5936	Achrei Mot6
+5937	Achrei Mot6
+5938	Achrei Mot6
+5939	Achrei Mot6
+5940	Achrei Mot6
+5941	Achrei Mot6
+5942	Achrei Mot6
+5943	Achrei Mot6
+5944	Achrei Mot6
+5945	Achrei Mot6
+5946	Achrei Mot6
+5947	Achrei Mot6
+5948	Achrei Mot6
+5949	Achrei Mot6
+5950	Achrei Mot6
+5951	Achrei Mot6
+5952	Achrei Mot6
+5953	Achrei Mot6
+5954	Achrei Mot6
+5955	Achrei Mot6
+5956	Achrei Mot6
+5957	Achrei Mot6
+5958	Achrei Mot6
+5959	Achrei Mot6
+5960	Achrei Mot6
+5961	Achrei Mot6
+5962	Achrei Mot6
+5963	Achrei Mot6
+5964	Achrei Mot6
+5965	Achrei Mot6
+5966	Achrei Mot6
+5967	Achrei Mot6
+5968	Achrei Mot6
+5969	Achrei Mot6
+5970	Achrei Mot6
+5971	Achrei Mot6
+5972	Achrei Mot6
+5973	Achrei Mot6
+5974	Achrei Mot6
+5975	Achrei Mot6
+5976	Achrei Mot6
+5977	Achrei Mot6
+5978	Achrei Mot6
+5979	Achrei Mot6
+5980	Achrei Mot6
+5981	Achrei Mot6
+5982	Achrei Mot6
+5983	Achrei Mot6
+5984	Achrei Mot6
+5985	Achrei Mot6
+5986	Achrei Mot6
+5987	Achrei Mot6
+5988	Achrei Mot6
+5989	Achrei Mot6
+5990	Achrei Mot6
+5991	Achrei Mot6
+5992	Achrei Mot6
+5993	Achrei Mot6
+5994	Achrei Mot6
+5995	Achrei Mot6
+5996	Achrei Mot6
+5997	Achrei Mot6
+5998	Sh'lach12
+5999	Masei5
+6000	Masei5
+6001	Masei5
+6002	Masei5
+6003	Masei5
+6004	Masei5
+6005	Masei5
+6006	Masei5
+6007	Masei5
+6008	Masei5
+6009	Masei5
+6010	Masei5
+6011	Masei5
+6012	Masei5
+6013	Masei5
+6014	Masei5
+6015	Masei5
+6016	Masei5
+6017	Masei5
+6018	Masei5
+6019	Masei5
+6020	Masei5
+6021	Masei5
+6022	Masei5
+6023	Masei5
+6024	Masei5
+6025	Masei5
+6026	Masei5
+6027	Masei5
+6028	Masei5
+6029	Masei5
+6030	Masei5
+6031	Masei5
+6032	Masei5
+6033	Masei5
+6034	Masei5
+6035	Masei5
+6036	Masei5
+6037	Masei5
+6038	Masei5
+6039	Masei5
+6040	Masei5
+6041	Masei5
+6042	Masei5
+6043	Masei5
+6044	Masei5
+6045	Masei5
+6046	Masei5
+6047	Masei5
+6048	Masei5
+6049	Masei5
+6050	Masei5
+6051	Masei5
+6052	Masei5
+6053	Ki Teitzei8
+6054	Ki Teitzei8
+6055	Ki Teitzei8
+6056	Ki Teitzei8
+6057	Ki Teitzei8
+6058	Ki Teitzei8
+6059	Ki Teitzei8
+6060	Ki Teitzei8
+6061	Ki Teitzei8
+6062	Ki Teitzei8
+6063	Ki Teitzei8
+6064	Ki Teitzei8
+6065	Ki Teitzei8
+6066	Ki Teitzei8
+6067	Ki Teitzei8
+6068	Ki Teitzei8
+6069	Ki Teitzei8
+6070	Ki Teitzei8
+6071	Ki Teitzei8
+6072	Ki Teitzei8
+6073	Ki Teitzei8
+6074	Ki Teitzei8
+6075	Ki Teitzei8
+6076	Ki Teitzei8
+6077	Ki Teitzei8
+6078	Ki Teitzei8
+6079	Ki Teitzei8
+6080	Ki Teitzei8
+6081	Ki Teitzei8
+6082	Ki Teitzei8
+6083	Ki Teitzei8
+6084	Ki Teitzei8
+6085	Vayishlach8
+6086	Vayishlach8
+6087	Vayishlach8
+6088	Vayishlach8
+6089	Vayishlach8
+6090	Vayishlach8
+6091	Vayishlach8
+6092	Vayishlach8
+6093	Vayishlach8
+6094	Vayishlach8
+6095	Vayishlach8
+6096	Vayishlach8
+6097	Achrei Mot10
+6098	Achrei Mot10
+6099	Achrei Mot10
+6100	Achrei Mot10
+6101	Achrei Mot10
+6102	Achrei Mot10
+6103	Achrei Mot10
+6104	Achrei Mot10
+6105	Achrei Mot10
+6106	Achrei Mot10
+6107	Achrei Mot10
+6108	Achrei Mot10
+6109	Achrei Mot10
+6110	Achrei Mot10
+6111	Achrei Mot10
+6112	Achrei Mot10
+6113	Achrei Mot10
+6114	Achrei Mot10
+6115	Achrei Mot10
+6116	Achrei Mot10
+6117	Achrei Mot10
+6118	Achrei Mot10
+6119	Achrei Mot10
+6120	Achrei Mot10
+6121	Achrei Mot10
+6122	Achrei Mot10
+6123	Achrei Mot10
+6124	Achrei Mot10
+6125	Achrei Mot10
+6126	Achrei Mot10
+6127	Achrei Mot10
+6128	Achrei Mot10
+6129	Achrei Mot10
+6130	Achrei Mot10
+6131	Achrei Mot10
+6132	Achrei Mot10
+6133	Achrei Mot10
+6134	Achrei Mot10
+6135	Achrei Mot10
+6136	Achrei Mot10
+6137	Achrei Mot10
+6138	Achrei Mot10
+6139	Achrei Mot10
+6140	Achrei Mot10
+6141	Achrei Mot10
+6142	Achrei Mot10
+6143	Achrei Mot10
+6144	Achrei Mot10
+6145	Achrei Mot10
+6146	Achrei Mot10
+6147	Achrei Mot10
+6148	Achrei Mot10
+6149	Achrei Mot10
+6150	Achrei Mot10
+6151	Achrei Mot10
+6152	Achrei Mot10
+6153	Achrei Mot10
+6154	Achrei Mot10
+6155	Achrei Mot10
+6156	Achrei Mot10
+6157	Achrei Mot10
+6158	Achrei Mot10
+6159	Achrei Mot10
+6160	Achrei Mot10
+6161	Achrei Mot10
+6162	Achrei Mot10
+6163	Achrei Mot10
+6164	Achrei Mot10
+6165	Achrei Mot10
+6166	Achrei Mot10
+6167	Achrei Mot10
+6168	Achrei Mot10
+6169	Ki Tisa3
+6170	Ki Tisa3
+6171	Ki Tisa3
+6172	Ki Tisa3
+6173	Ki Tisa3
+6174	Ki Tisa3
+6175	Ki Tisa3
+6176	Ki Tisa3
+6177	Ki Tisa3
+6178	Ki Tisa3
+6179	Ki Tisa3
+6180	Ki Tisa3
+6181	Ki Tisa3
+6182	Ki Tisa3
+6183	Ki Tisa3
+6184	Ki Tisa3
+6185	Ki Tisa3
+6186	Ki Tisa3
+6187	Ki Tisa3
+6188	Ki Tisa3
+6189	Ki Tisa3
+6190	Ki Tisa3
+6191	Ki Tisa3
+6192	Ki Tisa3
+6193	Ki Tisa3
+6194	Ki Tisa3
+6195	Ki Tisa3
+6196	Ki Tisa3
+6197	Ki Tisa3
+6198	Ki Tisa3
+6199	Ki Tisa3
+6200	Ki Tisa3
+6201	Ki Tisa3
+6202	Ki Tisa3
+6203	Ki Tisa3
+6204	Ki Tisa3
+6205	Ki Tisa3
+6206	Ki Tisa3
+6207	Ki Tisa3
+6208	Ki Tisa3
+6209	Ki Tisa3
+6210	Ki Tisa3
+6211	Sh'lach3
+6212	Sh'lach3
+6213	Sh'lach3
+6214	Sh'lach3
+6215	Sh'lach3
+6216	Sh'lach3
+6217	Sh'lach3
+6218	Sh'lach3
+6219	Sh'lach3
+6220	Sh'lach3
+6221	Sh'lach3
+6222	Ki Tavo2
+6223	Ki Tavo2
+6224	Ki Tavo2
+6225	Ki Tavo2
+6226	Ki Tavo2
+6227	Ki Tavo2
+6228	Ki Tavo2
+6229	Ki Tavo2
+6230	Ki Tavo2
+6231	Ki Tavo2
+6232	Ki Tavo2
+6233	Ki Tavo2
+6234	Ki Tavo2
+6235	Ki Tavo2
+6236	Ki Tavo2
+6237	Ki Tavo2
+6238	Ki Tavo2
+6239	Ki Tavo2
+6240	Ki Tavo2
+6241	Ki Tavo2
+6242	Ki Tavo2
+6243	Ki Tavo2
+6244	Ki Tavo2
+6245	Ki Tavo2
+6246	Ki Tavo2
+6247	Ki Tavo2
+6248	Ki Tavo2
+6249	Ki Tavo2
+6250	Ki Tavo2
+6251	Ki Tavo2
+6252	Ki Tavo2
+6253	Ki Tavo2
+6254	Ki Tavo2
+6255	Ki Tavo2
+6256	Ki Tavo2
+6257	Ki Tavo2
+6258	Ki Tavo2
+6259	Ki Tavo2
+6260	Ki Tavo2
+6261	Ki Tavo2
+6262	Ki Tavo2
+6263	Ki Tavo2
+6264	Emor5
+6265	Emor5
+6266	Emor5
+6267	Emor5
+6268	Vayishlach8
+6269	Vayishlach8
+6270	Vayishlach8
+6271	Vayishlach8
+6272	Vayishlach8
+6273	Vayishlach8
+6274	Vayishlach8
+6275	Vayishlach8
+6276	Vayishlach8
+6277	Vayishlach8
+6278	Vayishlach8
+6279	Vayishlach8
+6280	Vayishlach8
+6281	Vayishlach8
+6282	Vayishlach8
+6283	Vayishlach8
+6284	Vayishlach8
+6285	Vayishlach8
+6286	Vayishlach8
+6287	Vayishlach8
+6288	Vayishlach8
+6289	Vayishlach8
+6290	Vayishlach8
+6291	Vayishlach8
+6292	Vayishlach8
+6293	Vayishlach8
+6294	Vayishlach8
+6295	Vayishlach8
+6296	Vayishlach8
+6297	Vayishlach8
+6298	Vayishlach8
+6299	Vayishlach8
+6300	Vayishlach8
+6301	Vayishlach8
+6302	Vayishlach8
+6303	Vayishlach8
+6304	Vayishlach8
+6305	Vayishlach8
+6306	Vayishlach8
+6307	Vayishlach8
+6308	Vayishlach8
+6309	Vayishlach8
+6310	Vayishlach8
+6311	Vayishlach8
+6312	Vayishlach8
+6313	Vayishlach8
+6314	Vayishlach8
+6315	Vayishlach8
+6316	Vayishlach8
+6317	Vayishlach8
+6318	Vayishlach8
+6319	Vayishlach8
+6320	Vayishlach8
+6321	Vayishlach8
+6322	Vayishlach8
+6323	Vayishlach8
+6324	Vayishlach8
+6325	Vayishlach8
+6326	Vayishlach8
+6327	Vayishlach8
+6328	Vayishlach8
+6329	Vayishlach8
+6330	Vayishlach8
+6331	Vayishlach8
+6332	Vayishlach8
+6333	Vayishlach8
+6334	Vayishlach8
+6335	Vayishlach8
+6336	Vayishlach8
+6337	Vayishlach8
+6338	Vayishlach8
+6339	Korach12
+6340	Korach12
+6341	Korach12
+6342	Korach12
+6343	Korach12
+6344	Korach12
+6345	Korach12
+6346	Korach12
+6347	Korach12
+6348	Korach12
+6349	Korach12
+6350	Korach12
+6351	Korach12
+6352	Korach12
+6353	Korach12
+6354	Korach12
+6355	Korach12
+6356	Korach12
+6357	Korach12
+6358	Korach12
+6359	Korach12
+6360	Korach12
+6361	Korach12
+6362	Korach12
+6363	Korach12
+6364	Korach12
+6365	Korach12
+6366	Korach12
+6367	Korach12
+6368	Korach12
+6369	Korach12
+6370	Korach12
+6371	Korach12
+6372	Korach12
+6373	Korach12
+6374	Korach12
+6375	Korach12
+6376	Korach12
+6377	Korach12
+6378	Korach12
+6379	Korach12
+6380	Korach12
+6381	Korach12
+6382	Korach12
+6383	Korach12
+6384	Korach12
+6385	Korach12
+6386	Korach12
+6387	Korach12
+6388	Korach12
+6389	Korach12
+6390	Korach12
+6391	Korach12
+6392	Korach12
+6393	Korach12
+6394	Korach12
+6395	Korach12
+6396	Korach12
+6397	Korach12
+6398	Korach12
+6399	Korach12
+6400	Korach12
+6401	Korach12
+6402	Korach12
+6403	Korach12
+6404	Korach12
+6405	Korach12
+6406	Korach12
+6407	Korach12
+6408	Korach12
+6409	Korach12
+6410	Korach12
+6411	Korach12
+6412	Korach12
+6413	Korach12
+6414	Korach12
+6415	Korach12
+6416	Korach12
+6417	Korach12
+6418	Korach12
+6419	Korach12
+6420	Korach12
+6421	Korach12
+6422	Korach12
+6423	Korach12
+6424	Korach12
+6425	Korach12
+6426	Korach12
+6427	Korach12
+6428	Korach12
+6429	Korach12
+6430	Korach12
+6431	Korach12
+6432	Korach12
+6433	Korach12
+6434	Korach12
+6435	Korach12
+6436	Korach12
+6437	Korach12
+6438	Korach12
+6439	Korach12
+6440	Korach12
+6441	Korach12
+6442	Korach12
+6443	Korach12
+6444	Korach12
+6445	Korach12
+6446	Korach12
+6447	Korach12
+6448	Korach12
+6449	Korach12
+6450	Korach12
+6451	Korach12
+6452	Korach12
+6453	Korach12
+6454	Korach12
+6455	Korach12
+6456	Korach12
+6457	Korach12
+6458	Korach12
+6459	Korach12
+6460	Korach12
+6461	Korach12
+6462	Korach12
+6463	Korach12
+6464	Korach12
+6465	Korach12
+6466	Korach12
+6467	Korach12
+6468	Korach12
+6469	Korach12
+6470	Tzav13
+6471	Tzav13
+6472	Tzav13
+6473	Tzav13
+6474	Tzav13
+6475	Tzav13
+6476	Tzav13
+6477	Tzav13
+6478	Tzav13
+6479	Tzav13
+6480	Tzav13
+6481	Tzav13
+6482	Tzav13
+6483	Tzav13
+6484	Tzav13
+6485	Tzav13
+6486	Tzav13
+6487	Tzav13
+6488	Tzav13
+6489	Tzav13
+6490	Tzav13
+6491	Tzav13
+6492	Tzav13
+6493	Tzav13
+6494	Tzav13
+6495	Tzav13
+6496	Tzav13
+6497	Tzav13
+6498	Tzav13
+6499	Tzav13
+6500	Tzav13
+6501	Tzav13
+6502	Tzav13
+6503	Tzav13
+6504	Tzav13
+6505	Tzav13
+6506	Tzav13
+6507	Tzav13
+6508	Tzav13
+6509	Tzav13
+6510	Tzav13
+6511	Tzav13
+6512	Tzav13
+6513	Tzav13
+6514	Tzav13
+6515	Tzav13
+6516	Tzav13
+6517	Tzav13
+6518	Tzav13
+6519	Tzav13
+6520	Tzav13
+6521	Tzav13
+6522	Tzav13
+6523	Tzav13
+6524	Tzav13
+6525	Tzav13
+6526	Tzav13
+6527	Tzav13
+6528	Tzav13
+6529	Tzav13
+6530	Tzav13
+6531	Tzav13
+6532	Tzav13
+6533	Tzav13
+6534	Tzav13
+6535	Tzav13
+6536	Tzav13
+6537	Tzav13
+6538	Tzav13
+6539	Tzav13
+6540	Tzav13
+6541	Tzav13
+6542	Tzav13
+6543	Tzav13
+6544	Tzav13
+6545	Tzav13
+6546	Tzav13
+6547	Tzav13
+6548	Tzav13
+6549	Tzav13
+6550	Tzav13
+6551	Tzav13
+6552	Tzav13
+6553	Tzav13
+6554	Tzav13
+6555	Tzav13
+6556	Tzav13
+6557	Tzav13
+6558	Tzav13
+6559	Tzav13
+6560	Tzav13
+6561	Tzav13
+6562	Tzav13
+6563	Tzav13
+6564	Tzav13
+6565	Tzav13
+6566	Tzav13
+6567	Tzav13
+6568	Tzav13
+6569	Tzav13
+6570	Tzav13
+6571	Tzav13
+6572	Tzav13
+6573	Tzav13
+6574	Tzav13
+6575	Tzav13
+6576	Tzav13
+6577	Tzav13
+6578	Tzav13
+6579	Tzav13
+6580	Tzav13
+6581	Tzav13
+6582	Tzav13
+6583	Tzav13
+6584	Tzav13
+6585	Tzav13
+6586	Tzav13
+6587	Tzav13
+6588	Tzav13
+6589	Tzav13
+6590	Tzav13
+6591	Tzav13
+6592	Yitro14
+6593	Yitro14
+6594	Pekudei3
+6595	Pekudei3
+6596	Pekudei3
+6597	Pekudei3
+6598	Pekudei3
+6599	Pekudei3
+6600	Pekudei3
+6601	Pekudei3
+6602	Pekudei3
+6603	Pekudei3
+6604	Pekudei3
+6605	Pekudei3
+6606	Pekudei3
+6607	Pekudei3
+6608	Pekudei3
+6609	Pekudei3
+6610	Pekudei3
+6611	Pekudei3
+6612	Pekudei3
+6613	Pekudei3
+6614	Pekudei3
+6615	Pekudei3
+6616	Pekudei3
+6617	Pekudei3
+6618	Pekudei3
+6619	Pekudei3
+6620	Pekudei3
+6621	Pekudei3
+6622	Pekudei3
+6623	Pekudei3
+6624	Pekudei3
+6625	Pekudei3
+6626	Pekudei3
+6627	Pekudei3
+6628	Pekudei3
+6629	Pekudei3
+6630	Pekudei3
+6631	Pekudei3
+6632	Pekudei3
+6633	Pekudei3
+6634	Pekudei3
+6635	Pekudei3
+6636	Pekudei3
+6637	Pekudei3
+6638	Pekudei3
+6639	Pekudei3
+6640	Pekudei3
+6641	Pekudei3
+6642	Pekudei3
+6643	Pekudei3
+6644	Pekudei3
+6645	Pekudei3
+6646	Pekudei3
+6647	Pekudei3
+6648	Pekudei3
+6649	Pekudei3
+6650	Pekudei3
+6651	Pekudei3
+6652	Pekudei3
+6653	Pekudei3
+6654	Pekudei3
+6655	Pekudei3
+6656	Pekudei3
+6657	Pekudei3
+6658	Chayei Sara4
+6659	Chayei Sara4
+6660	Chayei Sara4
+6661	Chayei Sara4
+6662	Chayei Sara4
+6663	Chayei Sara4
+6664	Chayei Sara4
+6665	Chayei Sara4
+6666	Chayei Sara4
+6667	Chayei Sara4
+6668	Chayei Sara4
+6669	Chayei Sara4
+6670	Chayei Sara4
+6671	Chayei Sara4
+6672	Chayei Sara4
+6673	Chayei Sara4
+6674	Chayei Sara4
+6675	Chayei Sara4
+6676	Chayei Sara4
+6677	Chayei Sara4
+6678	Chayei Sara4
+6679	Chayei Sara4
+6680	Chayei Sara4
+6681	Chayei Sara4
+6682	Chayei Sara4
+6683	Chayei Sara4
+6684	Chayei Sara4
+6685	Chayei Sara4
+6686	Chayei Sara4
+6687	Achrei Mot6
+6688	Achrei Mot6
+6689	Achrei Mot6
+6690	Achrei Mot6
+6691	Achrei Mot6
+6692	Shemot16
+6693	Shemot16
+6694	Shemot16
+6695	Shemot16
+6696	Shemot16
+6697	Shemot16
+6698	Shemot16
+6699	Shemot16
+6700	Shemot16
+6701	Shemot16
+6702	Shemot16
+6703	Shemot16
+6704	Shemot16
+6705	Shemot16
+6706	Shemot16
+6707	Shemot16
+6708	Shemot16
+6709	Shemot16
+6710	Shemot16
+6711	Shemot16
+6712	Shemot16
+6713	Shemot16
+6714	Shemot16
+6715	Shemot16
+6716	Miketz10
+6717	Miketz10
+6718	Miketz10
+6719	Miketz10
+6720	Miketz10
+6721	Miketz10
+6722	Chukat1
+6723	Chukat1
+6724	Chukat1
+6725	Chukat1
+6726	Chukat1
+6727	Chukat1
+6728	Chukat1
+6729	Chukat1
+6730	Chukat1
+6731	Chukat1
+6732	Chukat1
+6733	Chukat1
+6734	Chukat1
+6735	Chukat1
+6736	Chukat1
+6737	Chukat1
+6738	Chukat1
+6739	Chukat1
+6740	Chukat1
+6741	Chukat1
+6742	Chukat1
+6743	Chukat1
+6744	Chukat1
+6745	Chukat1
+6746	Chukat1
+6747	Chukat1
+6748	Chukat1
+6749	Chukat1
+6750	Chukat1
+6751	Chukat1
+6752	Chukat1
+6753	Chukat1
+6754	Chukat1
+6755	Chukat1
+6756	Chukat1
+6757	Chukat1
+6758	Chukat1
+6759	Chukat1
+6760	Chukat1
+6761	Chukat1
+6762	Chukat1
+6763	Chukat1
+6764	Chukat1
+6765	Chukat1
+6766	Chukat1
+6767	Chukat1
+6768	Chukat1
+6769	Chukat1
+6770	Chukat1
+6771	Chukat1
+6772	Chukat1
+6773	Chukat1
+6774	Chukat1
+6775	Chukat1
+6776	Chukat1
+6777	Chukat1
+6778	Chukat1
+6779	Chukat1
+6780	Chukat1
+6781	Chukat1
+6782	Chukat1
+6783	Chukat1
+6784	Chukat1
+6785	Chukat1
+6786	Chukat1
+6787	Chukat1
+6788	Balak6
+6789	Balak6
+6790	Balak6
+6791	Balak6
+6792	Balak6
+6793	Balak6
+6794	Balak6
+6795	Balak6
+6796	Chukat1
+6797	Chukat1
+6798	Chukat1
+6799	Chukat1
+6800	Chukat1
+6801	Chukat1
+6802	Chukat1
+6803	Chukat1
+6804	Chukat1
+6805	Chukat1
+6806	Chukat1
+6807	Chukat1
+6808	Chukat1
+6809	Chukat1
+6810	Chukat1
+6811	Chukat1
+6812	Chukat1
+6813	Chukat1
+6814	Chukat1
+6815	Chukat1
+6816	Chukat1
+6817	Chukat1
+6818	Chukat1
+6819	Chukat1
+6820	Chukat1
+6821	Chukat1
+6822	Chukat1
+6823	Chukat1
+6824	Chukat1
+6825	Chukat1
+6826	Chukat1
+6827	Chukat1
+6828	Chukat1
+6829	Chukat1
+6830	Chukat1
+6831	Chukat1
+6832	Chukat1
+6833	Chukat1
+6834	Chukat1
+6835	Chukat1
+6836	Chukat1
+6837	Chukat1
+6838	Chukat1
+6839	Chukat1
+6840	Chukat1
+6841	Chukat1
+6842	Chukat1
+6843	Chukat1
+6844	Chukat1
+6845	Chukat1
+6846	Chukat1
+6847	Chukat1
+6848	Chukat1
+6849	Chukat1
+6850	Chukat1
+6851	Chukat1
+6852	Chukat1
+6853	Chukat1
+6854	Noach11
+6855	Noach11
+6856	Noach11
+6857	Ki Tisa22
+6858	Ki Tisa22
+6859	Ki Tisa22
+6860	Shmini1
+6861	Shmini1
+6862	Shmini1
+6863	Shmini1
+6864	Shmini1
+6865	Shmini1
+6866	Shmini1
+6867	Shmini1
+6868	Shmini1
+6869	Shmini1
+6870	Shmini1
+6871	Shmini1
+6872	Shmini1
+6873	Shmini1
+6874	Shmini1
+6875	Shmini1
+6876	Shmini1
+6877	Shmini1
+6878	Shmini1
+6879	Shmini1
+6880	Shmini1
+6881	Shmini1
+6882	Shmini1
+6883	Shmini1
+6884	Shmini1
+6885	Shmini1
+6886	Shmini1
+6887	Shmini1
+6888	Shmini1
+6889	Shmini1
+6890	Shmini1
+6891	Shmini1
+6892	Shmini1
+6893	Shmini1
+6894	Shmini1
+6895	Shmini1
+6896	Shmini1
+6897	Shmini1
+6898	Shmini1
+6899	Shmini1
+6900	Shmini1
+6901	Shmini1
+6902	Shmini1
+6903	Shmini1
+6904	Shmini1
+6905	Shmini1
+6906	Shmini1
+6907	Shmini1
+6908	Shmini1
+6909	Shmini1
+6910	Shmini1
+6911	Shmini1
+6912	Shmini1
+6913	Shmini1
+6914	Shmini1
+6915	Shmini1
+6916	Shmini1
+6917	Shmini1
+6918	Shmini1
+6919	Shmini1
+6920	Shmini1
+6921	Shmini1
+6922	Shmini1
+6923	Shmini1
+6924	Shmini1
+6925	Shmini1
+6926	Shmini1
+6927	Shmini1
+6928	Shmini1
+6929	Shmini1
+6930	Shmini1
+6931	Shmini1
+6932	Shmini1
+6933	Shmini1
+6934	Shmini1
+6935	Shmini1
+6936	Shmini1
+6937	Shmini1
+6938	Ki Tisa22
+6939	Ki Tisa22
+6940	Shmini1
+6941	V'Zot HaBerachah7
+6942	V'Zot HaBerachah7
+6943	V'Zot HaBerachah7
+6944	V'Zot HaBerachah7
+6945	V'Zot HaBerachah7
+6946	V'Zot HaBerachah7
+6947	V'Zot HaBerachah7
+6948	V'Zot HaBerachah7
+6949	V'Zot HaBerachah7
+6950	V'Zot HaBerachah7
+6951	V'Zot HaBerachah7
+6952	V'Zot HaBerachah7
+6953	V'Zot HaBerachah7
+6954	V'Zot HaBerachah7
+6955	V'Zot HaBerachah7
+6956	V'Zot HaBerachah7
+6957	V'Zot HaBerachah7
+6958	V'Zot HaBerachah7
+6959	V'Zot HaBerachah7
+6960	V'Zot HaBerachah7
+6961	V'Zot HaBerachah7
+6962	V'Zot HaBerachah7
+6963	V'Zot HaBerachah7
+6964	V'Zot HaBerachah7
+6965	V'Zot HaBerachah7
+6966	V'Zot HaBerachah7
+6967	Balak1
+6968	Balak1
+6969	Balak1
+6970	Balak1
+6971	Balak1
+6972	Balak1
+6973	Balak1
+6974	Balak1
+6975	Balak1
+6976	Balak1
+6977	Balak1
+6978	Balak1
+6979	Balak1
+6980	Balak1
+6981	Balak1
+6982	Balak1
+6983	Balak1
+6984	Balak1
+6985	Balak1
+6986	Balak1
+6987	Balak1
+6988	Balak1
+6989	Balak1
+6990	Balak1
+6991	Balak1
+6992	Balak1
+6993	Balak1
+6994	Balak1
+6995	Balak1
+6996	Balak1
+6997	Balak1
+6998	Balak1
+6999	Balak1
+7000	Balak1
+7001	Balak1
+7002	Balak1
+7003	Balak1
+7004	Balak1
+7005	Balak1
+7006	Balak1
+7007	Balak1
+7008	Balak1
+7009	Balak1
+7010	Balak1
+7011	Balak1
+7012	Balak1
+7013	Balak1
+7014	Balak1
+7015	Balak1
+7016	Balak1
+7017	Balak1
+7018	Balak1
+7019	Balak1
+7020	Balak1
+7021	Balak1
+7022	Balak1
+7023	Balak1
+7024	Balak1
+7025	Balak1
+7026	Balak1
+7027	Balak1
+7028	Balak1
+7029	Balak1
+7030	Balak1
+7031	Balak1
+7032	Balak1
+7033	Balak1
+7034	Balak1
+7035	Balak1
+7036	Balak1
+7037	Balak1
+7038	Balak1
+7039	Balak1
+7040	Balak1
+7041	Balak1
+7042	Balak1
+7043	Balak1
+7044	Balak1
+7045	Balak1
+7046	Balak1
+7047	Balak1
+7048	Balak1
+7049	Balak1
+7050	Balak1
+7051	Balak1
+7052	Balak1
+7053	Balak1
+7054	Balak1
+7055	Balak1
+7056	Balak1
+7057	Balak1
+7058	Balak1
+7059	Balak1
+7060	Balak1
+7061	Balak1
+7062	Balak1
+7063	Chukat6
+7064	Chukat6
+7065	Chukat6
+7066	Chukat6
+7067	Chukat6
+7068	Chukat6
+7069	Chukat6
+7070	Chukat6
+7071	Chukat6
+7072	Chukat6
+7073	Chukat6
+7074	Chukat6
+7075	Chukat6
+7076	Chukat6
+7077	Chukat6
+7078	Chukat6
+7079	Chukat6
+7080	Chukat6
+7081	Chukat6
+7082	Chukat6
+7083	Chukat6
+7084	Chukat6
+7085	Chukat6
+7086	Chukat6
+7087	Chukat6
+7088	Chukat6
+7089	Chukat6
+7090	Chukat6
+7091	Korach5
+7092	Korach5
+7093	Korach5
+7094	Korach5
+7095	Korach5
+7096	Korach5
+7097	Korach5
+7098	Korach5
+7099	Korach5
+7100	Korach5
+7101	Korach5
+7102	Korach5
+7103	Korach5
+7104	Korach5
+7105	Korach5
+7106	Korach5
+7107	Korach5
+7108	Vayikra1
+7109	Vayikra1
+7110	Vayikra1
+7111	Vayikra1
+7112	Vayikra1
+7113	Vayikra1
+7114	Vayikra1
+7115	Vayikra1
+7116	Vayikra1
+7117	Vayikra1
+7118	Vayikra1
+7119	Vayikra1
+7120	Vayikra1
+7121	Vayikra1
+7122	Vayikra1
+7123	Vayikra1
+7124	Vayikra1
+7125	Vayikra1
+7126	Vayikra1
+7127	Vayikra1
+7128	Vayikra1
+7129	Vayikra1
+7130	Masei4
+7131	Masei4
+7132	Masei4
+7133	Masei4
+7134	Masei4
+7135	Masei4
+7136	Masei4
+7137	Masei4
+7138	Masei4
+7139	Masei4
+7140	Masei4
+7141	Masei4
+7142	Masei4
+7143	Masei4
+7144	Masei4
+7145	Masei4
+7146	Masei4
+7147	Masei4
+7148	Masei4
+7149	Masei4
+7150	Masei4
+7151	Masei4
+7152	Masei4
+7153	Masei4
+7154	Vayikra1
+7155	Vayikra1
+7156	Masei4
+7157	Masei4
+7158	Masei4
+7159	Masei4
+7160	Masei4
+7161	Masei4
+7162	Masei4
+7163	Masei4
+7164	Masei4
+7165	Masei4
+7166	Masei4
+7167	Masei4
+7168	Masei4
+7169	Masei4
+7170	Masei4
+7171	Masei4
+7172	Masei4
+7173	Masei4
+7174	Masei4
+7175	Masei4
+7176	Masei4
+7177	Masei4
+7178	Masei4
+7179	Masei4
+7180	Masei4
+7181	Masei4
+7182	Masei4
+7183	Masei4
+7184	Masei4
+7185	Masei4
+7186	Masei4
+7187	Masei4
+7188	Masei4
+7189	Masei4
+7190	Masei4
+7191	Masei4
+7192	Masei4
+7193	Masei4
+7194	Masei4
+7195	Masei4
+7196	Masei4
+7197	Masei4
+7198	Masei4
+7199	Masei4
+7200	Masei4
+7201	Masei4
+7202	Masei4
+7203	Masei4
+7204	Masei4
+7205	Masei4
+7206	Masei4
+7207	Masei4
+7208	Masei4
+7209	Masei4
+7210	Masei4
+7211	Masei4
+7212	Shoftim3
+7213	Shoftim3
+7214	Shoftim3
+7215	Shoftim3
+7216	Shoftim3
+7217	Shoftim3
+7218	Shoftim3
+7219	Shoftim3
+7220	Shoftim3
+7221	Shoftim3
+7222	Shoftim3
+7223	Shoftim3
+7224	Shoftim3
+7225	Shoftim3
+7226	Shoftim3
+7227	Shoftim3
+7228	Shoftim3
+7229	Shoftim3
+7230	Shoftim3
+7231	Shoftim3
+7232	Shoftim3
+7233	Shoftim3
+7234	Shoftim3
+7235	Shoftim3
+7236	Shoftim3
+7237	Shoftim3
+7238	Shoftim3
+7239	Shoftim3
+7240	Shoftim3
+7241	Shoftim3
+7242	Shoftim3
+7243	Shoftim3
+7244	Shoftim3
+7245	Shoftim3
+7246	Shoftim3
+7247	Vayeshev8
+7248	Vayeshev8
+7249	Shmini1
+7250	Shmini1
+7251	Shmini1
+7252	Shmini1
+7253	Shmini1
+7254	Shmini1
+7255	Shmini1
+7256	Shmini1
+7257	Shmini1
+7258	Shmini1
+7259	Shmini1
+7260	Shmini1
+7261	Shmini1
+7262	Shmini1
+7263	Shmini1
+7264	Shmini1
+7265	Shmini1
+7266	Shmini1
+7267	Shmini1
+7268	Shmini1
+7269	Shmini1
+7270	Shmini1
+7271	Shmini1
+7272	Shmini1
+7273	Shmini1
+7274	Shmini1
+7275	Shmini1
+7276	Shmini1
+7277	Shmini1
+7278	Shmini1
+7279	Shmini1
+7280	Shmini1
+7281	Shmini1
+7282	Shmini1
+7283	Shmini1
+7284	Shmini1
+7285	Shmini1
+7286	Shmini1
+7287	Shmini1
+7288	Eikev2
+7289	Eikev2
+7290	Eikev2
+7291	Eikev2
+7292	Eikev2
+7293	Eikev2
+7294	Eikev2
+7295	Eikev2
+7296	Eikev2
+7297	Eikev2
+7298	Eikev2
+7299	Eikev2
+7300	Eikev2
+7301	Eikev2
+7302	Eikev2
+7303	Eikev2
+7304	Eikev2
+7305	Eikev2
+7306	Eikev2
+7307	Eikev2
+7308	Eikev2
+7309	Eikev2
+7310	Eikev2
+7311	Eikev2
+7312	Eikev2
+7313	Eikev2
+7314	Eikev2
+7315	Eikev2
+7316	Eikev2
+7317	Eikev2
+7318	Eikev2
+7319	Eikev2
+7320	Eikev2
+7321	Eikev2
+7322	Eikev2
+7323	Eikev2
+7324	Eikev2
+7325	Eikev2
+7326	Eikev2
+7327	Eikev2
+7328	Eikev2
+7329	Eikev2
+7330	Eikev2
+7331	Eikev2
+7332	Eikev2
+7333	Eikev2
+7334	Eikev2
+7335	Eikev2
+7336	Eikev2
+7337	Eikev2
+7338	Eikev2
+7339	Eikev2
+7340	Eikev2
+7341	Eikev2
+7342	Eikev2
+7343	Eikev2
+7344	Eikev2
+7345	Eikev2
+7346	Eikev2
+7347	Eikev2
+7348	Eikev2
+7349	Eikev2
+7350	Eikev2
+7351	Eikev2
+7352	Eikev2
+7353	Eikev2
+7354	Eikev2
+7355	Eikev2
+7356	Eikev2
+7357	Ki Tisa22
+7358	Ki Tisa22
+7359	Ki Tisa22
+7360	Ki Tisa22
+7361	Ki Tisa22
+7362	Ki Tisa22
+7363	Ki Tisa22
+7364	Ha'Azinu8
+7365	Ha'Azinu8
+7366	Ha'Azinu8
+7367	Ha'Azinu8
+7368	Ha'Azinu8
+7369	Ha'Azinu8
+7370	Ha'Azinu8
+7371	Ha'Azinu8
+7372	Ha'Azinu8
+7373	Vayetzei2
+7374	Vayetzei2
+7375	Vayetzei2
+7376	Vayetzei2
+7377	Vayetzei2
+7378	Vayetzei2
+7379	Vayetzei2
+7380	Vayetzei2
+7381	Vayetzei2
+7382	Vayetzei2
+7383	Vayetzei2
+7384	Vayetzei2
+7385	Vayetzei2
+7386	Vayetzei2
+7387	Vayetzei2
+7388	Vayetzei2
+7389	Vayetzei2
+7390	Vayetzei2
+7391	Vayetzei2
+7392	Vayetzei2
+7393	Vayetzei2
+7394	Vayetzei2
+7395	Vayetzei2
+7396	Vayetzei2
+7397	Vayetzei2
+7398	Vayetzei2
+7399	Vayetzei2
+7400	Vayetzei2
+7401	Vayetzei2
+7402	Vayetzei2
+7403	Vayetzei2
+7404	Vayetzei2
+7405	Vayetzei2
+7406	Vayetzei2
+7407	Vayetzei2
+7408	Vayetzei2
+7409	Vayetzei2
+7410	Vayetzei2
+7411	Vayetzei2
+7412	Vayetzei2
+7413	Vayetzei2
+7414	Vayetzei2
+7415	Vayetzei2
+7416	Vayetzei2
+7417	Vayetzei2
+7418	Vayetzei2
+7419	Vayetzei2
+7420	Vayetzei2
+7421	Vayetzei2
+7422	Vayetzei2
+7423	Vayetzei2
+7424	Vayetzei2
+7425	Vayetzei2
+7426	Vayetzei2
+7427	Vayetzei2
+7428	Vayetzei2
+7429	Vayetzei2
+7430	Vayetzei2
+7431	Vayetzei2
+7432	Vayetzei2
+7433	Vayetzei2
+7434	Vayetzei2
+7435	Vayetzei2
+7436	Vayetzei2
+7437	Vayetzei2
+7438	Vayetzei2
+7439	Vayetzei2
+7440	Vayetzei2
+7441	Vayetzei2
+7442	Vayetzei2
+7443	Vayetzei2
+7444	Vayetzei2
+7445	Vayetzei2
+7446	Vayetzei2
+7447	Vayetzei2
+7448	Vayetzei2
+7449	Vayetzei2
+7450	Vayetzei2
+7451	Vayetzei2
+7452	Vayetzei2
+7453	Vayetzei2
+7454	Vayetzei2
+7455	Vayetzei2
+7456	Vayetzei2
+7457	Vayetzei2
+7458	Vayetzei2
+7459	Vayetzei2
+7460	Vayetzei2
+7461	Vayetzei2
+7462	Vayetzei2
+7463	Vayetzei2
+7464	Vayetzei2
+7465	Vayetzei2
+7466	Vayetzei2
+7467	Shmini9
+7468	Shmini9
+7469	Shmini9
+7470	Shmini9
+7471	Shmini9
+7472	Shmini9
+7473	Shmini9
+7474	Shmini9
+7475	Shmini9
+7476	Shmini9
+7477	Shmini9
+7478	Shmini9
+7479	Shmini9
+7480	Shmini9
+7481	Shmini9
+7482	Shmini9
+7483	Shmini9
+7484	Shmini9
+7485	Shmini9
+7486	Shmini9
+7487	Shmini9
+7488	Shmini9
+7489	Shmini9
+7490	Shmini9
+7491	Shmini9
+7492	Shmini9
+7493	Shmini9
+7494	Shmini9
+7495	Shmini9
+7496	Shmini9
+7497	Shmini9
+7498	Shmini9
+7499	Shmini9
+7500	Shmini9
+7501	Shmini9
+7502	Shmini9
+7503	Shmini9
+7504	Shmini9
+7505	Shmini9
+7506	Shmini9
+7507	Shmini9
+7508	Shmini9
+7509	Shmini9
+7510	Shmini9
+7511	Shmini9
+7512	Shmini9
+7513	Shmini9
+7514	Shmini9
+7515	Shmini9
+7516	Shmini9
+7517	Shmini9
+7518	Shmini9
+7519	Shmini9
+7520	Shmini9
+7521	Shmini9
+7522	Shmini9
+7523	Shmini9
+7524	Shmini9
+7525	Shmini9
+7526	Shmini9
+7527	Shmini9
+7528	Shmini9
+7529	Shmini9
+7530	Shmini9
+7531	Shmini9
+7532	Shmini9
+7533	Shmini9
+7534	Shmini9
+7535	Shmini9
+7536	Shmini9
+7537	V'Zot HaBerachah3
+7538	V'Zot HaBerachah3
+7539	V'Zot HaBerachah3
+7540	V'Zot HaBerachah3
+7541	V'Zot HaBerachah3
+7542	V'Zot HaBerachah3
+7543	V'Zot HaBerachah3
+7544	V'Zot HaBerachah3
+7545	V'Zot HaBerachah3
+7546	V'Zot HaBerachah3
+7547	V'Zot HaBerachah3
+7548	V'Zot HaBerachah3
+7549	V'Zot HaBerachah3
+7550	V'Zot HaBerachah3
+7551	V'Zot HaBerachah3
+7552	V'Zot HaBerachah3
+7553	V'Zot HaBerachah3
+7554	V'Zot HaBerachah3
+7555	V'Zot HaBerachah3
+7556	V'Zot HaBerachah3
+7557	V'Zot HaBerachah3
+7558	V'Zot HaBerachah3
+7559	V'Zot HaBerachah3
+7560	V'Zot HaBerachah3
+7561	V'Zot HaBerachah3
+7562	V'Zot HaBerachah3
+7563	V'Zot HaBerachah3
+7564	V'Zot HaBerachah3
+7565	V'Zot HaBerachah3
+7566	V'Zot HaBerachah3
+7567	V'Zot HaBerachah3
+7568	V'Zot HaBerachah3
+7569	V'Zot HaBerachah3
+7570	V'Zot HaBerachah3
+7571	V'Zot HaBerachah3
+7572	V'Zot HaBerachah3
+7573	V'Zot HaBerachah3
+7574	V'Zot HaBerachah3
+7575	V'Zot HaBerachah3
+7576	V'Zot HaBerachah3
+7577	V'Zot HaBerachah3
+7578	Re'eh4
+7579	Re'eh4
+7580	Re'eh4
+7581	Re'eh4
+7582	Re'eh4
+7583	Re'eh4
+7584	Re'eh4
+7585	Re'eh4
+7586	Re'eh4
+7587	Re'eh4
+7588	Re'eh4
+7589	Re'eh4
+7590	Re'eh4
+7591	Re'eh4
+7592	Re'eh4
+7593	Re'eh4
+7594	Re'eh4
+7595	Re'eh4
+7596	Re'eh4
+7597	Re'eh4
+7598	Re'eh4
+7599	Re'eh4
+7600	Re'eh4
+7601	Re'eh4
+7602	Re'eh4
+7603	Re'eh4
+7604	Re'eh4
+7605	Re'eh4
+7606	Re'eh4
+7607	Re'eh4
+7608	Re'eh4
+7609	Re'eh4
+7610	Re'eh4
+7611	Re'eh4
+7612	Re'eh4
+7613	Re'eh4
+7614	Re'eh4
+7615	Re'eh4
+7616	Re'eh4
+7617	Re'eh4
+7618	Re'eh4
+7619	Re'eh4
+7620	Re'eh4
+7621	Re'eh4
+7622	Re'eh4
+7623	Re'eh4
+7624	Re'eh4
+7625	Re'eh4
+7626	Re'eh4
+7627	Re'eh4
+7628	Re'eh4
+7629	Re'eh4
+7630	Re'eh4
+7631	Re'eh4
+7632	Re'eh4
+7633	Re'eh4
+7634	Re'eh4
+7635	Re'eh4
+7636	Re'eh4
+7637	Re'eh4
+7638	Re'eh4
+7639	Re'eh4
+7640	Re'eh4
+7641	Re'eh4
+7642	Re'eh4
+7643	Re'eh4
+7644	Re'eh4
+7645	Re'eh4
+7646	Re'eh4
+7647	Re'eh4
+7648	Re'eh4
+7649	Re'eh4
+7650	Re'eh4
+7651	Re'eh4
+7652	Re'eh4
+7653	Re'eh4
+7654	Re'eh4
+7655	Re'eh4
+7656	Re'eh4
+7657	Re'eh4
+7658	Re'eh4
+7659	Re'eh4
+7660	Re'eh4
+7661	Re'eh4
+7662	Re'eh4
+7663	Re'eh4
+7664	Re'eh4
+7665	Re'eh4
+7666	Re'eh4
+7667	Re'eh4
+7668	Re'eh4
+7669	Re'eh4
+7670	Re'eh4
+7671	Re'eh4
+7672	Re'eh4
+7673	Re'eh4
+7674	Re'eh4
+7675	Re'eh4
+7676	Re'eh4
+7677	Re'eh4
+7678	Re'eh4
+7679	Re'eh4
+7680	Re'eh4
+7681	Re'eh4
+7682	Re'eh4
+7683	Re'eh4
+7684	Re'eh4
+7685	Re'eh4
+7686	Re'eh4
+7687	Re'eh4
+7688	Re'eh4
+7689	Re'eh4
+7690	Re'eh4
+7691	Re'eh4
+7692	Re'eh4
+7693	Re'eh4
+7694	Re'eh4
+7695	Re'eh4
+7696	Re'eh4
+7697	Re'eh4
+7698	Re'eh4
+7699	Re'eh4
+7700	Re'eh4
+7701	Re'eh4
+7702	Re'eh4
+7703	Re'eh4
+7704	Re'eh4
+7705	Re'eh4
+7706	Re'eh4
+7707	Re'eh4
+7708	Re'eh4
+7709	Re'eh4
+7710	Re'eh4
+7711	Re'eh4
+7712	Re'eh4
+7713	Re'eh4
+7714	Re'eh4
+7715	Re'eh4
+7716	Re'eh4
+7717	Re'eh4
+7718	Re'eh4
+7719	Re'eh4
+7720	Re'eh4
+7721	Re'eh4
+7722	Re'eh4
+7723	Re'eh4
+7724	Re'eh4
+7725	Re'eh4
+7726	Re'eh4
+7727	Re'eh4
+7728	Re'eh4
+7729	Re'eh4
+7730	Re'eh4
+7731	Re'eh4
+7732	Re'eh4
+7733	Re'eh4
+7734	Re'eh4
+7735	Re'eh4
+7736	Re'eh4
+7737	Re'eh4
+7738	Re'eh4
+7739	Re'eh4
+7740	Re'eh4
+7741	Re'eh4
+7742	Re'eh4
+7743	Re'eh4
+7744	Re'eh4
+7745	Re'eh4
+7746	Re'eh4
+7747	Re'eh4
+7748	Re'eh4
+7749	Re'eh4
+7750	Re'eh4
+7751	Re'eh4
+7752	Re'eh4
+7753	Re'eh4
+7754	Re'eh4
+7755	Re'eh4
+7756	Re'eh4
+7757	Re'eh4
+7758	Re'eh4
+7759	Re'eh4
+7760	Re'eh4
+7761	Re'eh4
+7762	Re'eh4
+7763	Re'eh4
+7764	Re'eh4
+7765	Re'eh4
+7766	Re'eh4
+7767	Re'eh4
+7768	Re'eh4
+7769	Re'eh4
+7770	Re'eh4
+7771	Re'eh4
+7772	Re'eh4
+7773	Re'eh4
+7774	Re'eh4
+7775	Re'eh4
+7776	Re'eh4
+7777	Re'eh4
+7778	Re'eh4
+7779	Re'eh4
+7780	Re'eh4
+7781	Re'eh4
+7782	Re'eh4
+7783	Re'eh4
+7784	Re'eh4
+7785	Re'eh4
+7786	Re'eh4
+7787	Re'eh4
+7788	Re'eh4
+7789	Re'eh4
+7790	Re'eh4
+7791	Re'eh4
+7792	Re'eh4
+7793	Re'eh4
+7794	Re'eh4
+7795	Re'eh4
+7796	Re'eh4
+7797	Re'eh4
+7798	Re'eh4
+7799	Re'eh4
+7800	Re'eh4
+7801	Re'eh4
+7802	Re'eh4
+7803	Re'eh4
+7804	Re'eh4
+7805	Re'eh4
+7806	Re'eh4
+7807	Re'eh4
+7808	Re'eh4
+7809	Re'eh4
+7810	Re'eh4
+7811	Re'eh4
+7812	Re'eh4
+7813	Re'eh4
+7814	Chukat6
+7815	Chukat6
+7816	Chukat6
+7817	Chukat6
+7818	Chukat6
+7819	Chukat6
+7820	Chukat6
+7821	Chukat6
+7822	Chukat6
+7823	Chukat6
+7824	Chukat6
+7825	Chukat6
+7826	Chukat6
+7827	Chukat6
+7828	Chukat6
+7829	Chukat6
+7830	Chukat6
+7831	Chukat6
+7832	Chukat6
+7833	Chukat6
+7834	Chukat6
+7835	Chukat6
+7836	Chukat6
+7837	Chukat6
+7838	Chukat6
+7839	Chukat6
+7840	Chukat6
+7841	Chukat6
+7842	Chukat6
+7843	Chukat6
+7844	Chukat6
+7845	Chukat6
+7846	Chukat6
+7847	Chukat6
+7848	Chukat6
+7849	Chukat6
+7850	Chukat6
+7851	Chukat6
+7852	Chukat6
+7853	Chukat6
+7854	Chukat6
+7855	Chukat6
+7856	Chukat6
+7857	Chukat6
+7858	Chukat6
+7859	Chukat6
+7860	Chukat6
+7861	Chukat6
+7862	Chukat6
+7863	Chukat6
+7864	Chukat6
+7865	Chukat6
+7866	Chukat6
+7867	Chukat6
+7868	Chukat6
+7869	Chukat6
+7870	Chukat6
+7871	Chukat6
+7872	Chukat6
+7873	Chukat6
+7874	Chukat6
+7875	Chukat6
+7876	Chukat6
+7877	Chukat6
+7878	Chukat6
+7879	Chukat6
+7880	Chukat6
+7881	Chukat6
+7882	Chukat6
+7883	Chukat6
+7884	Chukat6
+7885	Chukat6
+7886	Chukat6
+7887	Chukat6
+7888	Chukat6
+7889	Chukat6
+7890	Chukat6
+7891	Chukat6
+7892	Chukat6
+7893	Chukat6
+7894	Chukat6
+7895	Chukat6
+7896	Chukat6
+7897	Chukat6
+7898	Chukat6
+7899	Chukat6
+7900	Chukat6
+7901	Chukat6
+7902	Chukat6
+7903	Chukat6
+7904	Chukat6
+7905	Chukat6
+7906	Chukat6
+7907	Chukat6
+7908	Chukat6
+7909	Chukat6
+7910	Chukat6
+7911	Chukat6
+7912	Chukat6
+7913	Chukat6
+7914	Chukat6
+7915	Chukat6
+7916	Chukat6
+7917	Chukat6
+7918	Chukat6
+7919	Chukat6
+7920	Chukat6
+7921	Chukat6
+7922	Chukat6
+7923	Chukat6
+7924	Chukat6
+7925	Chukat6
+7926	Chukat6
+7927	Chukat6
+7928	Chukat6
+7929	Chukat6
+7930	Chukat6
+7931	Chukat6
+7932	Chukat6
+7933	Chukat6
+7934	Chukat6
+7935	Chukat6
+7936	Chukat6
+7937	Chukat6
+7938	Chukat6
+7939	Chukat6
+7940	Chukat6
+7941	Chukat6
+7942	Chukat6
+7943	Chukat6
+7944	Chukat6
+7945	Chukat6
+7946	Chukat6
+7947	Chukat6
+7948	Chukat6
+7949	Chukat6
+7950	Chukat6
+7951	Chukat6
+7952	Chukat6
+7953	Chukat6
+7954	Chukat6
+7955	Chukat6
+7956	Chukat6
+7957	Chukat6
+7958	Chukat6
+7959	Chukat6
+7960	Chukat6
+7961	Chukat6
+7962	Chukat6
+7963	Chukat6
+7964	Chukat6
+7965	Chukat6
+7966	Chukat6
+7967	Chukat6
+7968	Chukat6
+7969	Chukat6
+7970	Chukat6
+7971	Chukat6
+7972	Chukat6
+7973	Chukat6
+7974	Chukat6
+7975	Chukat6
+7976	Chukat6
+7977	Chukat6
+7978	Chukat6
+7979	Chukat6
+7980	Chukat6
+7981	Chukat6
+7982	Chukat6
+7983	Chukat6
+7984	Chukat6
+7985	Chukat6
+7986	Chukat6
+7987	Chukat6
+7988	Chukat6
+7989	Chukat6
+7990	Chukat6
+7991	Chukat6
+7992	Chukat6
+7993	Chukat6
+7994	Chukat6
+7995	Chukat6
+7996	Chukat6
+7997	Chukat6
+7998	Chukat6
+7999	Chukat6
+8000	Chukat6
+8001	Chukat6
+8002	Chukat6
+8003	Chukat6
+8004	Chukat6
+8005	Chukat6
+8006	Chukat6
+8007	Chukat6
+8008	Chukat6
+8009	Chukat6
+8010	Chukat6
+8011	Chukat6
+8012	Chukat6
+8013	Chukat6
+8014	Chukat6
+8015	Chukat6
+8016	Chukat6
+8017	Chukat6
+8018	Chukat6
+8019	Chukat6
+8020	Chukat6
+8021	Chukat6
+8022	Chukat6
+8023	Chukat6
+8024	Chukat6
+8025	Chukat6
+8026	Chukat6
+8027	Chukat6
+8028	Chukat6
+8029	Chukat6
+8030	Chukat6
+8031	Chukat6
+8032	Chukat6
+8033	Chukat6
+8034	Chukat6
+8035	Chukat6
+8036	Chukat6
+8037	Chukat6
+8038	Chukat6
+8039	Chukat6
+8040	Chukat6
+8041	Chukat6
+8042	Chukat6
+8043	Vayigash2
+8044	Vayigash2
+8045	Vayigash2
+8046	Vayigash2
+8047	Vayigash2
+8048	Vayigash2
+8049	Vayigash2
+8050	Vayigash2
+8051	Vayigash2
+8052	Vayigash2
+8053	Vayigash2
+8054	Vayigash2
+8055	Vayigash2
+8056	Vayigash2
+8057	Vayigash2
+8058	Vayigash2
+8059	Vayigash2
+8060	Vayigash2
+8061	Vayigash2
+8062	Vayigash2
+8063	Vayigash2
+8064	Vayigash2
+8065	Vayigash2
+8066	Vayigash2
+8067	Vayigash2
+8068	Vayigash2
+8069	Vayigash2
+8070	Vayigash2
+8071	Vayigash2
+8072	Vayigash2
+8073	Vayigash2
+8074	Vayigash2
+8075	Vayigash2
+8076	Vayigash2
+8077	Vayigash2
+8078	Vayigash2
+8079	Vayigash2
+8080	Vayigash2
+8081	Vayigash2
+8082	Vayigash2
+8083	Vayigash2
+8084	Vayigash2
+8085	Vayigash2
+8086	Vayigash2
+8087	Vayigash2
+8088	Vayigash2
+8089	Vayigash2
+8090	Vayigash2
+8091	Vayigash2
+8092	Vayigash2
+8093	Vayigash2
+8094	Vayigash2
+8095	Emor6
+8096	Emor6
+8097	Emor6
+8098	Emor6
+8099	Emor6
+8100	Emor6
+8101	Emor6
+8102	Emor6
+8103	Emor6
+8104	Emor6
+8105	Emor6
+8106	Emor6
+8107	Emor6
+8108	Emor6
+8109	Emor6
+8110	Emor6
+8111	Emor6
+8112	Emor6
+8113	Emor6
+8114	Emor6
+8115	Emor6
+8116	Emor6
+8117	Emor6
+8118	Emor6
+8119	Emor6
+8120	Emor6
+8121	Emor6
+8122	Emor6
+8123	Emor6
+8124	Emor6
+8125	Emor6
+8126	Emor6
+8127	Emor6
+8128	Emor6
+8129	Emor6
+8130	Emor6
+8131	Emor6
+8132	Emor6
+8133	Emor6
+8134	Emor6
+8135	Emor6
+8136	Emor6
+8137	Emor6
+8138	Emor6
+8139	Emor6
+8140	Emor6
+8141	Beshalach5
+8142	Beshalach5
+8143	Beshalach5
+8144	Beshalach5
+8145	Beshalach5
+8146	Beshalach5
+8147	Beshalach5
+8148	Beshalach5
+8149	Beshalach5
+8150	Beshalach5
+8151	Beshalach5
+8152	Beshalach5
+8153	Beshalach5
+8154	Beshalach5
+8155	Beshalach5
+8156	Beshalach5
+8157	Beshalach5
+8158	Beshalach5
+8159	Beshalach5
+8160	Beshalach5
+8161	Beshalach5
+8162	Bereshit13
+8163	Bereshit13
+8164	Bereshit13
+8165	Bereshit13
+8166	Bereshit13
+8167	Bereshit13
+8168	Bereshit13
+8169	Bereshit13
+8170	Bereshit13
+8171	Bereshit13
+8172	Bereshit13
+8173	Bereshit13
+8174	Bereshit13
+8175	Bereshit13
+8176	Bereshit13
+8177	Bereshit13
+8178	Bereshit13
+8179	Bereshit13
+8180	Bereshit13
+8181	Bereshit13
+8182	Bereshit13
+8183	Bereshit13
+8184	Bereshit13
+8185	Bereshit13
+8186	Behar3
+8187	Behar3
+8188	Behar3
+8189	Behar3
+8190	Behar3
+8191	Behar3
+8192	Behar3
+8193	Behar3
+8194	Behar3
+8195	Behar3
+8196	Behar3
+8197	Behar3
+8198	Behar3
+8199	Behar3
+8200	Behar3
+8201	Behar3
+8202	Behar3
+8203	Behar3
+8204	Behar3
+8205	Behar3
+8206	Behar3
+8207	Behar3
+8208	Behar3
+8209	Behar3
+8210	Behar3
+8211	Behar3
+8212	Behar3
+8213	Behar3
+8214	Behar3
+8215	Behar3
+8216	Behar3
+8217	Behar3
+8218	Behar3
+8219	Behar3
+8220	Behar3
+8221	Behar3
+8222	Behar3
+8223	Behar3
+8224	Behar3
+8225	Behar3
+8226	Behar3
+8227	Behar3
+8228	Behar3
+8229	Behar3
+8230	Behar3
+8231	Behar3
+8232	Behar3
+8233	Behar3
+8234	Behar3
+8235	Behar3
+8236	Behar3
+8237	Behar3
+8238	Behar3
+8239	Behar3
+8240	Behar3
+8241	Behar3
+8242	Behar3
+8243	Behar3
+8244	Behar3
+8245	Behar3
+8246	Behar3
+8247	Behar3
+8248	Behar3
+8249	Behar3
+8250	Behar3
+8251	Ki Tavo3
+8252	Ki Tavo3
+8253	Nasso11
+8254	Nasso11
+8255	Nasso11
+8256	Nasso11
+8257	Nasso11
+8258	Nasso11
+8259	Nasso11
+8260	Nasso11
+8261	Nasso11
+8262	Nasso11
+8263	Nasso11
+8264	Nasso11
+8265	Nasso11
+8266	Nasso11
+8267	Nasso11
+8268	Nasso11
+8269	Nasso11
+8270	Nasso11
+8271	Nasso11
+8272	Nasso11
+8273	Nasso11
+8274	Nasso11
+8275	Nasso11
+8276	Nasso11
+8277	Nasso11
+8278	Nasso11
+8279	Nasso11
+8280	Nasso11
+8281	Nasso11
+8282	Nasso11
+8283	Nasso11
+8284	Nasso11
+8285	Nasso11
+8286	Nasso11
+8287	Nasso11
+8288	Nasso11
+8289	Nasso11
+8290	Nasso11
+8291	Nasso11
+8292	Nasso11
+8293	Nasso11
+8294	Nasso11
+8295	Nasso11
+8296	Nasso11
+8297	Nasso11
+8298	Nasso11
+8299	Nasso11
+8300	Nasso11
+8301	Nasso11
+8302	Nasso11
+8303	Nasso11
+8304	Nasso11
+8305	Nasso11
+8306	Nasso11
+8307	Nasso11
+8308	Nasso11
+8309	Nasso11
+8310	Nasso11
+8311	Nasso11
+8312	Nasso11
+8313	Eikev10
+8314	Eikev10
+8315	Eikev10
+8316	Eikev10
+8317	Eikev10
+8318	Eikev10
+8319	Eikev10
+8320	Eikev10
+8321	Eikev10
+8322	Metzora2
+8323	Metzora2
+8324	Metzora2
+8325	Metzora2
+8326	Metzora2
+8327	Metzora2
+8328	Metzora2
+8329	Metzora2
+8330	Metzora2
+8331	Metzora2
+8332	Metzora2
+8333	Metzora2
+8334	Metzora2
+8335	Metzora2
+8336	Metzora2
+8337	Metzora2
+8338	Metzora2
+8339	Metzora2
+8340	Shmini12
+8341	Shmini12
+8342	Shmini12
+8343	Bechukotai6
+8344	Bechukotai6
+8345	Bechukotai6
+8346	Bechukotai6
+8347	Vayakhel6
+8348	Vayakhel6
+8349	Vayakhel6
+8350	Vayakhel6
+8351	Vayakhel6
+8352	Vayakhel6
+8353	Vayakhel6
+8354	Vayakhel6
+8355	Vayakhel6
+8356	Vayakhel6
+8357	Vayakhel6
+8358	Vayakhel6
+8359	Vayakhel6
+8360	Vayakhel6
+8361	Vayakhel6
+8362	Vayakhel6
+8363	Vayakhel6
+8364	Vayakhel6
+8365	Vayakhel6
+8366	Vayakhel6
+8367	Vayakhel6
+8368	Vayakhel6
+8369	Vayakhel6
+8370	Vayakhel6
+8371	Vayakhel6
+8372	Vayakhel6
+8373	Vayakhel6
+8374	Vayakhel6
+8375	Vayakhel6
+8376	Vayakhel6
+8377	Vayakhel6
+8378	Vayakhel6
+8379	Vayakhel6
+8380	Vayakhel6
+8381	Vayakhel6
+8382	Vayakhel6
+8383	Vayakhel6
+8384	Vayakhel6
+8385	Vayakhel6
+8386	Vayakhel6
+8387	Vayakhel6
+8388	Vayakhel6
+8389	Vayakhel6
+8390	Vayakhel6
+8391	Vayakhel6
+8392	Vayakhel6
+8393	Vayakhel6
+8394	Vayakhel6
+8395	Vayakhel6
+8396	Vayakhel6
+8397	Vayakhel6
+8398	Vayakhel6
+8399	Vayakhel6
+8400	Vayakhel6
+8401	Vayakhel6
+8402	Vayakhel6
+8403	Vayakhel6
+8404	Vayakhel6
+8405	Vayakhel6
+8406	Vayakhel6
+8407	Vayakhel6
+8408	Vayakhel6
+8409	Vayakhel6
+8410	Vayakhel6
+8411	Vayakhel6
+8412	Vayakhel6
+8413	Vayakhel6
+8414	Vayakhel6
+8415	Vayakhel6
+8416	Vayakhel6
+8417	Vayakhel6
+8418	Vayakhel6
+8419	Vayakhel6
+8420	Vayakhel6
+8421	Vayakhel6
+8422	Vayakhel6
+8423	Vayakhel6
+8424	Vayeshev2
+8425	Vayeshev2
+8426	Vayeshev2
+8427	Vayeshev2
+8428	Vayeshev2
+8429	Vayeshev2
+8430	Vayeshev2
+8431	Vayeshev2
+8432	Vayeshev2
+8433	Vayeshev2
+8434	Vayeshev2
+8435	Vayeshev2
+8436	Vayeshev2
+8437	Vayeshev2
+8438	Vayeshev2
+8439	Vayeshev2
+8440	Vayeshev2
+8441	Vayeshev2
+8442	Vayeshev2
+8443	Vayeshev2
+8444	Vayeshev2
+8445	Vayeshev2
+8446	Vayeshev2
+8447	Vayeshev2
+8448	Vayeshev2
+8449	Vayeshev2
+8450	Vayeshev2
+8451	Vayeshev2
+8452	Vayeshev2
+8453	Vayeshev2
+8454	Vayeshev2
+8455	Vayeshev2
+8456	Vayeshev2
+8457	Vayeshev2
+8458	Vayeshev2
+8459	Vayeshev2
+8460	Vayeshev2
+8461	Vayeshev2
+8462	Vayeshev2
+8463	Vayeshev2
+8464	Vayeshev2
+8465	Vayeshev2
+8466	Vayeshev2
+8467	Vayeshev2
+8468	Vayeshev2
+8469	Vayeshev2
+8470	Vayeshev2
+8471	Vayeshev2
+8472	Vayeshev2
+8473	Vayeshev2
+8474	Vayeshev2
+8475	Vayeshev2
+8476	Vayeshev2
+8477	Vayeshev2
+8478	Vayeshev2
+8479	Vayeshev2
+8480	Vayeshev2
+8481	Vayeshev2
+8482	Vayeshev2
+8483	Vayeshev2
+8484	Vayeshev2
+8485	Vayeshev2
+8486	Vayeshev2
+8487	Vayeshev2
+8488	Vayeshev2
+8489	Vayeshev2
+8490	Vayeshev2
+8491	Vayeshev2
+8492	Vayeshev2
+8493	Vayeshev2
+8494	Vayeshev2
+8495	Vayeshev2
+8496	Vayeshev2
+8497	Vayeshev2
+8498	Vayeshev2
+8499	Vayeshev2
+8500	Vayeshev2
+8501	Vayeshev2
+8502	Vayeshev2
+8503	Vayeshev2
+8504	Vayeshev2
+8505	Vayeshev2
+8506	Vayeshev2
+8507	Vayeshev2
+8508	Vayeshev2
+8509	Vayeshev2
+8510	Vayeshev2
+8511	Vayeshev2
+8512	Vayeshev2
+8513	Vayeshev2
+8514	Vayeshev2
+8515	Vayeshev2
+8516	Vayeshev2
+8517	Vayeshev2
+8518	Vayeshev2
+8519	Vayeshev2
+8520	Vayeshev2
+8521	Vayigash4
+8522	Vayigash4
+8523	Vayigash4
+8524	Vayigash4
+8525	Vayigash4
+8526	Vayigash4
+8527	Vayigash4
+8528	Vayigash4
+8529	Vayigash4
+8530	Vayigash4
+8531	Vayigash4
+8532	Vayigash4
+8533	Vayigash4
+8534	Vayigash4
+8535	Vayigash4
+8536	Vayigash4
+8537	Vayigash4
+8538	Vayigash4
+8539	Ki Tavo2
+8540	Ki Tavo2
+8541	Ki Tavo2
+8542	Ki Tavo2
+8543	Ki Tavo2
+8544	Ki Tavo2
+8545	Ki Tavo2
+8546	Ki Tavo2
+8547	Ki Tavo2
+8548	Ki Tavo2
+8549	Ki Tavo2
+8550	Ki Tavo2
+8551	Ki Tavo2
+8552	Ki Tavo2
+8553	Ki Tavo2
+8554	Ki Tavo2
+8555	Ki Tavo2
+8556	Ki Tavo2
+8557	Ki Tavo2
+8558	Ki Tavo2
+8559	Ki Tavo2
+8560	Ki Tavo2
+8561	Ki Tavo2
+8562	Ki Tavo2
+8563	Ki Tavo2
+8564	Ki Tavo2
+8565	Ki Tavo2
+8566	Ki Tavo2
+8567	Ki Tavo2
+8568	Ki Tavo2
+8569	Ki Tavo2
+8570	Ki Tavo2
+8571	Ki Tavo2
+8572	Ki Tavo2
+8573	Ki Tavo2
+8574	Ki Tavo2
+8575	Ki Tavo2
+8576	Ki Tavo2
+8577	Ki Tavo2
+8578	Ki Tavo2
+8579	Ki Tavo2
+8580	Ki Tavo2
+8581	Ki Tavo2
+8582	Ki Tavo2
+8583	Miketz7
+8584	Miketz7
+8585	Miketz7
+8586	Miketz7
+8587	Miketz7
+8588	Miketz7
+8589	Miketz7
+8590	Miketz7
+8591	Miketz7
+8592	Miketz7
+8593	Miketz7
+8594	Miketz7
+8595	Miketz7
+8596	Miketz7
+8597	Miketz7
+8598	Miketz7
+8599	Miketz7
+8600	Miketz7
+8601	Miketz7
+8602	Miketz7
+8603	Miketz7
+8604	Miketz7
+8605	Miketz7
+8606	Miketz7
+8607	Miketz7
+8608	Miketz7
+8609	Miketz7
+8610	Miketz7
+8611	Vayakhel2
+8612	Vayakhel2
+8613	Vayakhel2
+8614	Vayakhel2
+8615	Vayakhel2
+8616	Vayakhel2
+8617	Vayakhel2
+8618	Vayakhel2
+8619	Vayakhel2
+8620	Vayakhel2
+8621	Vayakhel2
+8622	Vayakhel2
+8623	Vayakhel2
+8624	Vayakhel2
+8625	Vayakhel2
+8626	Vayakhel2
+8627	Vayakhel2
+8628	Vayakhel2
+8629	Vayakhel2
+8630	Vayakhel2
+8631	Vayakhel2
+8632	Vayakhel2
+8633	Vayakhel2
+8634	Vayakhel2
+8635	Vayakhel2
+8636	Vayakhel2
+8637	Vayakhel2
+8638	Vayakhel2
+8639	Vayakhel2
+8640	Vayakhel2
+8641	Vayakhel2
+8642	Vayakhel2
+8643	Vayakhel2
+8644	Vayakhel2
+8645	Vayakhel2
+8646	Vayakhel2
+8647	Vayakhel2
+8648	Vayakhel2
+8649	Vayakhel2
+8650	Vayakhel2
+8651	Lech Lecha5
+8652	Lech Lecha5
+8653	Lech Lecha5
+8654	Lech Lecha5
+8655	Lech Lecha5
+8656	Lech Lecha5
+8657	Lech Lecha5
+8658	Lech Lecha5
+8659	Lech Lecha5
+8660	Lech Lecha5
+8661	Lech Lecha5
+8662	Lech Lecha5
+8663	Lech Lecha5
+8664	Lech Lecha5
+8665	Lech Lecha5
+8666	Lech Lecha5
+8667	Lech Lecha5
+8668	Lech Lecha5
+8669	Lech Lecha5
+8670	Lech Lecha5
+8671	Lech Lecha5
+8672	Lech Lecha5
+8673	Lech Lecha5
+8674	Lech Lecha5
+8675	Lech Lecha5
+8676	Lech Lecha5
+8677	Lech Lecha5
+8678	Lech Lecha5
+8679	Lech Lecha5
+8680	Lech Lecha5
+8681	Lech Lecha5
+8682	Lech Lecha5
+8683	Lech Lecha5
+8684	Lech Lecha5
+8685	Lech Lecha5
+8686	Lech Lecha5
+8687	Lech Lecha5
+8688	Lech Lecha5
+8689	Lech Lecha5
+8690	Lech Lecha5
+8691	Lech Lecha5
+8692	Lech Lecha5
+8693	Lech Lecha5
+8694	Lech Lecha5
+8695	Lech Lecha5
+8696	Lech Lecha5
+8697	Vayakhel10
+8698	Vayakhel10
+8699	Vayakhel10
+8700	Vayakhel10
+8701	Vayakhel10
+8702	Vayakhel10
+8703	Vayakhel10
+8704	Vayakhel10
+8705	Vayakhel10
+8706	Vayakhel10
+8707	Vayakhel10
+8708	Vayakhel10
+8709	Vayakhel10
+8710	Vayakhel10
+8711	Vayakhel10
+8712	Vayakhel10
+8713	Vayakhel10
+8714	Vayakhel10
+8715	Vayakhel10
+8716	Vayakhel10
+8717	Vayechi14
+8718	Vayechi14
+8719	Vayechi14
+8720	Vayechi14
+8721	Vayechi14
+8722	Vayechi14
+8723	Vayechi14
+8724	Vayechi14
+8725	Vayechi14
+8726	Vayechi14
+8727	Vayechi14
+8728	Vayechi14
+8729	Vayechi14
+8730	Vayechi14
+8731	Vayechi14
+8732	Vayechi14
+8733	Vayechi14
+8734	Vayechi14
+8735	Vayechi14
+8736	Vayechi14
+8737	Vayechi14
+8738	Vayechi14
+8739	Vayechi14
+8740	Vayechi14
+8741	Vayechi14
+8742	Vayechi14
+8743	Vayechi14
+8744	Vayechi14
+8745	Vayechi14
+8746	Vayechi14
+8747	Vayechi14
+8748	Vayechi14
+8749	Vayechi14
+8750	Vayechi14
+8751	Vayechi14
+8752	Vayechi14
+8753	Vayechi14
+8754	Vayechi14
+8755	Vayechi14
+8756	Vayechi14
+8757	Vayechi14
+8758	Vayechi14
+8759	Vayechi14
+8760	Vayechi14
+8761	Vayechi14
+8762	Vayechi14
+8763	Vayechi14
+8764	Vayechi14
+8765	Vayechi14
+8766	Vayechi14
+8767	Vayechi14
+8768	Vayechi14
+8769	Vayechi14
+8770	Vayechi14
+8771	Vayechi14
+8772	Vayechi14
+8773	Vayechi14
+8774	Vayechi14
+8775	Vayechi14
+8776	Vayechi14
+8777	Vayechi14
+8778	Vayechi14
+8779	Vayechi14
+8780	Vayechi14
+8781	Vaetchanan6
+8782	Vaetchanan6
+8783	Vaetchanan6
+8784	Vaetchanan6
+8785	Vaetchanan6
+8786	Vaetchanan6
+8787	Vaetchanan6
+8788	Vaetchanan6
+8789	Vaetchanan6
+8790	Vaetchanan6
+8791	Vaetchanan6
+8792	Vaetchanan6
+8793	Vaetchanan6
+8794	Vaetchanan6
+8795	Vaetchanan6
+8796	Vaetchanan6
+8797	Vaetchanan6
+8798	Vaetchanan6
+8799	Vaetchanan6
+8800	Emor9
+8801	Vaetchanan6
+8802	Vaetchanan6
+8803	Vaetchanan6
+8804	Vaetchanan6
+8805	Vaetchanan6
+8806	Vaetchanan6
+8807	Vaetchanan6
+8808	Vaetchanan6
+8809	Vaetchanan6
+8810	Vaetchanan6
+8811	Vaetchanan6
+8812	Vaetchanan6
+8813	Vaetchanan6
+8814	Vaetchanan6
+8815	Vaetchanan6
+8816	Vaetchanan6
+8817	Vaetchanan6
+8818	Vaetchanan6
+8819	Vaetchanan6
+8820	Vaetchanan6
+8821	Vaetchanan6
+8822	Vaetchanan6
+8823	Vaetchanan6
+8824	Vaetchanan6
+8825	Vaetchanan6
+8826	Vaetchanan6
+8827	Vaetchanan6
+8828	Behar3
+8829	Behar3
+8830	Behar3
+8831	Behar3
+8832	Behar3
+8833	Behar3
+8834	Behar3
+8835	Behar3
+8836	Behar3
+8837	Behar3
+8838	Behar3
+8839	Behar3
+8840	Behar3
+8841	Behar3
+8842	Behar3
+8843	Behar3
+8844	Behar3
+8845	Behar3
+8846	Behar3
+8847	Behar3
+8848	Behar3
+8849	Behar3
+8850	Behar3
+8851	Behar3
+8852	Behar3
+8853	Behar3
+8854	Behar3
+8855	Behar3
+8856	Behar3
+8857	Behar3
+8858	Behar3
+8859	Behar3
+8860	Behar3
+8861	Behar3
+8862	Behar3
+8863	Behar3
+8864	Behar3
+8865	Behar3
+8866	Behar3
+8867	Behar3
+8868	Behar3
+8869	Behar3
+8870	Behar3
+8871	Behar3
+8872	Behar3
+8873	Behar3
+8874	Behar3
+8875	Behar3
+8876	Behar3
+8877	Achrei Mot9
+8878	Yitro17
+8879	Yitro17
+8880	Yitro17
+8881	Yitro17
+8882	Yitro17
+8883	Yitro17
+8884	Yitro17
+8885	Yitro17
+8886	Yitro17
+8887	Yitro17
+8888	Yitro17
+8889	Yitro17
+8890	Yitro17
+8891	Yitro17
+8892	Yitro17
+8893	Yitro17
+8894	Yitro17
+8895	Yitro17
+8896	Yitro17
+8897	Yitro17
+8898	Yitro17
+8899	Yitro17
+8900	Yitro17
+8901	Yitro17
+8902	Yitro17
+8903	Yitro17
+8904	Yitro17
+8905	Yitro17
+8906	Yitro17
+8907	Yitro17
+8908	Yitro17
+8909	Yitro17
+8910	Yitro17
+8911	Yitro17
+8912	Yitro17
+8913	Yitro17
+8914	Yitro17
+8915	Yitro17
+8916	Yitro17
+8917	Yitro17
+8918	Yitro17
+8919	Yitro17
+8920	Yitro17
+8921	Yitro17
+8922	Yitro17
+8923	Yitro17
+8924	Yitro17
+8925	Yitro17
+8926	Yitro17
+8927	Yitro17
+8928	Yitro17
+8929	Yitro17
+8930	Yitro17
+8931	Yitro17
+8932	Yitro17
+8933	Yitro17
+8934	Yitro17
+8935	Yitro17
+8936	Yitro17
+8937	Yitro17
+8938	Yitro17
+8939	Yitro17
+8940	Yitro17
+8941	Ki Teitzei7
+8942	Ki Teitzei7
+8943	Ki Teitzei7
+8944	Ki Teitzei7
+8945	Ki Teitzei7
+8946	Ki Teitzei7
+8947	Ki Teitzei7
+8948	Ki Teitzei7
+8949	Ki Teitzei7
+8950	Ki Teitzei7
+8951	Ki Teitzei7
+8952	Ki Teitzei7
+8953	Ki Teitzei7
+8954	Ki Teitzei7
+8955	Ki Teitzei7
+8956	Ki Teitzei7
+8957	Ki Teitzei7
+8958	Ki Teitzei7
+8959	Ki Teitzei7
+8960	Ki Teitzei7
+8961	Ki Teitzei7
+8962	Ki Teitzei7
+8963	Eikev3
+8964	Eikev3
+8965	Eikev3
+8966	Eikev3
+8967	Eikev3
+8968	Eikev3
+8969	Eikev3
+8970	Eikev3
+8971	Eikev3
+8972	Eikev3
+8973	Eikev3
+8974	Eikev3
+8975	Eikev3
+8976	Eikev3
+8977	Eikev3
+8978	Eikev3
+8979	Eikev3
+8980	Eikev3
+8981	Eikev3
+8982	Eikev3
+8983	Eikev3
+8984	Eikev3
+8985	Eikev3
+8986	Eikev3
+8987	Eikev3
+8988	Eikev3
+8989	Eikev3
+8990	Eikev3
+8991	Eikev3
+8992	Eikev3
+8993	Eikev3
+8994	Achrei Mot9
+8995	Achrei Mot9
+8996	Achrei Mot9
+8997	Achrei Mot9
+8998	Achrei Mot9
+8999	Achrei Mot9
+9000	Achrei Mot9
+9001	Achrei Mot9
+9002	Achrei Mot9
+9003	Achrei Mot9
+9004	Achrei Mot9
+9005	Achrei Mot9
+9006	Achrei Mot9
+9007	Achrei Mot9
+9008	Noach3
+9009	Noach3
+9010	Noach3
+9011	Noach3
+9012	Noach3
+9013	Noach3
+9014	Noach3
+9015	Noach3
+9016	Noach3
+9017	Noach3
+9018	Noach3
+9019	Noach3
+9020	Noach3
+9021	Noach3
+9022	Noach3
+9023	Noach3
+9024	Noach3
+9025	Noach3
+9026	Noach3
+9027	Noach3
+9028	Noach3
+9029	Noach3
+9030	V'Zot HaBerachah6
+9031	V'Zot HaBerachah6
+9032	V'Zot HaBerachah6
+9033	V'Zot HaBerachah6
+9034	V'Zot HaBerachah6
+9035	V'Zot HaBerachah6
+9036	V'Zot HaBerachah6
+9037	V'Zot HaBerachah6
+9038	V'Zot HaBerachah6
+9039	V'Zot HaBerachah6
+9040	V'Zot HaBerachah6
+9041	V'Zot HaBerachah6
+9042	V'Zot HaBerachah6
+9043	V'Zot HaBerachah6
+9044	V'Zot HaBerachah6
+9045	V'Zot HaBerachah6
+9046	V'Zot HaBerachah6
+9047	V'Zot HaBerachah6
+9048	V'Zot HaBerachah6
+9049	V'Zot HaBerachah6
+9050	V'Zot HaBerachah6
+9051	V'Zot HaBerachah6
+9052	V'Zot HaBerachah6
+9053	V'Zot HaBerachah6
+9054	V'Zot HaBerachah6
+9055	V'Zot HaBerachah6
+9056	V'Zot HaBerachah6
+9057	V'Zot HaBerachah6
+9058	V'Zot HaBerachah6
+9059	V'Zot HaBerachah6
+9060	V'Zot HaBerachah6
+9061	V'Zot HaBerachah6
+9062	V'Zot HaBerachah6
+9063	V'Zot HaBerachah6
+9064	V'Zot HaBerachah6
+9065	V'Zot HaBerachah6
+9066	V'Zot HaBerachah6
+9067	V'Zot HaBerachah6
+9068	Re'eh9
+9069	Re'eh9
+9070	Masei3
+9071	Masei3
+9072	Masei3
+9073	Masei3
+9074	Masei3
+9075	Masei3
+9076	Masei3
+9077	Masei3
+9078	Masei3
+9079	Masei3
+9080	Masei3
+9081	Masei3
+9082	Masei3
+9083	Masei3
+9084	Masei3
+9085	Masei3
+9086	Masei3
+9087	Masei3
+9088	Masei3
+9089	Masei3
+9090	Masei3
+9091	Masei3
+9092	Masei3
+9093	Masei3
+9094	Masei3
+9095	Masei3
+9096	Masei3
+9097	Masei3
+9098	Masei3
+9099	Masei3
+9100	Masei3
+9101	Masei3
+9102	Masei3
+9103	Masei3
+9104	Masei3
+9105	Masei3
+9106	Masei3
+9107	Masei3
+9108	Masei3
+9109	Masei3
+9110	Masei3
+9111	Masei3
+9112	Masei3
+9113	Masei3
+9114	Masei3
+9115	Masei3
+9116	Masei3
+9117	Masei3
+9118	Masei3
+9119	Masei3
+9120	Masei3
+9121	Masei3
+9122	Masei3
+9123	Masei3
+9124	Masei3
+9125	Masei3
+9126	Masei3
+9127	Masei3
+9128	Masei3
+9129	Masei3
+9130	Masei3
+9131	Masei3
+9132	Masei3
+9133	Masei3
+9134	Masei3
+9135	Masei3
+9136	Masei3
+9137	Masei3
+9138	Masei3
+9139	Masei3
+9140	Masei3
+9141	Masei3
+9142	Masei3
+9143	Masei3
+9144	Masei3
+9145	Masei3
+9146	Masei3
+9147	Masei3
+9148	Masei3
+9149	Masei3
+9150	Masei3
+9151	Masei3
+9152	Masei3
+9153	Masei3
+9154	Masei3
+9155	Masei3
+9156	Masei3
+9157	Masei3
+9158	Masei3
+9159	Masei3
+9160	Masei3
+9161	Masei3
+9162	Masei3
+9163	Masei3
+9164	Masei3
+9165	Masei3
+9166	Masei3
+9167	Masei3
+9168	Masei3
+9169	Masei3
+9170	Masei3
+9171	Masei3
+9172	Masei3
+9173	Masei3
+9174	Masei3
+9175	Masei3
+9176	Masei3
+9177	Masei3
+9178	Masei3
+9179	Masei3
+9180	Masei3
+9181	Masei3
+9182	Masei3
+9183	Masei3
+9184	Masei3
+9185	Masei3
+9186	Masei3
+9187	Masei3
+9188	Masei3
+9189	Masei3
+9190	Masei3
+9191	Masei3
+9192	Masei3
+9193	Masei3
+9194	Masei3
+9195	Masei3
+9196	Masei3
+9197	Masei3
+9198	Masei3
+9199	Masei3
+9200	Masei3
+9201	Masei3
+9202	Masei3
+9203	Masei3
+9204	Masei3
+9205	Masei3
+9206	Masei3
+9207	Masei3
+9208	Masei3
+9209	Masei3
+9210	Masei3
+9211	Masei3
+9212	Masei3
+9213	Masei3
+9214	Masei3
+9215	Masei3
+9216	Masei3
+9217	Masei3
+9218	Masei3
+9219	Masei3
+9220	Masei3
+9221	Masei3
+9222	Masei3
+9223	Masei3
+9224	Masei3
+9225	Masei3
+9226	Masei3
+9227	Masei3
+9228	Masei3
+9229	Masei3
+9230	Masei3
+9231	Masei3
+9232	Masei3
+9233	Masei3
+9234	Masei3
+9235	Masei3
+9236	Masei3
+9237	Masei3
+9238	Masei3
+9239	Masei3
+9240	Masei3
+9241	Masei3
+9242	Masei3
+9243	Masei3
+9244	Masei3
+9245	Masei3
+9246	Masei3
+9247	Masei3
+9248	Masei3
+9249	Masei3
+9250	Masei3
+9251	Masei3
+9252	Masei3
+9253	Masei3
+9254	Masei3
+9255	Masei3
+9256	Masei3
+9257	Masei3
+9258	Shemot25
+9259	Shemot25
+9260	Shemot25
+9261	Shemot25
+9262	Shemot25
+9263	Shemot25
+9264	Shemot25
+9265	Shemot25
+9266	Shemot25
+9267	Shemot25
+9268	Shemot25
+9269	Shemot25
+9270	Shemot25
+9271	Shemot25
+9272	Shemot25
+9273	Shemot25
+9274	Shemot25
+9275	Shemot25
+9276	Shemot25
+9277	Shemot25
+9278	Shemot25
+9279	Shemot25
+9280	Shemot25
+9281	Shemot25
+9282	Shemot25
+9283	Shemot25
+9284	Shemot25
+9285	Shemot25
+9286	Shemot25
+9287	Shemot25
+9288	Shemot25
+9289	Shemot25
+9290	Shemot25
+9291	Shemot25
+9292	Shemot25
+9293	Shemot25
+9294	Shemot25
+9295	Shemot25
+9296	Shemot25
+9297	Tzav13
+9298	Tzav13
+9299	Tzav13
+9300	Tzav13
+9301	Tzav13
+9302	Tzav13
+9303	Tzav13
+9304	Tzav13
+9305	Tzav13
+9306	Tzav13
+9307	Tzav13
+9308	Tzav13
+9309	Tzav13
+9310	Tzav13
+9311	Tzav13
+9312	Tzav13
+9313	Tzav13
+9314	Tzav13
+9315	Tzav13
+9316	Tzav13
+9317	Tzav13
+9318	Tzav13
+9319	Tzav13
+9320	Tzav13
+9321	Tzav13
+9322	Tzav13
+9323	Tzav13
+9324	Tzav13
+9325	Tzav13
+9326	Tzav13
+9327	Tzav13
+9328	Tzav13
+9329	Tzav13
+9330	Tzav13
+9331	Tzav13
+9332	Tzav13
+9333	Tzav13
+9334	Tzav13
+9335	Tzav13
+9336	Tzav13
+9337	Tzav13
+9338	Tzav13
+9339	Tzav13
+9340	Tzav13
+9341	Tzav13
+9342	Tzav13
+9343	Tzav13
+9344	Tzav13
+9345	Tzav13
+9346	Tzav13
+9347	Tzav13
+9348	Tzav13
+9349	Tzav13
+9350	Tzav13
+9351	Tzav13
+9352	Tzav13
+9353	Tzav13
+9354	Tzav13
+9355	Tzav13
+9356	Tzav13
+9357	Tzav13
+9358	Tzav13
+9359	Tzav13
+9360	Tzav13
+9361	Tzav13
+9362	Tzav13
+9363	Tzav13
+9364	Tzav13
+9365	Tzav13
+9366	Tzav13
+9367	Tzav13
+9368	Tzav13
+9369	Tzav13
+9370	Tzav13
+9371	Tzav13
+9372	Tzav13
+9373	Tzav13
+9374	Tzav13
+9375	Tzav13
+9376	Tzav13
+9377	Tzav13
+9378	Tzav13
+9379	Tzav13
+9380	Tzav13
+9381	Tzav13
+9382	Tzav13
+9383	Tzav13
+9384	Tzav13
+9385	Tzav13
+9386	Shmini1
+9387	Shmini1
+9388	Shmini1
+9389	Shmini1
+9390	Shmini1
+9391	Shmini1
+9392	Shmini1
+9393	Shmini1
+9394	Shmini1
+9395	Shmini1
+9396	Shmini1
+9397	Shmini1
+9398	Shmini1
+9399	Shmini1
+9400	Shmini1
+9401	Shmini1
+9402	Shmini1
+9403	Shmini1
+9404	Shmini1
+9405	Shmini1
+9406	Shmini1
+9407	Shmini1
+9408	Shmini1
+9409	Shmini1
+9410	Shmini1
+9411	Shmini1
+9412	Shmini1
+9413	Shmini1
+9414	Shmini1
+9415	Shmini1
+9416	Shmini1
+9417	Shmini1
+9418	Shmini1
+9419	Shmini1
+9420	Shmini1
+9421	Shmini1
+9422	Shmini1
+9423	Shmini1
+9424	Shmini1
+9425	Shmini1
+9426	Shmini1
+9427	Shmini1
+9428	Shmini1
+9429	Shmini1
+9430	Shmini1
+9431	Shmini1
+9432	Shmini1
+9433	Shmini1
+9434	Shmini1
+9435	Shmini1
+9436	Shmini1
+9437	Shmini1
+9438	Shmini1
+9439	Shmini1
+9440	Shmini1
+9441	Shmini1
+9442	Shmini1
+9443	Shmini1
+9444	Shmini1
+9445	Shmini1
+9446	Shmini1
+9447	Shmini1
+9448	Shmini1
+9449	Shmini1
+9450	Shmini1
+9451	Shmini1
+9452	Shmini1
+9453	Shmini1
+9454	Shmini1
+9455	Shmini1
+9456	Nasso24
+9457	Nasso24
+9458	Nasso24
+9459	Nasso24
+9460	Nasso24
+9461	Nasso24
+9462	Nasso24
+9463	Nasso24
+9464	Nasso24
+9465	Nasso24
+9466	Nasso24
+9467	Nasso24
+9468	Nasso24
+9469	Nasso24
+9470	Nasso24
+9471	Nasso24
+9472	Nasso24
+9473	Nasso24
+9474	Nasso24
+9475	Nasso24
+9476	Nasso24
+9477	Nasso24
+9478	Nasso24
+9479	Nasso24
+9480	Nasso24
+9481	Nasso24
+9482	Nasso24
+9483	Nasso24
+9484	Nasso24
+9485	Nasso24
+9486	Nasso24
+9487	Nasso24
+9488	Nasso24
+9489	Nasso24
+9490	Nasso24
+9491	Nasso24
+9492	Nasso24
+9493	Nasso24
+9494	Nasso24
+9495	Nasso24
+9496	Nasso24
+9497	Nasso24
+9498	Nasso24
+9499	Nasso24
+9500	Nasso24
+9501	Nasso24
+9502	Nasso24
+9503	Nasso24
+9504	Nasso24
+9505	Nasso24
+9506	Nasso24
+9507	Nasso24
+9508	Nasso24
+9509	Nasso24
+9510	Nasso24
+9511	Nasso24
+9512	Nasso24
+9513	Nasso24
+9514	Nasso24
+9515	Nasso24
+9516	Nasso24
+9517	Nasso24
+9518	Nasso24
+9519	Nasso24
+9520	Nasso24
+9521	Nasso24
+9522	Nasso24
+9523	Nasso24
+9524	Nasso24
+9525	Nasso24
+9526	Nasso24
+9527	Nasso24
+9528	Nasso24
+9529	Nasso24
+9530	Nasso24
+9531	Nasso24
+9532	Nasso24
+9533	Nasso24
+9534	Nasso24
+9535	Nasso24
+9536	Nasso24
+9537	Nasso24
+9538	Nasso24
+9539	Nasso24
+9540	Nasso24
+9541	Nasso24
+9542	Nasso24
+9543	Nasso24
+9544	Nasso24
+9545	Nasso24
+9546	Nasso24
+9547	Nasso24
+9548	Nasso24
+9549	Nasso24
+9550	Nasso24
+9551	Nasso24
+9552	Nasso24
+9553	Nasso24
+9554	Achrei Mot2
+9555	Achrei Mot2
+9556	Achrei Mot2
+9557	Achrei Mot2
+9558	Achrei Mot2
+9559	Achrei Mot2
+9560	Achrei Mot2
+9561	Achrei Mot2
+9562	Achrei Mot2
+9563	Achrei Mot2
+9564	Achrei Mot2
+9565	Achrei Mot2
+9566	Achrei Mot2
+9567	Achrei Mot2
+9568	Achrei Mot2
+9569	Achrei Mot2
+9570	Achrei Mot2
+9571	Achrei Mot2
+9572	Achrei Mot2
+9573	Achrei Mot2
+9574	Achrei Mot2
+9575	Achrei Mot2
+9576	Achrei Mot2
+9577	Achrei Mot2
+9578	Achrei Mot2
+9579	Achrei Mot2
+9580	Achrei Mot2
+9581	Achrei Mot2
+9582	Achrei Mot2
+9583	Achrei Mot2
+9584	Achrei Mot2
+9585	Achrei Mot2
+9586	Achrei Mot2
+9587	Achrei Mot2
+9588	Achrei Mot2
+9589	Achrei Mot2
+9590	Achrei Mot2
+9591	Achrei Mot2
+9592	Achrei Mot2
+9593	Achrei Mot2
+9594	Achrei Mot2
+9595	Achrei Mot2
+9596	Achrei Mot2
+9597	Achrei Mot2
+9598	Achrei Mot2
+9599	Achrei Mot2
+9600	Achrei Mot2
+9601	Achrei Mot2
+9602	Achrei Mot2
+9603	Achrei Mot2
+9604	Achrei Mot2
+9605	Achrei Mot2
+9606	Achrei Mot2
+9607	Achrei Mot2
+9608	Achrei Mot2
+9609	Achrei Mot2
+9610	Achrei Mot2
+9611	Achrei Mot2
+9612	Achrei Mot2
+9613	Achrei Mot2
+9614	Achrei Mot2
+9615	Achrei Mot2
+9616	Achrei Mot2
+9617	Achrei Mot2
+9618	Achrei Mot2
+9619	Achrei Mot2
+9620	Achrei Mot2
+9621	Achrei Mot2
+9622	Achrei Mot2
+9623	Achrei Mot2
+9624	Achrei Mot2
+9625	Achrei Mot2
+9626	Achrei Mot2
+9627	Achrei Mot2
+9628	Achrei Mot2
+9629	Achrei Mot2
+9630	Achrei Mot2
+9631	Achrei Mot2
+9632	Achrei Mot2
+9633	Achrei Mot2
+9634	Achrei Mot2
+9635	Achrei Mot2
+9636	Achrei Mot2
+9637	Achrei Mot2
+9638	Achrei Mot2
+9639	Achrei Mot2
+9640	Achrei Mot2
+9641	Achrei Mot2
+9642	Achrei Mot2
+9643	Achrei Mot2
+9644	Achrei Mot2
+9645	Achrei Mot2
+9646	Achrei Mot2
+9647	Achrei Mot2
+9648	Achrei Mot2
+9649	Achrei Mot2
+9650	Achrei Mot2
+9651	Achrei Mot2
+9652	Achrei Mot2
+9653	Achrei Mot2
+9654	Achrei Mot2
+9655	Achrei Mot2
+9656	Achrei Mot2
+9657	Emor18
+9658	Emor18
+9659	Emor18
+9660	Emor18
+9661	Emor18
+9662	Emor18
+9663	Emor18
+9664	Emor18
+9665	Emor18
+9666	Emor18
+9667	Emor18
+9668	Emor18
+9669	Emor18
+9670	Emor18
+9671	Emor18
+9672	Emor18
+9673	Emor18
+9674	Emor18
+9675	Emor18
+9676	Emor18
+9677	Emor18
+9678	Emor18
+9679	Emor18
+9680	Emor18
+9681	Emor18
+9682	Emor18
+9683	Emor18
+9684	Emor18
+9685	Emor18
+9686	Emor18
+9687	Emor18
+9688	Emor18
+9689	Emor18
+9690	Emor18
+9691	Emor18
+9692	Emor18
+9693	Emor18
+9694	Emor18
+9695	Emor18
+9696	Emor18
+9697	Emor18
+9698	Emor18
+9699	Emor18
+9700	Emor18
+9701	Emor18
+9702	Emor18
+9703	Emor18
+9704	Emor18
+9705	Emor18
+9706	Emor18
+9707	Emor18
+9708	Emor18
+9709	Emor18
+9710	Emor18
+9711	Emor18
+9712	Emor18
+9713	Emor18
+9714	Emor18
+9715	Emor18
+9716	Emor18
+9717	Emor18
+9718	Emor18
+9719	Emor18
+9720	Emor18
+9721	Emor18
+9722	Emor18
+9723	Emor18
+9724	Emor18
+9725	Emor18
+9726	Emor18
+9727	Emor18
+9728	Emor18
+9729	Emor18
+9730	Emor18
+9731	Emor18
+9732	Emor18
+9733	Emor18
+9734	Emor18
+9735	Emor18
+9736	Emor18
+9737	Emor18
+9738	Emor18
+9739	Emor18
+9740	Emor18
+9741	Emor18
+9742	Emor18
+9743	Emor18
+9744	Emor18
+9745	Emor18
+9746	Emor18
+9747	Emor18
+9748	Emor18
+9749	Emor18
+9750	Emor18
+9751	Emor18
+9752	Emor18
+9753	Emor18
+9754	Emor18
+9755	Emor18
+9756	Emor18
+9757	Emor18
+9758	Emor18
+9759	Emor18
+9760	Emor18
+9761	Emor18
+9762	Emor18
+9763	Emor18
+9764	Emor18
+9765	Emor18
+9766	Emor18
+9767	Emor18
+9768	Emor18
+9769	Emor18
+9770	Emor18
+9771	Emor18
+9772	Emor18
+9773	Emor18
+9774	Emor18
+9775	Emor18
+9776	Emor18
+9777	Emor18
+9778	Emor18
+9779	Emor18
+9780	Emor18
+9781	Emor18
+9782	Emor18
+9783	Emor18
+9784	Emor18
+9785	Emor18
+9786	Emor18
+9787	Emor18
+9788	Emor18
+9789	Emor18
+9790	Emor18
+9791	Emor18
+9792	Emor18
+9793	Emor18
+9794	Emor6
+9795	Emor6
+9796	Emor6
+9797	Emor6
+9798	Emor6
+9799	Emor6
+9800	Emor6
+9801	Emor6
+9802	Emor6
+9803	Emor6
+9804	Emor6
+9805	Emor6
+9806	Emor6
+9807	Emor6
+9808	Emor6
+9809	Emor6
+9810	Emor6
+9811	Emor6
+9812	Emor6
+9813	Emor6
+9814	Emor6
+9815	Emor6
+9816	Emor6
+9817	Emor6
+9818	Emor6
+9819	Nasso2
+9820	Nasso2
+9821	Nasso2
+9822	Nasso2
+9823	Nasso2
+9824	Nasso2
+9825	Nasso2
+9826	Nasso2
+9827	Nasso2
+9828	Nasso2
+9829	Nasso2
+9830	Nasso2
+9831	Nasso2
+9832	Nasso2
+9833	Nasso2
+9834	Nasso2
+9835	Nasso2
+9836	Nasso2
+9837	Nasso2
+9838	Nasso2
+9839	Nasso2
+9840	Nasso2
+9841	Nasso2
+9842	Nasso2
+9843	Nasso2
+9844	Nasso2
+9845	Nasso2
+9846	Nasso2
+9847	Nasso2
+9848	Nasso2
+9849	Nasso2
+9850	Nasso2
+9851	Nasso2
+9852	Nasso2
+9853	Nasso2
+9854	Nasso2
+9855	Nasso2
+9856	Nasso2
+9857	Nasso2
+9858	Nasso2
+9859	Nasso2
+9860	Nasso2
+9861	Nasso2
+9862	Nasso2
+9863	Nasso2
+9864	Nasso2
+9865	Nasso2
+9866	Nasso2
+9867	Nasso2
+9868	Nasso2
+9869	Nasso2
+9870	Nasso2
+9871	Nasso2
+9872	Nasso2
+9873	Nasso2
+9874	Nasso2
+9875	Nasso2
+9876	Nasso2
+9877	Nasso2
+9878	Nasso2
+9879	Nasso2
+9880	Nasso2
+9881	Nasso2
+9882	Nasso2
+9883	Nasso2
+9884	Nasso2
+9885	Nasso2
+9886	Nasso2
+9887	Nasso2
+9888	Nasso2
+9889	Nasso2
+9890	Nasso2
+9891	Nasso2
+9892	Nasso2
+9893	Nasso2
+9894	Nasso2
+9895	Nasso2
+9896	Nasso2
+9897	Nasso2
+9898	Nasso2
+9899	Nasso2
+9900	Nasso2
+9901	Nasso2
+9902	Nasso2
+9903	Nasso2
+9904	Nasso2
+9905	Nasso2
+9906	Nasso2
+9907	Nasso2
+9908	Nasso2
+9909	Nasso2
+9910	Nasso2
+9911	Nasso2
+9912	Nasso2
+9913	Nasso2
+9914	Nasso2
+9915	Nasso2
+9916	Nasso2
+9917	Nasso2
+9918	Nasso2
+9919	Nasso2
+9920	Nasso2
+9921	Nasso2
+9922	Nasso2
+9923	Nasso2
+9924	Nasso2
+9925	Nasso2
+9926	Nasso2
+9927	Nasso2
+9928	Nasso2
+9929	Nasso2
+9930	Nasso2
+9931	Nasso2
+9932	Nasso2
+9933	Nasso2
+9934	Nasso2
+9935	Nasso2
+9936	Nasso2
+9937	Nasso2
+9938	Nasso2
+9939	Nasso2
+9940	Nasso2
+9941	Nasso2
+9942	Nasso2
+9943	Nasso2
+9944	Nasso2
+9945	Nasso2
+9946	Nasso2
+9947	Nasso2
+9948	Nasso2
+9949	Nasso2
+9950	Nasso2
+9951	Nasso2
+9952	Nasso2
+9953	Nasso2
+9954	Nasso2
+9955	Nasso2
+9956	Nasso2
+9957	Nasso2
+9958	Nasso2
+9959	Nasso2
+9960	Nasso2
+9961	Nasso2
+9962	Nasso2
+9963	Nasso2
+9964	Nasso2
+9965	Nasso2
+9966	Nasso2
+9967	Nasso2
+9968	Nasso2
+9969	Nasso2
+9970	Nasso2
+9971	Nasso2
+9972	Nasso2
+9973	Nasso2
+9974	Nasso2
+9975	Nasso2
+9976	Nasso2
+9977	Nasso2
+9978	Nasso2
+9979	Nasso2
+9980	Nasso2
+9981	Nasso2
+9982	Nasso2
+9983	Nasso2
+9984	Nasso2
+9985	Nasso2
+9986	Nasso2
+9987	Nasso2
+9988	Nasso2
+9989	Nasso2
+9990	Nasso2
+9991	Nasso2
+9992	Nasso2
+9993	Nasso2
+9994	Nasso2
+9995	Nasso2
+9996	Nasso2
+9997	Nasso2
+9998	Nasso2
+9999	Nasso2
+10000	Nasso2
+10001	Nasso2
+10002	Nasso2
+10003	Nasso2
+10004	Nasso2
+10005	Nasso2
+10006	Nasso2
+10007	Nasso2
+10008	Nasso2
+10009	Nasso2
+10010	Nasso2
+10011	Nasso2
+10012	Nasso2
+10013	Nasso2
+10014	Nasso2
+10015	Nasso2
+10016	Nasso2
+10017	Nasso2
+10018	Nasso2
+10019	Nasso2
+10020	Nasso2
+10021	Nasso2
+10022	Nasso2
+10023	Nasso2
+10024	Nasso2
+10025	Nasso2
+10026	Nasso2
+10027	Nasso2
+10028	Nasso2
+10029	Nasso2
+10030	Nasso2
+10031	Nasso2
+10032	Nasso2
+10033	Nasso2
+10034	Nasso2
+10035	Nasso2
+10036	Nasso2
+10037	Nasso2
+10038	Nasso2
+10039	Nasso2
+10040	Nasso2
+10041	Nasso2
+10042	Nasso2
+10043	Nasso2
+10044	Nasso2
+10045	Nasso2
+10046	Nasso2
+10047	Nasso2
+10048	Nasso2
+10049	Nasso2
+10050	Nasso2
+10051	Nasso2
+10052	Nasso2
+10053	Nasso2
+10054	Nasso2
+10055	Nasso2
+10056	Nasso2
+10057	Nasso2
+10058	Nasso2
+10059	Nasso2
+10060	Nasso2
+10061	Nasso2
+10062	Nasso2
+10063	Nasso2
+10064	Nasso2
+10065	Nasso2
+10066	Nasso2
+10067	Nasso2
+10068	Nasso2
+10069	Nasso2
+10070	Nasso2
+10071	Nasso2
+10072	Nasso2
+10073	Nasso2
+10074	Nasso2
+10075	Nasso2
+10076	Nasso2
+10077	Nasso2
+10078	Nasso2
+10079	Nasso2
+10080	Nasso2
+10081	Nasso2
+10082	Nasso2
+10083	Nasso2
+10084	Nasso2
+10085	Nasso2
+10086	Nasso2
+10087	Nasso2
+10088	Nasso2
+10089	Nasso2
+10090	Nasso2
+10091	Nasso2
+10092	Nasso2
+10093	Nasso2
+10094	Nasso2
+10095	Nasso2
+10096	Nasso2
+10097	Nasso2
+10098	Nasso2
+10099	Nasso2
+10100	Nasso2
+10101	Nasso2
+10102	Nasso2
+10103	Nasso2
+10104	Nasso2
+10105	Nasso2
+10106	Nasso2
+10107	Nasso2
+10108	Nasso2
+10109	Nasso2
+10110	Nasso2
+10111	Nasso2
+10112	Nasso2
+10113	Nasso2
+10114	Nasso2
+10115	Nasso2
+10116	Nasso2
+10117	Nasso2
+10118	Nasso2
+10119	Nasso2
+10120	Nasso2
+10121	Nasso2
+10122	Nasso2
+10123	Nasso2
+10124	Nasso2
+10125	Nasso2
+10126	Nasso2
+10127	Nasso2
+10128	Nasso2
+10129	Nasso2
+10130	Nasso2
+10131	Nasso2
+10132	Nasso2
+10133	Nasso2
+10134	Nasso2
+10135	Nasso2
+10136	Nasso2
+10137	Nasso2
+10138	Nasso2
+10139	Nasso2
+10140	Nasso2
+10141	Nasso2
+10142	Nasso2
+10143	Nasso2
+10144	Nasso2
+10145	Nasso2
+10146	Nasso2
+10147	Nasso2
+10148	Nasso2
+10149	Nasso2
+10150	Nasso2
+10151	Nasso2
+10152	Ha'Azinu8
+10153	Ha'Azinu8
+10154	Ha'Azinu8
+10155	Ha'Azinu8
+10156	Ha'Azinu8
+10157	Ha'Azinu8
+10158	Ha'Azinu8
+10159	Ha'Azinu8
+10160	Ha'Azinu8
+10161	Ha'Azinu8
+10162	Ha'Azinu8
+10163	Ha'Azinu8
+10164	Ha'Azinu8
+10165	Ha'Azinu8
+10166	Ha'Azinu8
+10167	Ha'Azinu8
+10168	Ha'Azinu8
+10169	Ha'Azinu8
+10170	Ha'Azinu8
+10171	Ha'Azinu8
+10172	Ha'Azinu8
+10173	Ha'Azinu8
+10174	Ha'Azinu8
+10175	Ha'Azinu8
+10176	Ha'Azinu8
+10177	Ha'Azinu8
+10178	Ha'Azinu8
+10179	Ha'Azinu8
+10180	Ha'Azinu8
+10181	Ha'Azinu8
+10182	Ha'Azinu8
+10183	Ha'Azinu8
+10184	Ha'Azinu8
+10185	Ha'Azinu8
+10186	Ha'Azinu8
+10187	Ha'Azinu8
+10188	Ha'Azinu8
+10189	Ha'Azinu8
+10190	Ha'Azinu8
+10191	Ha'Azinu8
+10192	Ha'Azinu8
+10193	Ha'Azinu8
+10194	Ha'Azinu8
+10195	Ha'Azinu8
+10196	Ha'Azinu8
+10197	Ha'Azinu8
+10198	Ha'Azinu8
+10199	Ha'Azinu8
+10200	Ha'Azinu8
+10201	Ha'Azinu8
+10202	Ha'Azinu8
+10203	Ha'Azinu8
+10204	Ha'Azinu8
+10205	Ha'Azinu8
+10206	Ha'Azinu8
+10207	Ha'Azinu8
+10208	Ha'Azinu8
+10209	Ha'Azinu8
+10210	Ha'Azinu8
+10211	Ha'Azinu8
+10212	Ha'Azinu8
+10213	Ha'Azinu8
+10214	Ha'Azinu8
+10215	Ha'Azinu8
+10216	Ha'Azinu8
+10217	Ha'Azinu8
+10218	Ha'Azinu8
+10219	Ha'Azinu8
+10220	Ha'Azinu8
+10221	Ha'Azinu8
+10222	Ha'Azinu8
+10223	Ha'Azinu8
+10224	Ha'Azinu8
+10225	Ha'Azinu8
+10226	Ha'Azinu8
+10227	Ha'Azinu8
+10228	Ha'Azinu8
+10229	Ha'Azinu8
+10230	Ha'Azinu8
+10231	Ha'Azinu8
+10232	Ha'Azinu8
+10233	Ha'Azinu8
+10234	Ha'Azinu8
+10235	Ha'Azinu8
+10236	Ha'Azinu8
+10237	Ha'Azinu8
+10238	Ha'Azinu8
+10239	Ha'Azinu8
+10240	Ha'Azinu8
+10241	Ha'Azinu8
+10242	Ha'Azinu8
+10243	Ha'Azinu8
+10244	Ha'Azinu8
+10245	Ha'Azinu8
+10246	Ha'Azinu8
+10247	Ha'Azinu8
+10248	Ha'Azinu8
+10249	Ha'Azinu8
+10250	Ha'Azinu8
+10251	Ha'Azinu8
+10252	Ha'Azinu8
+10253	Ha'Azinu8
+10254	Ha'Azinu8
+10255	Ha'Azinu8
+10256	Ha'Azinu8
+10257	Ha'Azinu8
+10258	Ha'Azinu8
+10259	Ha'Azinu8
+10260	Ha'Azinu8
+10261	Ha'Azinu8
+10262	Ha'Azinu8
+10263	Ha'Azinu8
+10264	Ha'Azinu8
+10265	Ha'Azinu8
+10266	Ha'Azinu8
+10267	Ha'Azinu8
+10268	Ha'Azinu8
+10269	Ha'Azinu8
+10270	Ha'Azinu8
+10271	Ha'Azinu8
+10272	Ha'Azinu8
+10273	Ha'Azinu8
+10274	Ha'Azinu8
+10275	Ha'Azinu8
+10276	Ha'Azinu8
+10277	Ha'Azinu8
+10278	Ha'Azinu8
+10279	Ha'Azinu8
+10280	Ha'Azinu8
+10281	Ha'Azinu8
+10282	Ha'Azinu8
+10283	Ha'Azinu8
+10284	Ha'Azinu8
+10285	Ha'Azinu8
+10286	Ha'Azinu8
+10287	Ha'Azinu8
+10288	Ha'Azinu8
+10289	Ha'Azinu8
+10290	Ha'Azinu8
+10291	Ha'Azinu8
+10292	Ha'Azinu8
+10293	Ha'Azinu8
+10294	Ha'Azinu8
+10295	Ha'Azinu8
+10296	Ha'Azinu8
+10297	Ha'Azinu8
+10298	Ha'Azinu8
+10299	Ha'Azinu8
+10300	Ha'Azinu8
+10301	Ha'Azinu8
+10302	Ha'Azinu8
+10303	Ha'Azinu8
+10304	Ha'Azinu8
+10305	Ha'Azinu8
+10306	Ha'Azinu8
+10307	Ha'Azinu8
+10308	Ha'Azinu8
+10309	Ha'Azinu8
+10310	Ha'Azinu8
+10311	Ha'Azinu8
+10312	Ha'Azinu8
+10313	Ha'Azinu8
+10314	Ha'Azinu8
+10315	Ha'Azinu8
+10316	Ha'Azinu8
+10317	Ha'Azinu8
+10318	Ha'Azinu8
+10319	Ha'Azinu8
+10320	Ha'Azinu8
+10321	Ha'Azinu8
+10322	Ha'Azinu8
+10323	Ha'Azinu8
+10324	Ha'Azinu8
+10325	Ha'Azinu8
+10326	Ha'Azinu8
+10327	Ha'Azinu8
+10328	Ha'Azinu8
+10329	Ha'Azinu8
+10330	Ha'Azinu8
+10331	Ha'Azinu8
+10332	Ha'Azinu8
+10333	Ha'Azinu8
+10334	Ha'Azinu8
+10335	Ha'Azinu8
+10336	Ha'Azinu8
+10337	Ha'Azinu8
+10338	Ha'Azinu8
+10339	Ha'Azinu8
+10340	Ha'Azinu8
+10341	Ha'Azinu8
+10342	Ha'Azinu8
+10343	Ha'Azinu8
+10344	Ha'Azinu8
+10345	Ha'Azinu8
+10346	Ha'Azinu8
+10347	Ha'Azinu8
+10348	Ha'Azinu8
+10349	Ha'Azinu8
+10350	Ha'Azinu8
+10351	Ha'Azinu8
+10352	Ha'Azinu8
+10353	Ha'Azinu8
+10354	Ha'Azinu8
+10355	Ha'Azinu8
+10356	Ha'Azinu8
+10357	Ha'Azinu8
+10358	Ha'Azinu8
+10359	Ha'Azinu8
+10360	Ha'Azinu8
+10361	Ha'Azinu8
+10362	Ha'Azinu8
+10363	Ha'Azinu8
+10364	Ha'Azinu8
+10365	Ha'Azinu8
+10366	Ha'Azinu8
+10367	Ha'Azinu8
+10368	Ha'Azinu8
+10369	Ha'Azinu8
+10370	Ha'Azinu8
+10371	Ha'Azinu8
+10372	Ha'Azinu8
+10373	Ha'Azinu8
+10374	Ha'Azinu8
+10375	Ha'Azinu8
+10376	Ha'Azinu8
+10377	Ha'Azinu8
+10378	Ha'Azinu8
+10379	Ha'Azinu8
+10380	Ha'Azinu8
+10381	Ha'Azinu8
+10382	Ha'Azinu8
+10383	Ha'Azinu8
+10384	Ha'Azinu8
+10385	Ha'Azinu8
+10386	Ha'Azinu8
+10387	Ha'Azinu8
+10388	Ha'Azinu8
+10389	Ha'Azinu8
+10390	Ha'Azinu8
+10391	Ha'Azinu8
+10392	Ha'Azinu8
+10393	Ha'Azinu8
+10394	Ha'Azinu8
+10395	Ha'Azinu8
+10396	Ha'Azinu8
+10397	Ha'Azinu8
+10398	Ha'Azinu8
+10399	Ha'Azinu8
+10400	Ha'Azinu8
+10401	Ha'Azinu8
+10402	Ha'Azinu8
+10403	Ha'Azinu8
+10404	Ha'Azinu8
+10405	Ha'Azinu8
+10406	Ha'Azinu8
+10407	Ha'Azinu8
+10408	Ha'Azinu8
+10409	Ha'Azinu8
+10410	Ha'Azinu8
+10411	Ha'Azinu8
+10412	Ha'Azinu8
+10413	Ha'Azinu8
+10414	Ha'Azinu8
+10415	Ha'Azinu8
+10416	Ha'Azinu8
+10417	Ha'Azinu8
+10418	Ha'Azinu8
+10419	Ha'Azinu8
+10420	Ha'Azinu8
+10421	Ha'Azinu8
+10422	Ha'Azinu8
+10423	Ha'Azinu8
+10424	Ha'Azinu8
+10425	Ha'Azinu8
+10426	Ha'Azinu8
+10427	Ha'Azinu8
+10428	Ha'Azinu8
+10429	Vaera7
+10430	Vaera7
+10431	Vaera7
+10432	Vaera7
+10433	Vaera7
+10434	Vaera7
+10435	Vaera7
+10436	Vaera7
+10437	Vaera7
+10438	Vaera7
+10439	Vaera7
+10440	Vaera7
+10441	Vaera7
+10442	Vaera7
+10443	Vaera7
+10444	Vaera7
+10445	Vaera7
+10446	Vaera7
+10447	Vaera7
+10448	Vaera7
+10449	Vaera7
+10450	Vaera7
+10451	Vaera7
+10452	Vaera7
+10453	Vaera7
+10454	Vaera7
+10455	Vaera7
+10456	Vaera7
+10457	Vaera7
+10458	Vaera7
+10459	Vaera7
+10460	Vaera7
+10461	Vaera7
+10462	Vaera7
+10463	Vaera7
+10464	Vaera7
+10465	Vaera7
+10466	Vaera7
+10467	Vaera7
+10468	Vaera7
+10469	Vaera7
+10470	Vaera7
+10471	Vaera7
+10472	Vaera7
+10473	Vaera7
+10474	Vaera7
+10475	Vaera7
+10476	Vaera7
+10477	Vaera7
+10478	Vaera7
+10479	Vaera7
+10480	Vaera7
+10481	Vaera7
+10482	Vaera7
+10483	Vaera7
+10484	Vaera7
+10485	Vaera7
+10486	Vaera7
+10487	Vaera7
+10488	Vaera7
+10489	Vaera7
+10490	Vaera7
+10491	Vaera7
+10492	Vaera7
+10493	Vaera7
+10494	Vayetzei7
+10495	Vayetzei7
+10496	Vayetzei7
+10497	Vayetzei7
+10498	Vayetzei7
+10499	Vayetzei7
+10500	Vayetzei7
+10501	Vayetzei7
+10502	Vayetzei7
+10503	Vayetzei7
+10504	Vayetzei7
+10505	Vayetzei7
+10506	Vayetzei7
+10507	Vayetzei7
+10508	Vayetzei7
+10509	Vayetzei7
+10510	Vayetzei7
+10511	Vayetzei7
+10512	Vayetzei7
+10513	Vayetzei7
+10514	Vayetzei7
+10515	Vayetzei7
+10516	Vayetzei7
+10517	Vayetzei7
+10518	Vayetzei7
+10519	Vayetzei7
+10520	Vayetzei7
+10521	Vayetzei7
+10522	Vayetzei7
+10523	Vayetzei7
+10524	Vaera7
+10525	Vaera7
+10526	Vaera7
+10527	Ki Tisa22
+10528	Ki Tisa22
+10529	Ki Tisa22
+10530	Ki Tisa22
+10531	Ki Tisa22
+10532	Ki Tisa22
+10533	Ki Tisa22
+10534	Ki Tisa22
+10535	Ki Tisa22
+10536	Ki Tisa22
+10537	Ki Tisa22
+10538	Ki Tisa22
+10539	Ki Tisa22
+10540	Ki Tisa22
+10541	Ki Tisa22
+10542	Ki Tisa22
+10543	Ki Tisa22
+10544	Ki Tisa22
+10545	Ki Tisa22
+10546	Ki Tisa22
+10547	Ki Tisa22
+10548	Ki Tisa22
+10549	Ki Tisa22
+10550	Ki Tisa22
+10551	Ki Tisa22
+10552	Ki Tisa22
+10553	Ki Tisa22
+10554	Ki Tisa22
+10555	Ki Tisa22
+10556	Ki Tisa22
+10557	Ki Tisa22
+10558	Ki Tisa22
+10559	Ki Tisa22
+10560	Ki Tisa22
+10561	Ki Tisa22
+10562	Ki Tisa22
+10563	Ki Tisa22
+10564	Ki Tisa22
+10565	Ki Tisa22
+10566	Ki Tisa22
+10567	Ki Tisa22
+10568	Ki Tisa22
+10569	Ki Tisa22
+10570	Ki Tisa22
+10571	Ki Tisa22
+10572	Ki Tisa22
+10573	Ki Tisa22
+10574	Ki Tisa22
+10575	Ki Tisa22
+10576	Ki Tisa22
+10577	Ki Tisa22
+10578	Ki Tisa22
+10579	Ki Tisa22
+10580	Ki Tisa22
+10581	Ki Tisa22
+10582	Ki Tisa22
+10583	Ki Tisa22
+10584	Ki Tisa22
+10585	Ki Tisa22
+10586	Ki Tisa22
+10587	Ki Tisa22
+10588	Ki Tisa22
+10589	Ki Tisa22
+10590	Ki Tisa22
+10591	Ki Tisa22
+10592	Ki Tisa22
+10593	Ki Tisa22
+10594	Ki Tisa22
+10595	Ki Tisa22
+10596	Ki Tisa22
+10597	Ki Tisa22
+10598	Ki Tisa22
+10599	Ki Tisa22
+10600	Ki Tisa22
+10601	Ki Tisa22
+10602	Ki Tisa22
+10603	Ki Tisa22
+10604	Ki Tisa22
+10605	Ki Tisa22
+10606	Ki Tisa22
+10607	Ki Tisa22
+10608	Ki Tisa22
+10609	Ki Tisa22
+10610	Ki Tisa22
+10611	Ki Tisa22
+10612	Ki Tisa22
+10613	Ki Tisa22
+10614	Ki Tisa22
+10615	Ki Tisa22
+10616	Ki Tisa22
+10617	Ki Tisa22
+10618	Ki Tisa22
+10619	Ki Tisa22
+10620	Ki Tisa22
+10621	Ki Tisa22
+10622	Ki Tisa22
+10623	Ki Tisa22
+10624	Ki Tisa22
+10625	Ki Tisa22
+10626	Ki Tisa22
+10627	Ki Tisa22
+10628	Ki Tisa22
+10629	Ki Tisa22
+10630	Ki Tisa22
+10631	Ki Tisa22
+10632	Ki Tisa22
+10633	Ki Tisa22
+10634	Ki Tisa22
+10635	Ki Tisa22
+10636	Ki Tisa22
+10637	Ki Tisa22
+10638	Ki Tisa22
+10639	Ki Tisa22
+10640	Ki Tisa22
+10641	Ki Tisa22
+10642	Ki Tisa22
+10643	Ki Tisa22
+10644	Ki Tisa22
+10645	Ki Tisa22
+10646	Ki Tisa22
+10647	Ki Tisa22
+10648	Ki Tisa22
+10649	Ki Tisa22
+10650	Ki Tisa22
+10651	Ki Tisa22
+10652	Ki Tisa22
+10653	Ki Tisa22
+10654	Ki Tisa22
+10655	Ki Tisa22
+10656	Ki Tisa22
+10657	Ki Tisa22
+10658	Ki Tisa22
+10659	Ki Tisa22
+10660	Ki Tisa22
+10661	Ki Tisa22
+10662	Ki Tisa22
+10663	Ki Tisa22
+10664	Ki Tisa22
+10665	Ki Tisa22
+10666	Ki Tisa22
+10667	Ki Tisa22
+10668	Ki Tisa22
+10669	Ki Tisa22
+10670	Ki Tisa22
+10671	Ki Tisa22
+10672	Ki Tisa22
+10673	Ki Tisa22
+10674	Ki Tisa22
+10675	Ki Tisa22
+10676	Ki Tisa22
+10677	Ki Tisa22
+10678	Ki Tisa22
+10679	Ki Tisa22
+10680	Ki Tisa22
+10681	Ki Tisa22
+10682	Ki Tisa22
+10683	Ki Tisa22
+10684	Ki Tisa22
+10685	Ki Tisa22
+10686	Ki Tisa22
+10687	Ki Tisa22
+10688	Ki Tisa22
+10689	Ki Tisa22
+10690	Ki Tisa22
+10691	Ki Tisa22
+10692	Ki Tisa22
+10693	Ki Tisa22
+10694	Ki Tisa22
+10695	Ki Tisa22
+10696	Ki Tisa22
+10697	Ki Tisa22
+10698	Ki Tisa22
+10699	Ki Tisa22
+10700	Ki Tisa22
+10701	Ki Tisa22
+10702	Ki Tisa22
+10703	Ki Tisa22
+10704	Ki Tisa22
+10705	Ki Tisa22
+10706	Ki Tisa22
+10707	Ki Tisa22
+10708	Ki Tisa22
+10709	Ki Tisa22
+10710	Ki Tisa22
+10711	Ki Tisa22
+10712	Ki Tisa22
+10713	Ki Tisa22
+10714	Ki Tisa22
+10715	Ki Tisa22
+10716	Ki Tisa22
+10717	Ki Tisa22
+10718	Ki Tisa22
+10719	Ki Tisa22
+10720	Ki Tisa22
+10721	Ki Tisa22
+10722	Ki Tisa22
+10723	Ki Tisa22
+10724	Ki Tisa22
+10725	Ki Tisa22
+10726	Ki Tisa22
+10727	Ki Tisa22
+10728	Ki Tisa22
+10729	Ki Tisa22
+10730	Ki Tisa22
+10731	Ki Tisa22
+10732	Ki Tisa22
+10733	Ki Tisa22
+10734	Ki Tisa22
+10735	Ki Tisa22
+10736	Ki Tisa22
+10737	Ki Tisa22
+10738	Ki Tisa22
+10739	Ki Tisa22
+10740	Ki Tisa22
+10741	Ki Tisa22
+10742	Ki Tisa22
+10743	Ki Tisa22
+10744	Ki Tisa22
+10745	Ki Tisa22
+10746	Ki Tisa22
+10747	Ki Tisa22
+10748	Ki Tisa22
+10749	Ki Tisa22
+10750	Ki Tisa22
+10751	Ki Tisa22
+10752	Ki Tisa22
+10753	Ki Tisa22
+10754	Ki Tisa22
+10755	Ki Tisa22
+10756	Ki Tisa22
+10757	Ki Tisa22
+10758	Ki Tisa22
+10759	Ki Tisa22
+10760	Ki Tisa22
+10761	Ki Tisa22
+10762	Ki Tisa22
+10763	Ki Tisa22
+10764	Ki Tisa22
+10765	Ki Tisa22
+10766	Ki Tisa22
+10767	Ki Tisa22
+10768	Ki Tisa22
+10769	Ki Tisa22
+10770	Ki Tisa22
+10771	Ki Tisa22
+10772	Ki Tisa22
+10773	Ki Tisa22
+10774	Ki Tisa22
+10775	Ki Tisa22
+10776	Ki Tisa22
+10777	Ki Tisa22
+10778	Ki Tisa22
+10779	Ki Tisa22
+10780	Ki Tisa22
+10781	Ki Tisa22
+10782	Ki Tisa22
+10783	Ki Tisa22
+10784	Ki Tisa22
+10785	Ki Tisa22
+10786	Ki Tisa22
+10787	Ki Tisa22
+10788	Ki Tisa22
+10789	Ki Tisa22
+10790	Ki Tisa22
+10791	Ki Tisa22
+10792	Ki Tisa22
+10793	Ki Tisa22
+10794	Ki Tisa22
+10795	Ki Tisa22
+10796	Ki Tisa22
+10797	Ki Tisa22
+10798	Ki Tisa22
+10799	Ki Tisa22
+10800	Ki Tisa22
+10801	Ki Tisa22
+10802	Ki Tisa22
+10803	Ki Tisa22
+10804	Ki Tisa22
+10805	Ki Tisa22
+10806	Ki Tisa22
+10807	Ki Tisa22
+10808	Ki Tisa22
+10809	Ki Tisa22
+10810	Ki Tisa22
+10811	Ki Tisa22
+10812	Ki Tisa22
+10813	Ki Tisa22
+10814	Ki Tisa22
+10815	Ki Tisa22
+10816	Ki Tisa22
+10817	Ki Tisa22
+10818	Ki Tisa22
+10819	Ki Tisa22
+10820	Ki Tisa22
+10821	Ki Tisa22
+10822	Ki Tisa22
+10823	Ki Tisa22
+10824	Ki Tisa22
+10825	Ki Tisa22
+10826	Ki Tisa22
+10827	Ki Tisa22
+10828	Ki Tisa22
+10829	Ki Tisa22
+10830	Ki Tisa22
+10831	Ki Tisa22
+10832	Ki Tisa22
+10833	Ki Tisa22
+10834	Ki Tisa22
+10835	Ki Tisa22
+10836	Ki Tisa22
+10837	Ki Tisa22
+10838	Ki Tisa22
+10839	Ki Tisa22
+10840	Ki Tisa22
+10841	Ki Tisa22
+10842	Ki Tisa22
+10843	Ki Tisa22
+10844	Ki Tisa22
+10845	Ki Tisa22
+10846	Ki Tisa22
+10847	Ki Tisa22
+10848	Ki Tisa22
+10849	Ki Tisa22
+10850	Ki Tisa22
+10851	Ki Tisa22
+10852	Ki Tisa22
+10853	Ki Tisa22
+10854	Ki Tisa22
+10855	Ki Tisa22
+10856	Ki Tisa22
+10857	Ki Tisa22
+10858	Ki Tisa22
+10859	Ki Tisa22
+10860	Ki Tisa22
+10861	Ki Tisa22
+10862	Ki Tisa22
+10863	Ki Tisa22
+10864	Ki Tisa22
+10865	Ki Tisa22
+10866	Ki Tisa22
+10867	Ki Tisa22
+10868	Ki Tisa22
+10869	Ki Tisa22
+10870	Ki Tisa22
+10871	Ki Tisa22
+10872	Ki Tisa22
+10873	Ki Tisa22
+10874	Ki Tisa22
+10875	Yitro16
+10876	Yitro16
+10877	Yitro16
+10878	Yitro16
+10879	Yitro16
+10880	Yitro16
+10881	Yitro16
+10882	Yitro16
+10883	Yitro16
+10884	Yitro16
+10885	Yitro16
+10886	Yitro16
+10887	Yitro16
+10888	Yitro16
+10889	Yitro16
+10890	Yitro16
+10891	Yitro16
+10892	Yitro16
+10893	Yitro16
+10894	Yitro16
+10895	Yitro16
+10896	Yitro16
+10897	Yitro16
+10898	Yitro16
+10899	Yitro16
+10900	Yitro16
+10901	Yitro16
+10902	Yitro16
+10903	Yitro16
+10904	Yitro16
+10905	Yitro16
+10906	Yitro16
+10907	Yitro16
+10908	Yitro16
+10909	Yitro16
+10910	Yitro16
+10911	Yitro16
+10912	Yitro16
+10913	Yitro16
+10914	Yitro16
+10915	Yitro16
+10916	Yitro16
+10917	Yitro16
+10918	Yitro16
+10919	Yitro16
+10920	Yitro16
+10921	Yitro16
+10922	Yitro16
+10923	Yitro16
+10924	Yitro16
+10925	Yitro16
+10926	Yitro16
+10927	Yitro16
+10928	Yitro16
+10929	Yitro16
+10930	Yitro16
+10931	Yitro16
+10932	Yitro16
+10933	Yitro16
+10934	Yitro16
+10935	Yitro16
+10936	Yitro16
+10937	Yitro16
+10938	Yitro16
+10939	Yitro16
+10940	Yitro16
+10941	Yitro16
+10942	Yitro16
+10943	Yitro16
+10944	Yitro16
+10945	Yitro16
+10946	Yitro16
+10947	Yitro16
+10948	Yitro16
+10949	Yitro16
+10950	Yitro16
+10951	Yitro16
+10952	Yitro16
+10953	Yitro16
+10954	Yitro16
+10955	Yitro16
+10956	Yitro16
+10957	Yitro16
+10958	Yitro16
+10959	Yitro16
+10960	Yitro16
+10961	Yitro16
+10962	Yitro16
+10963	Yitro16
+10964	Yitro16
+10965	Yitro16
+10966	Yitro16
+10967	Yitro16
+10968	Yitro16
+10969	Yitro16
+10970	Yitro16
+10971	Yitro16
+10972	Yitro16
+10973	Yitro16
+10974	Yitro16
+10975	Yitro16
+10976	Yitro16
+10977	Yitro16
+10978	Yitro16
+10979	Yitro16
+10980	Yitro16
+10981	Yitro16
+10982	Yitro16
+10983	Yitro16
+10984	Yitro16
+10985	Yitro16
+10986	Yitro16
+10987	Yitro16
+10988	Yitro16
+10989	Yitro16
+10990	Yitro16
+10991	Yitro16
+10992	Yitro16
+10993	Yitro16
+10994	Yitro16
+10995	Yitro16
+10996	Yitro16
+10997	Yitro16
+10998	Yitro16
+10999	Yitro16
+11000	Yitro16
+11001	Yitro16
+11002	Yitro16
+11003	Yitro16
+11004	Yitro16
+11005	Yitro16
+11006	Yitro16
+11007	Yitro16
+11008	Yitro16
+11009	Yitro16
+11010	Yitro16
+11011	Yitro16
+11012	Yitro16
+11013	Yitro16
+11014	Yitro16
+11015	Yitro16
+11016	Yitro16
+11017	Yitro16
+11018	Yitro16
+11019	Yitro16
+11020	Yitro16
+11021	Yitro16
+11022	Yitro16
+11023	Yitro16
+11024	Yitro16
+11025	Yitro16
+11026	Yitro16
+11027	Yitro16
+11028	Yitro16
+11029	Yitro16
+11030	Yitro16
+11031	Yitro16
+11032	Yitro16
+11033	Yitro16
+11034	Yitro16
+11035	Yitro16
+11036	Yitro16
+11037	Yitro16
+11038	Yitro16
+11039	Yitro16
+11040	Yitro16
+11041	Yitro16
+11042	Yitro16
+11043	Yitro16
+11044	Yitro16
+11045	Yitro16
+11046	Yitro16
+11047	Yitro16
+11048	Yitro16
+11049	Yitro16
+11050	Yitro16
+11051	Yitro16
+11052	Yitro16
+11053	Yitro16
+11054	Yitro16
+11055	Yitro16
+11056	Yitro16
+11057	Yitro16
+11058	Yitro16
+11059	Yitro16
+11060	Yitro16
+11061	Yitro16
+11062	Yitro16
+11063	Yitro16
+11064	Yitro16
+11065	Yitro16
+11066	Yitro16
+11067	Yitro16
+11068	Yitro16
+11069	Yitro16
+11070	Yitro16
+11071	Yitro16
+11072	Yitro16
+11073	Yitro16
+11074	Yitro16
+11075	Yitro16
+11076	Yitro16
+11077	Yitro16
+11078	Yitro16
+11079	Yitro16
+11080	Yitro16
+11081	Yitro16
+11082	Yitro16
+11083	Yitro16
+11084	Yitro16
+11085	Yitro16
+11086	Yitro16
+11087	Yitro16
+11088	Yitro16
+11089	Yitro16
+11090	Yitro16
+11091	Yitro16
+11092	Yitro16
+11093	Yitro16
+11094	Yitro16
+11095	Yitro16
+11096	Yitro16
+11097	Yitro16
+11098	Yitro16
+11099	Yitro16
+11100	Yitro16
+11101	Yitro16
+11102	Yitro16
+11103	Yitro16
+11104	Yitro16
+11105	Yitro16
+11106	Yitro16
+11107	Yitro16
+11108	Yitro16
+11109	Yitro16
+11110	Yitro16
+11111	Yitro16
+11112	Yitro16
+11113	Yitro16
+11114	Yitro16
+11115	Yitro16
+11116	Yitro16
+11117	Yitro16
+11118	Yitro16
+11119	Yitro16
+11120	Yitro16
+11121	Yitro16
+11122	Yitro16
+11123	Yitro16
+11124	Yitro16
+11125	Yitro16
+11126	Yitro16
+11127	Yitro16
+11128	Yitro16
+11129	Yitro16
+11130	Yitro16
+11131	Yitro16
+11132	Yitro16
+11133	Yitro16
+11134	Yitro16
+11135	Yitro16
+11136	Yitro16
+11137	Yitro16
+11138	Yitro16
+11139	Yitro16
+11140	Yitro16
+11141	Yitro16
+11142	Yitro16
+11143	Yitro16
+11144	Yitro16
+11145	Yitro16
+11146	Yitro16
+11147	Yitro16
+11148	Yitro16
+11149	Yitro16
+11150	Yitro16
+11151	Yitro16
+11152	Yitro16
+11153	Yitro16
+11154	Yitro16
+11155	Yitro16
+11156	Yitro16
+11157	Yitro16
+11158	Yitro16
+11159	Yitro16
+11160	Yitro16
+11161	Yitro16
+11162	Yitro16
+11163	Yitro16
+11164	Yitro16
+11165	Yitro16
+11166	Yitro16
+11167	Yitro16
+11168	Yitro16
+11169	Yitro16
+11170	Yitro16
+11171	Yitro16
+11172	Yitro16
+11173	Yitro16
+11174	Yitro16
+11175	Yitro16
+11176	Yitro16
+11177	Yitro16
+11178	Yitro16
+11179	Yitro16
+11180	Yitro16
+11181	Yitro16
+11182	Yitro16
+11183	Yitro16
+11184	Yitro16
+11185	Yitro16
+11186	Yitro16
+11187	Yitro16
+11188	Yitro16
+11189	Yitro16
+11190	Yitro16
+11191	Yitro16
+11192	Yitro16
+11193	Yitro16
+11194	Yitro16
+11195	Yitro16
+11196	Yitro16
+11197	Yitro16
+11198	Yitro16
+11199	Yitro16
+11200	Yitro16
+11201	Yitro16
+11202	Yitro16
+11203	Yitro16
+11204	Yitro16
+11205	Yitro16
+11206	Yitro16
+11207	Yitro16
+11208	Yitro16
+11209	Yitro16
+11210	Yitro16
+11211	Yitro16
+11212	Yitro16
+11213	Yitro16
+11214	Yitro16
+11215	Yitro16

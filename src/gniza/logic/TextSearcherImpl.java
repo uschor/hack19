@@ -50,7 +50,7 @@ public class TextSearcherImpl implements TextSearcher
             String[] nextWords = NextWords(tokens, i);
             List<SearchResult> currentResult = null;
 			try {
-				currentResult = wordsSearcher.Search(tokens.size(), nextWords);
+				currentResult = wordsSearcher.Search(nextWords);
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();

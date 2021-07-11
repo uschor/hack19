@@ -8,6 +8,7 @@
 </listAttribute>
 <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_START_ON_FIRST_THREAD" value="true"/>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.apache.lucene.demo.IndexFiles"/>
+<stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="hack19"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-index index -docs search/"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="hack19"/>
 </launchConfiguration>
