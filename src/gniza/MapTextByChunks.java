@@ -163,7 +163,8 @@ public class MapTextByChunks {
 		Pattern excludePattern = Pattern.compile("\\[.*?\\]|\\p{Punct}|'|˙");
 		
 //		String file = "input_texts/london_sample.txt";
-		String file = "input_texts/london_or_1389.txt";
+//		String file = "input_texts/london_or_1389.txt";
+		String file = "input_texts/jlm.txt";
 
 		Pattern pattern = Pattern.compile("(^\\w+\\.\\w+)\\..*");
 		

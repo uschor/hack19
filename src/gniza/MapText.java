@@ -15,8 +15,8 @@ public class MapText {
 	private static final int MAX_EDITS = 2;
 	private static final int SLOP = 2;
 	private static final int SEARCH_HISTORY = 15;
-//	private static final String INDEX_DIR = "london_index";
-	private static final String INDEX_DIR = "sefaria_index";
+	private static final String INDEX_DIR = "london_index";
+//	private static final String INDEX_DIR = "sefaria_index";
 //	private static final String INDEX_DIR = "joint_index";
 //	private static final String INDEX_DIR = "tanhuma_index";
 	
@@ -39,7 +39,8 @@ public class MapText {
 //		String file = "input_texts/tanhuma_buber.txt";
 //		String file = "input_texts/geneva_146_aggregated.txt";
 //		String file = "input_texts/geneva_146_pp6-44_ET_no_period.txt";
-		String file = "input_texts/london_sample.txt";
+//		String file = "input_texts/london_sample.txt";
+		String file = "input_texts/jlm.txt";
 //		String file = "input_texts/london_or_1389.txt";
 //		String file = "input_texts/parma3122_buber.txt";
 //		String file = "geneva_146.txt";
