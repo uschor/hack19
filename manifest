@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: gniza.MapText
+Class-Path: . ext-jars/commons-cli-1.5.0.jar ext-jars/lucene-analyzers-common-8.1.0.jar ext-jars/lucene-core-8.1.0.jar sext-jars/lucene-queryparser-8.1.0.jar
+Created-By: 1.6.0-internal (Sun Microsystems Inc.)

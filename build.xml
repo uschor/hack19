@@ -1,0 +1,18 @@
+<project name="jumps" default="create-rwfs-jar" basedir=".">
+	<description>
+        Jumps build Ant file
+    </description>
+	<!-- set global properties for this build -->
+	<property name="src" location="bin" />
+	<property name="jarfile" location="build/rwfs.jar"/>
+
+	<target name="create-rwfs-jar" description="generate the jar for M2R">
+		<delete file="${m2r_jarfile}">
+		</delete>
+
+		<jar jarfile="${jarfile}"  manifest="manifest">
+			<fileset dir="${src}" />
+		</jar>
+	</target>
+</project>
+
